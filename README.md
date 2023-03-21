@@ -1,8 +1,6 @@
 # Awsome Gesture Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Python frameworks, libraries, software and resources.
-
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+A curated list of Awesome Gesture Generation resources.
 
 - [Awesome Python](#awesome-python)
     - [Admin Panels](#admin-panels)
@@ -74,27 +72,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [RESTful API](#restful-api)
     - [Robotics](#robotics)
     - [RPC Servers](#rpc-servers)
-    - [Science](#science)
-    - [Search](#search)
-    - [Serialization](#serialization)
-    - [Serverless Frameworks](#serverless-frameworks)
-    - [Shell](#shell)
-    - [Specific Formats Processing](#specific-formats-processing)
-    - [Static Site Generator](#static-site-generator)
-    - [Tagging](#tagging)
-    - [Task Queues](#task-queues)
-    - [Template Engine](#template-engine)
-    - [Testing](#testing)
-    - [Text Processing](#text-processing)
-    - [Third-party APIs](#third-party-apis)
-    - [URL Manipulation](#url-manipulation)
-    - [Video](#video)
-    - [Web Asset Management](#web-asset-management)
-    - [Web Content Extracting](#web-content-extracting)
-    - [Web Crawling](#web-crawling)
-    - [Web Frameworks](#web-frameworks)
-    - [WebSocket](#websocket)
-    - [WSGI Servers](#wsgi-servers)
 - [Resources](#resources)
     - [Books](#books)
     - [Newsletters](#newsletters)
