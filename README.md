@@ -20,6 +20,15 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 ---
 
+## <a name="survey">Survey</a>
+
+## <a name="papers">Papers</a>
+
+
+## <a name="talks">Talks</a>
+
+
+
 ## <a name="algorithms-and-design-patterns">Algorithms and Design Patterns</a>
 
 _Gesture_Generation implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)._
