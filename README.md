@@ -22,21 +22,31 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 ## <a name="survey">Survey</a>
 
+<details open>
+<summary>Comprehensive preview</summary>
 
+- [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) | [github](https://github.com/google/mipnerf)
+
+</details>
+
+<details open>
+<summary>GENEA Challenge</summary>
+
+- [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://arxiv.org/abs/2208.10441) | [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) | [video](https://www.youtube.com/watch?v=4n02wXGGnd0)
+</details>
 
 ## <a name="papers">Papers</a>
 
 <details open>
-<summary>Multi-scale</summary>
+<summary>Base-paper</summary>
 
 - [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf) | [bibtex](./citations/mipnerf.txt)
-- [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://jonbarron.info/mipnerf360/), Barron et al., Arxiv 2022 | [bibtex](./citations/mip-nerf-360.txt)
 </details>
 
 <details open>
-<summary>Model Reconstruction</summary>
+<summary>Model</summary>
 
-- [UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://arxiv.org/abs/2104.10078), Oechsle et al., ICCV 2021 | [bibtex](./citations/unisurf.txt)
+- [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078), Oechsle et al., ICCV 2021 | [bibtex](./citations/unisurf.txt)
 - [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/abs/2106.10689), Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS) | [bibtex](./citations/neus.txt)
 - [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/abs/2106.12052), Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon) | [bibtex](./citations/volsdf.txt)
 </details>
