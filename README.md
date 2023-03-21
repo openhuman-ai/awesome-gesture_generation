@@ -1,10 +1,10 @@
-# Awsome Gesture Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Gesture Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of Awesome Gesture Generation resources inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
+A curated list of Awesome **Gesture Generation** resources inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
 ## Table of Contents
 
-- [Survey](#survey) 
+- [Survey](#survey)
 - [Papers](#papers)
 - [Talks](#talks)
 - [Awesome Gesture_Generation](#awesome-gesture_generation)
@@ -18,12 +18,9 @@ A curated list of Awesome Gesture Generation resources inspired by [awesome-NeRF
   - [Websites](#websites)
 - [Contributing](#contributing)
 
-
-
-
 ---
 
-## Algorithms and Design Patterns
+## <a name="algorithms-and-design-patterns">Algorithms and Design Patterns</a>
 
 _Gesture_Generation implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)._
 
@@ -88,7 +85,6 @@ Where to discover learning resources or new Gesture_Generation libraries.
 - [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://jonbarron.info/mipnerf360/), Barron et al., Arxiv 2022 | [bibtex](./citations/mip-nerf-360.txt)
 </details>
 
-
 <details open>
 <summary>Model Reconstruction</summary>
 
@@ -97,13 +93,11 @@ Where to discover learning resources or new Gesture_Generation libraries.
 - [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/abs/2106.12052), Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon) | [bibtex](./citations/volsdf.txt)
 </details>
 
-
 <details open>
 <summary>Depth Estimation</summary>
 
 - [NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](https://weiyithu.github.io/NerfingMVS/), Wei et al., ICCV 2021 | [bibtex](./citations/NerfingMVS.txt)
 </details>
-
 
 <details open>
 <summary>Robotics</summary>
@@ -112,12 +106,8 @@ Where to discover learning resources or new Gesture_Generation libraries.
 - [Vision-Only Robot Navigation in a Neural Radiance World](https://arxiv.org/abs/2110.00168), Adamkiewicz et al., RA-L 2022 Vol.7 No.2 | [bibtex](./citations/vision-only.txt)
 </details>
 
-
-
-
-
-
 ## Talks
+
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.youtube.com/watch?v=LCTYRqW-ne8&t=10190s), Ben Mildenhall
 - [Understanding and Extending Neural Radiance Fields](https://www.youtube.com/watch?v=nRyOzHpcr4Q&feature=emb_logo&ab_channel=cvprtum), Barron et al.
 - [Towards Photorealism (2nd half)](https://youtu.be/Rd0nBO6--bM?t=1992), Vladlen Koltun
