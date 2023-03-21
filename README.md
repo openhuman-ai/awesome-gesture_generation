@@ -1,16 +1,25 @@
 # Awsome Gesture Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of Awesome Gesture Generation resources.
+A curated list of Awesome Gesture Generation resources inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
+## Table of Contents
+
+- [Survey](#survey) 
+- [Papers](#papers)
+- [Talks](#talks)
 - [Awesome Gesture_Generation](#awesome-gesture_generation)
   - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
   - [Audio](#audio)
+- [Implementations](#implementations)
 - [Resources](#resources)
   - [Books](#books)
   - [Newsletters](#newsletters)
   - [Podcasts](#podcasts)
   - [Websites](#websites)
 - [Contributing](#contributing)
+
+
+
 
 ---
 
@@ -72,21 +81,63 @@ Where to discover learning resources or new Gesture_Generation libraries.
   - [gesture_generationic News](https://news.Gesture_Generation.sc/)
   - [What the f\*ck Gesture_Generation!](https://github.com/satwikkansal/wtfGesture_Generation)
 
-## Newsletters
+<details open>
+<summary>Multi-scale</summary>
 
-- [Awesome Gesture_Generation Newsletter](http://Gesture_Generation.libhunt.com/newsletter)
-- [Pycoder's Weekly](http://pycoders.com/)
-- [gesture_generation Tricks](https://realGesture_Generation.com/Gesture_Generation-tricks/)
-- [gesture_generation Weekly](http://www.Gesture_Generationweekly.com/)
+- [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf) | [bibtex](./citations/mipnerf.txt)
+- [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://jonbarron.info/mipnerf360/), Barron et al., Arxiv 2022 | [bibtex](./citations/mip-nerf-360.txt)
+</details>
 
-## Podcasts
 
-- [Django Chat](https://djangochat.com/)
-- [Podcast.\_\_init\_\_](https://podcastinit.com/)
-- [gesture_generation Bytes](https://Gesture_Generationbytes.fm)
-- [Running in Production](https://runninginproduction.com/)
-- [Talk Gesture_Generation To Me](https://talkGesture_Generation.fm/)
-- [Test and Code](https://testandcode.com/)
-- [The Real Gesture_Generation Podcast](https://realGesture_Generation.com/podcasts/rpp/)
+<details open>
+<summary>Model Reconstruction</summary>
+
+- [UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://arxiv.org/abs/2104.10078), Oechsle et al., ICCV 2021 | [bibtex](./citations/unisurf.txt)
+- [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/abs/2106.10689), Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS) | [bibtex](./citations/neus.txt)
+- [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/abs/2106.12052), Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon) | [bibtex](./citations/volsdf.txt)
+</details>
+
+
+<details open>
+<summary>Depth Estimation</summary>
+
+- [NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](https://weiyithu.github.io/NerfingMVS/), Wei et al., ICCV 2021 | [bibtex](./citations/NerfingMVS.txt)
+</details>
+
+
+<details open>
+<summary>Robotics</summary>
+
+- [3D Neural Scene Representations for Visuomotor Control](https://3d-representation-learning.github.io/nerf-dy/), Li et al., CoRL 2021 Oral | [bibtex](./citations/nerf-dy.txt)
+- [Vision-Only Robot Navigation in a Neural Radiance World](https://arxiv.org/abs/2110.00168), Adamkiewicz et al., RA-L 2022 Vol.7 No.2 | [bibtex](./citations/vision-only.txt)
+</details>
+
+
+
+
+
+
+## Talks
+- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.youtube.com/watch?v=LCTYRqW-ne8&t=10190s), Ben Mildenhall
+- [Understanding and Extending Neural Radiance Fields](https://www.youtube.com/watch?v=nRyOzHpcr4Q&feature=emb_logo&ab_channel=cvprtum), Barron et al.
+- [Towards Photorealism (2nd half)](https://youtu.be/Rd0nBO6--bM?t=1992), Vladlen Koltun
+- [Neural Radiance Fields for View Synthesis](https://www.youtube.com/watch?v=dPWLybp4LL0), Matthew Tancik
 
 # Contributing
+
+## Implementations
+
+#### Tensorflow
+
+- [NeRF](https://github.com/bmild/nerf), Mildenhall et al., 2020 | [bibtex](./NeRF-and-Beyond.bib#L168-L173)
+- [Nerual-Radiance-Fields](https://www.kaggle.com/code/ritzraha/nerual-radiance-fields), [@ariG23498](https://twitter.com/ariG23498), [@ritwik_raha](https://twitter.com/ritwik_raha), 2022
+
+#### PyTorch
+
+- [NeRF-PyTorch](https://github.com/yenchenlin/nerf-pytorch), Yen-Chen Lin, 2020 | [bibtex](./citations/pytorch-nerf.txt)
+- [NeRF-PyTorch-Lighting](https://github.com/kwea123/nerf_pl), [@kwea123](https://github.com/kwea123), 2020
+- [NeRF-W](https://github.com/kwea123/nerf_pl/tree/nerfw), [@kwea123](https://github.com/kwea123), 2021
+
+## License
+
+MIT
