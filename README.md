@@ -36,7 +36,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 - [GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents](https://dl.acm.org/doi/10.1145/3462244.3480983) | [homepage](https://genea-workshop.github.io/2021/)
 
-- [A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020](https://arxiv.org/abs/2102.11617) | [homepage](https://svito-zar.github.io/GENEAchallenge2020/) | [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) | [github](https://github.com/Svito-zar/genea_numerical_evaluations)
+- [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) | [homepage](https://svito-zar.github.io/GENEAchallenge2020/) | [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) | [github](https://github.com/Svito-zar/genea_numerical_evaluations)
 </details>
 
 ## <a name="papers">Papers</a>
@@ -48,7 +48,9 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 </details>
 
 <details open>
-<summary>Model</summary>
+<summary>GENEA Challenge</summary>
+
+2022
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078), Oechsle et al., ICCV 2021 | [bibtex](./citations/unisurf.txt)
 - [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/abs/2106.10689), Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS) | [bibtex](./citations/neus.txt)
