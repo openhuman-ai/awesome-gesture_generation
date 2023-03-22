@@ -60,16 +60,26 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
 
-- [Reconstruction](https://arxiv.org/abs/2106.10689) | [github](https://github.com/Totoro97/NeuS)
+- []() | [github]()
 </details>
 <!-- ************************* GENEA Challenge ************************* -->
+
+<!-- ************************* 2023 ************************* -->
+<details open>
+<summary>2023</summary>
+
+- [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) | [github](https://github.com/google/mipnerf) | [web](https://www.ea.com/seed/news/genea-challenge-2022)
+- []()
+- []()
+- []()
+</details>
+<!-- ************************* 2023 ************************* -->
 
 <!-- ************************* 2022 ************************* -->
 <details open>
 <summary>2022</summary>
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078)
-image.png
 
 - [ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](https://arxiv.org/abs/2209.07556) | [github](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) | [video](https://www.youtube.com/watch?v=EJPdTtVrxHo)
 
