@@ -252,27 +252,15 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 # Resources
 
-Where to discover learning resources or new Gesture_Generation libraries.
+
 
 ## Books
 
-- [Fluent Gesture_Generation](https://www.oreilly.com/library/view/fluent-Gesture_Generation/9781491946237/)
-- [Think Gesture_Generation](https://greenteapress.com/wp/think-Gesture_Generation-2e/)
+- []()
 
 ## Websites
 
-- Tutorials
-  - [Full Stack Gesture_Generation](https://www.fullstackGesture_Generation.com/)
-  - [gesture_generation Cheatsheet](https://www.Gesture_Generationcheatsheet.org/)
-  - [Real Gesture_Generation](https://realGesture_Generation.com)
-  - [The Hitchhiker’s Guide to Gesture_Generation](https://docs.Gesture_Generation-guide.org/)
-  - [Ultimate Gesture_Generation study guide](https://github.com/huangsam/ultimate-Gesture_Generation)
-- Libraries
-  - [Awesome Gesture_Generation @LibHunt](https://Gesture_Generation.libhunt.com/)
-- Others
-  - [gesture_generation ZEEF](https://Gesture_Generation.zeef.com/alan.richmond)
-  - [gesture_generationic News](https://news.Gesture_Generation.sc/)
-  - [What the f\*ck Gesture_Generation!](https://github.com/satwikkansal/wtfGesture_Generation)
+- []()
 
 ## Talks
 
