@@ -6,17 +6,19 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 - [1. Survey](#survey)
 - [2. Papers](#papers)
+  - [Fundamental Paper](#fundamental)
+  - [GENEA Challenge](#genea)
+  - [2023](#2023)
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
 - [3. Dataset](#dataset)
 - [4. Toolkit](#toolkit)
 - [5. Talks](#talks)
-  - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
-  - [Audio](#audio)
 - [5. Implementations](#implementations)
 - [6. Resources](#resources)
-  - [Books](#books)
-  - [Newsletters](#newsletters)
-  - [Podcasts](#podcasts)
-  - [Websites](#websites)
 - [Contributing](#contributing)
 
 ---
@@ -48,7 +50,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <!-- ************************* Base-paper ************************* -->
 <details open>
-<summary>Base-paper</summary>
+<summary><a name="fundamental">Fundamental Paper</a></summary>
 
 - []()
 </details>
@@ -58,9 +60,9 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <!-- ************************* GENEA Challenge ************************* -->
 <details open>
-<summary>GENEA Challenge</summary>
+<summary><a name="genea">GENEA Challenge</a></summary>
 
-**2023 - Accepted papers****
+**2023 - Accepted papers\*\***
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
 
@@ -160,7 +162,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 - [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows]() | [video](https://www.youtube.com/watch?v=egf3tjbWBQE) | [github](https://github.com/simonalexanderson/StyleGestures)
 
-- [Probabilistic Multi-modal Interlocutor-awa*re Generation of Facial Gestures in Dyadic Settings](https://arxiv.org/abs/2006.09888) | [video](https://www.youtube.com/watch?v=RhazMS4L_bk) | [homepage](https://jonepatr.github.io/lets_face_it/)
+- [Probabilistic Multi-modal Interlocutor-awa\*re Generation of Facial Gestures in Dyadic Settings](https://arxiv.org/abs/2006.09888) | [video](https://www.youtube.com/watch?v=RhazMS4L_bk) | [homepage](https://jonepatr.github.io/lets_face_it/)
 
 - [Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents](https://arxiv.org/pdf/2009.10760.pdf)
 
