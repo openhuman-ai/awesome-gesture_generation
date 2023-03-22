@@ -211,7 +211,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <!-- ************************* <2017 ************************* -->
 <details open>
-<summary><2017</summary>
+<summary><a name="2017"><2017</a></summary>
 
 - []()
 </details>
