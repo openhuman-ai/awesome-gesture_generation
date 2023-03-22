@@ -21,7 +21,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 ---
 
-- PapersWithCode
+**PapersWithCode**
   - Gesture Generation : [https://paperswithcode.com/task/gesture-generation](https://paperswithcode.com/task/gesture-generation)
 
 ## <a name="survey">1. Survey</a>
@@ -29,7 +29,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <details open>
 <summary>Comprehensive preview</summary>
 
-- [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) | [github](https://github.com/google/mipnerf)
+- [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) | [github](https://github.com/google/mipnerf) | [web](https://www.ea.com/seed/news/genea-challenge-2022)
 
 </details>
 
@@ -59,7 +59,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <details open>
 <summary>GENEA Challenge</summary>
 
-- [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078)
+- [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
 
 - [Reconstruction](https://arxiv.org/abs/2106.10689) | [github](https://github.com/Totoro97/NeuS)
 </details>
@@ -71,7 +71,15 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078)
 
-- [NImplicit](https://arxiv.org/abs/2106.10689) | [github](https://github.com/Totoro97/NeuS)
+- [ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](https://arxiv.org/abs/2209.07556) | [github](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) | [video](https://www.youtube.com/watch?v=EJPdTtVrxHo)
+
+- [Voice2Face: Audio-Driven Facial and Tongue Rig Animations](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-sca2022-voice2face-paper.pdf) | [video](https://www.youtube.com/watch?v=R4CWYAQe4Zs) | [web](https://www.ea.com/seed/news/sca22-voice2face-audio-driven-facial-animation)
+
+- [Deep Gesture Generation for Social Robots Using Type-Specific Libraries](https://arxiv.org/abs/2210.06790) | [video](https://www.youtube.com/watch?v=R4CWYAQe4Zs) | [web](https://www.ea.com/seed/news/sca22-voice2face-audio-driven-facial-animation)
+
+- [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
+
+- [Automatic text‐to‐gesture rule generation for embodied conversational agents]() [video](https://www.youtube.com/watch?v=GIxaI9yTmMc)
 </details>
 <!-- ************************* 2022 ************************* -->
 Gesture2Vec
@@ -92,6 +100,11 @@ Gesture2Vec
 <details open>
 <summary>2020</summary>
 
+- [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) |  | [video](https://www.youtube.com/watch?v=VQ8he6jjW08) | [github](https://github.com/Svito-zar/gesticulator) | [homepage](https://svito-zar.github.io/gesticulator/) | [dataset](https://figshare.com/projects/Gesticulator/87128)
+- [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows]() | [video](https://www.youtube.com/watch?v=egf3tjbWBQE) | [github](https://github.com/simonalexanderson/StyleGestures)
+- [Probabilistic Multi-modal Interlocutor-aware Generation of Facial Gestures in Dyadic Settings](https://arxiv.org/abs/2006.09888) | [video](https://www.youtube.com/watch?v=RhazMS4L_bk) | [homepage](https://jonepatr.github.io/lets_face_it/)
+- []()
+- []()
 - []()
 
 </details>
@@ -102,6 +115,9 @@ Gesture2Vec
 <details open>
 <summary>2019</summary>
 
+- [Analyzing Input and Output Representations for Speech-Driven Gesture Generation](https://arxiv.org/abs/1903.03369) | [github](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) | [video](https://www.youtube.com/watch?v=Iv7UBe92zrw) | [video](https://www.youtube.com/watch?v=tQLVyTVtsSU)
+- []()
+- []()
 - []()
 </details>
 <!-- ************************* 2019 ************************* -->
@@ -111,6 +127,7 @@ Gesture2Vec
 <details open>
 <summary>2018</summary>
 
+- [A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture](https://arxiv.org/abs/1803.02665) | [video](https://www.youtube.com/watch?v=mi75gzEhbHI) | [video](https://www.youtube.com/watch?v=MFdFqxCNhN0) | [github](https://github.com/Svito-zar/NN-for-Missing-Marker-Reconstruction)
 - []()
 </details>
 <!-- ************************* 2018 ************************* -->
@@ -123,6 +140,17 @@ Gesture2Vec
 - []()
 </details>
 <!-- ************************* <2017 ************************* -->
+
+
+<!-- ************************* Others ************************* -->
+<details open>
+<summary>Others</summary>
+
+- [Rig Inversion by Training a Differentiable Rig Function](https://arxiv.org/abs/2301.09567) | [video](https://www.youtube.com/watch?v=sYCz9LGIkuI)
+</details>
+<!-- ************************* Others ************************* -->
+
+
 
 
 ## <a name="talks">Talks</a>
@@ -158,10 +186,8 @@ Where to discover learning resources or new Gesture_Generation libraries.
 
 ## Talks
 
-- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.youtube.com/watch?v=LCTYRqW-ne8&t=10190s), Ben Mildenhall
-- [Understanding and Extending Neural Radiance Fields](https://www.youtube.com/watch?v=nRyOzHpcr4Q&feature=emb_logo&ab_channel=cvprtum), Barron et al.
-- [Towards Photorealism (2nd half)](https://youtu.be/Rd0nBO6--bM?t=1992), Vladlen Koltun
-- [Neural Radiance Fields for View Synthesis](https://www.youtube.com/watch?v=dPWLybp4LL0), Matthew Tancik
+- [GDC 2020 - Machine Learning, Physics Simulation, Kolmogorov Complexity, and Squishy Bunnies](https://www.youtube.com/watch?v=sUb0W5_waRI)
+- []()
 
 # Contributing
 
