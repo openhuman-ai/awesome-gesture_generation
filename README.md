@@ -19,8 +19,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - [3. Dataset](#dataset)
 - [4. Toolkit](#toolkit)
 - [5. Talks](#talks)
-- [5. Implementations](#implementations)
-- [6. Resources](#resources)
+- [6. Code](#implementations)
 - [Contributing](#contributing)
 
 ---
@@ -140,18 +139,13 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <summary><a name="2022">2022</a></summary>
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078)
-
 - [ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](https://arxiv.org/abs/2209.07556) | [github](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) | [video](https://www.youtube.com/watch?v=EJPdTtVrxHo)
-
 - [Voice2Face: Audio-Driven Facial and Tongue Rig Animations](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-sca2022-voice2face-paper.pdf) | [video](https://www.youtube.com/watch?v=R4CWYAQe4Zs) | [web](https://www.ea.com/seed/news/sca22-voice2face-audio-driven-facial-animation)
-
 - [Deep Gesture Generation for Social Robots Using Type-Specific Libraries](https://arxiv.org/abs/2210.06790) | [video](https://www.youtube.com/watch?v=R4CWYAQe4Zs) | [web](https://www.ea.com/seed/news/sca22-voice2face-audio-driven-facial-animation)
-
 - [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
-
 - [Automatic text‐to‐gesture rule generation for embodied conversational agents](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1944) [video](https://www.youtube.com/watch?v=GIxaI9yTmMc)
-
 - [Gesture2Vec: Clustering Gestures using Representation Learning Methods for Co-speech Gesture Generation](https://sfumars.com/wp-content/papers/2022_iros_gesture2vec.pdf) [github](https://github.com/pjyazdian/Gesture2Vec) | [video](https://www.youtube.com/watch?v=ac8jWk4fdCU) | [video](https://www.youtube.com/watch?v=qFObMpOboCg)
+
 </details>
 <!-- ************************* 2022 ************************* -->
 
@@ -162,17 +156,11 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <summary><a name="2021">2021</a></summary>
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents](https://dl.acm.org/doi/abs/10.1145/3514197.3549697)
-
 - [Multimodal analysis of the predictability of hand-gesture properties](https://arxiv.org/abs/2108.05762)
-
 - [Deep Gesture Generation for Social Robots Using Type-Specific Libraries](https://arxiv.org/abs/2210.06790)
-
 - [A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents](https://arxiv.org/abs/2102.12302) | [video] (https://www.youtube.com/watch?v=jhgUBS0125A) | [homepage](https://nagyrajmund.github.io/project/gesturebot/) | [github](https://github.com/nagyrajmund/gesturebot)
-
 - [Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech](https://arxiv.org/abs/2106.14736) | [homepage](https://svito-zar.github.io/speech2properties2gestures/)
-
 - [Moving Fast and Slow: Analysis of Representations and Post-Processing in Speech-Driven Automatic Gesture Generation](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1883883)
-
 - []()
 - []()
 - []()
@@ -186,17 +174,11 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <summary><a name="2020">2020</a></summary>
 
 - [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) | [homepage](https://svito-zar.github.io/GENEAchallenge2020/) | [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) | [video](https://www.youtube.com/watch?v=Y-5dgBQk34c) | [github](https://github.com/Svito-zar/genea_numerical_evaluations)
-
 - [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) | | [video](https://www.youtube.com/watch?v=VQ8he6jjW08) | [github](https://github.com/Svito-zar/gesticulator) | [homepage](https://svito-zar.github.io/gesticulator/) | [dataset](https://figshare.com/projects/Gesticulator/87128)
-
 - [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows]() | [video](https://www.youtube.com/watch?v=egf3tjbWBQE) | [github](https://github.com/simonalexanderson/StyleGestures)
-
 - [Probabilistic Multi-modal Interlocutor-awa\*re Generation of Facial Gestures in Dyadic Settings](https://arxiv.org/abs/2006.09888) | [video](https://www.youtube.com/watch?v=RhazMS4L_bk) | [homepage](https://jonepatr.github.io/lets_face_it/)
-
 - [Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents](https://arxiv.org/pdf/2009.10760.pdf)
-
 - []()
-
 - []()
 
 </details>  
@@ -209,12 +191,10 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <summary><a name="2019">2019</a></summary>
 
 - [Analyzing Input and Output Representations for Speech-Driven Gesture Generation](https://arxiv.org/abs/1903.03369) | [github](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) | [video](https://www.youtube.com/watch?v=Iv7UBe92zrw) | [video](https://www.youtube.com/watch?v=tQLVyTVtsSU) | [homepage](https://svito-zar.github.io/audio2gestures/)
-
 - [On the Importance of Representations for Speech-Driven Gesture Generation](https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2072.pdf)
-
+- []()
 - []()
 
-- []()
 </details>
 <!-- ************************* 2019 ************************* -->
 
@@ -225,9 +205,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <summary><a name="2018">2018</a></summary>
 
 - [A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture](https://arxiv.org/abs/1803.02665) | [video](https://www.youtube.com/watch?v=mi75gzEhbHI) | [video](https://www.youtube.com/watch?v=MFdFqxCNhN0) | [github](https://github.com/Svito-zar/NN-for-Missing-Marker-Reconstruction)
-
 - [Data Driven Non-Verbal Behavior Generation for Humanoid Robots](https://dl.acm.org/doi/10.1145/3242969.3264970)
-
 - [A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture](https://www.researchgate.net/publication/323626902_A_Neural_Network_Approach_to_Missing_Marker_Reconstruction_in_Human_Motion_Capture) | [github](https://github.com/Svito-zar/NN-for-Missing-Marker-Reconstruction) | [video](https://www.youtube.com/watch?v=mi75gzEhbHI)
 
 - []()
