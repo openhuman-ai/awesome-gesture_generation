@@ -41,70 +41,74 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 ## <a name="papers">Papers</a>
 
+<!-- ************************* Base-paper ************************* -->
 <details open>
 <summary>Base-paper</summary>
 
-- [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf) | [bibtex](./citations/mipnerf.txt)
+- [Mip-NeRF:](https://jonbarron.info/mipnerf/)
 </details>
+<!-- ************************* Base-paper ************************* -->
 
+
+
+<!-- ************************* GENEA Challenge ************************* -->
 <details open>
 <summary>GENEA Challenge</summary>
 
-2022
+- [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078)
 
-- [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078), Oechsle et al., ICCV 2021 | [bibtex](./citations/unisurf.txt)
-- [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/abs/2106.10689), Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS) | [bibtex](./citations/neus.txt)
-- [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/abs/2106.12052), Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon) | [bibtex](./citations/volsdf.txt)
+- [Reconstruction](https://arxiv.org/abs/2106.10689) | [github](https://github.com/Totoro97/NeuS)
 </details>
+<!-- ************************* GENEA Challenge ************************* -->
 
+<!-- ************************* 2022 ************************* -->
 <details open>
-<summary>Depth Estimation</summary>
+<summary>2022</summary>
 
-- [NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](https://weiyithu.github.io/NerfingMVS/), Wei et al., ICCV 2021 | [bibtex](./citations/NerfingMVS.txt)
+- [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078)
+
+- [NImplicit](https://arxiv.org/abs/2106.10689) | [github](https://github.com/Totoro97/NeuS)
 </details>
+<!-- ************************* 2022 ************************* -->
+Gesture2Vec
 
+<!-- ************************* 2021 ************************* -->
 <details open>
-<summary>Robotics</summary>
+<summary>2021</summary>
 
-- [3D Neural Scene Representations for Visuomotor Control](https://3d-representation-learning.github.io/nerf-dy/), Li et al., CoRL 2021 Oral | [bibtex](./citations/nerf-dy.txt)
-- [Vision-Only Robot Navigation in a Neural Radiance World](https://arxiv.org/abs/2110.00168), Adamkiewicz et al., RA-L 2022 Vol.7 No.2 | [bibtex](./citations/vision-only.txt)
+- [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents](https://dl.acm.org/doi/abs/10.1145/3514197.3549697)
+
+- [Multimodal analysis of the predictability of hand-gesture properties](https://arxiv.org/abs/2108.05762)
+
+- [Deep Gesture Generation for Social Robots Using Type-Specific Libraries](https://arxiv.org/abs/2210.06790)
 </details>
+<!-- ************************* 2021 ************************* -->
+
+<!-- ************************* 2020 ************************* -->
+<details open>
+<summary>2020</summary>
+
+- []()
+
+</details>
+<!-- ************************* 2020 ************************* -->
+
+
+<!-- ************************* 2019 ************************* -->
+<details open>
+<summary>2019</summary>
+
+- []()
+</details>
+<!-- ************************* 2019 ************************* -->
+
 
 ## <a name="talks">Talks</a>
 
-## <a name="algorithms-and-design-patterns">Algorithms and Design Patterns</a>
-
-_Gesture_Generation implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)._
+## <a name="toolkit">Toolkit</a>
 
 - Algorithms
-  - [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
-  - [gesture_generation-ds](https://github.com/prabhupant/Gesture_Generation-ds) - A collection of data structure and algorithms for coding interviews.
-  - [sortedcontainers](https://github.com/grantjenks/Gesture_Generation-sortedcontainers) - Fast and pure-Gesture_Generation implementation of sorted collections.
-  - [TheAlgorithms](https://github.com/TheAlgorithms/Gesture_Generation) - All Algorithms implemented in Gesture_Generation.
-- Design Patterns
-  - [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
-  - [gesture_generation-patterns](https://github.com/faif/Gesture_Generation-patterns) - A collection of design patterns in Gesture_Generation.
-  - [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
-
-## Audio
-
-_Libraries for manipulating audio and its metadata._
-
-- Audio
-  - [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
-  - [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
-  - [kapre](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
-  - [librosa](https://github.com/librosa/librosa) - Gesture_Generation library for audio and music analysis.
-  - [matchering](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
-  - [mingus](http://bspaans.github.io/Gesture_Generation-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
-  - [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
-  - [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
-  - [TimeSide](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
-- Metadata
-  - [beets](https://github.com/beetbox/beets) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
-  - [eyeD3](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
-  - [mutagen](https://github.com/quodlibet/mutagen) - A Gesture_Generation module to handle audio metadata.
-  - [tinytag](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
+  - [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents](https://github.com/ai4r/SGToolkit) | [homepage](https://uist.acm.org/uist2021/) | [video](https://www.youtube.com/watch?v=qClSOtLiVlc)
 
 # Resources
 
