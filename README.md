@@ -65,9 +65,11 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <summary><a name="genea">GENEA Challenge</a></summary>
 
 **2023 - Accepted papers**
+
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
 
 **2022 - Accepted papers**
+
 - [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
 - [The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3536221.3558060)
 - [Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022 ](https://openreview.net/forum?id=fO_Q4q1dFAA)
@@ -76,9 +78,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - [ReCell: replicating recurrent cell for auto-regressive pose generation](https://openreview.net/forum?id=uX86IlhiHNx)
 - [The ReprGesture entry to the GENEA Challenge 2022](https://openreview.net/forum?id=atWaELmguNj7)
 - [TransGesture: Autoregressive Gesture Generation with RNN-Transducer](https://openreview.net/forum?id=AYMDEx97qPN)
-- [Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation](https://openreview.net/forum?id=-2HZD-e6pX7W)
-
-
+- [Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation](https://openreview.net/forum?id=-2HZD-e6pX7W) | [github](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
 
 **2021 - Accepted papers**
 
@@ -109,6 +109,26 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 ---
 
+<!-- ************************* Kaggle ************************* -->
+<details open>
+<summary><a name="kaggle">**Kaggle Ranking**</a></summary>
+
+**TED Gesture Dataset**
+
+- [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/pdf/2203.13161.pdf) [github](https://github.com/alvinliu0/HA2G) | [video]() | [homepage](https://alvinliu0.github.io/projects/HA2G)
+
+- [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) | [github](https://github.com/aubrey-ao/humanbehavioranimation) | [video](https://www.youtube.com/watch?v=qy2MrNhsoIs)
+
+- [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://arxiv.org/abs/2108.00262v2) [github](https://github.com/UttaranB127/speech2affective_gestures) | [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) | [video](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
+
+- [Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity](https://arxiv.org/abs/2009.02119v1) [github](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) | [github](https://github.com/PantoMatrix/BEAT)
+
+- [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://arxiv.org/abs/2108.00262v2) [github](https://github.com/UttaranB127/speech2affective_gestures)
+</details>
+<!-- ************************* Kaggle ************************* -->
+
+---
+
 <!-- ************************* 2023 ************************* -->
 <details open>
 <summary><a name="2023">2023</a></summary>
@@ -136,7 +156,9 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 - [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
 
-- [Automatic text‐to‐gesture rule generation for embodied conversational agents]() [video](https://www.youtube.com/watch?v=GIxaI9yTmMc)
+- [Automatic text‐to‐gesture rule generation for embodied conversational agents](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1944) [video](https://www.youtube.com/watch?v=GIxaI9yTmMc)
+
+- [Gesture2Vec: Clustering Gestures using Representation Learning Methods for Co-speech Gesture Generation](https://sfumars.com/wp-content/papers/2022_iros_gesture2vec.pdf) [github](https://github.com/pjyazdian/Gesture2Vec) | [video](https://www.youtube.com/watch?v=ac8jWk4fdCU) | [video](https://www.youtube.com/watch?v=qFObMpOboCg)
 </details>
 <!-- ************************* 2022 ************************* -->
 
@@ -250,10 +272,6 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - Algorithms
   - [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents](https://github.com/ai4r/SGToolkit) | [homepage](https://uist.acm.org/uist2021/) | [video](https://www.youtube.com/watch?v=qClSOtLiVlc)
 
-# Resources
-
-
-
 ## Books
 
 - []()
@@ -274,6 +292,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 #### Tensorflow
 
 - []()
+
 #### PyTorch
 
 - []()
