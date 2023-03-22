@@ -22,7 +22,8 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 ---
 
 **PapersWithCode**
-  - Gesture Generation : [https://paperswithcode.com/task/gesture-generation](https://paperswithcode.com/task/gesture-generation)
+
+- Gesture Generation : [https://paperswithcode.com/task/gesture-generation](https://paperswithcode.com/task/gesture-generation)
 
 ## <a name="survey">1. Survey</a>
 
@@ -52,8 +53,6 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - [Mip-NeRF:](https://jonbarron.info/mipnerf/)
 </details>
 <!-- ************************* Base-paper ************************* -->
-
-
 
 <!-- ************************* GENEA Challenge ************************* -->
 <details open>
@@ -93,6 +92,11 @@ Gesture2Vec
 - [Multimodal analysis of the predictability of hand-gesture properties](https://arxiv.org/abs/2108.05762)
 
 - [Deep Gesture Generation for Social Robots Using Type-Specific Libraries](https://arxiv.org/abs/2210.06790)
+
+- [A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents](https://arxiv.org/abs/2102.12302) | [video] (https://www.youtube.com/watch?v=jhgUBS0125A) | [homepage](https://nagyrajmund.github.io/project/gesturebot/) | [github](https://github.com/nagyrajmund/gesturebot)
+
+- []()
+- []()
 </details>
 <!-- ************************* 2021 ************************* -->
 
@@ -100,7 +104,9 @@ Gesture2Vec
 <details open>
 <summary>2020</summary>
 
-- [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) |  | [video](https://www.youtube.com/watch?v=VQ8he6jjW08) | [github](https://github.com/Svito-zar/gesticulator) | [homepage](https://svito-zar.github.io/gesticulator/) | [dataset](https://figshare.com/projects/Gesticulator/87128)
+- [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) | [homepage](https://svito-zar.github.io/GENEAchallenge2020/) | [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) | [github](https://github.com/Svito-zar/genea_numerical_evaluations)
+
+- [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) | | [video](https://www.youtube.com/watch?v=VQ8he6jjW08) | [github](https://github.com/Svito-zar/gesticulator) | [homepage](https://svito-zar.github.io/gesticulator/) | [dataset](https://figshare.com/projects/Gesticulator/87128)
 - [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows]() | [video](https://www.youtube.com/watch?v=egf3tjbWBQE) | [github](https://github.com/simonalexanderson/StyleGestures)
 - [Probabilistic Multi-modal Interlocutor-aware Generation of Facial Gestures in Dyadic Settings](https://arxiv.org/abs/2006.09888) | [video](https://www.youtube.com/watch?v=RhazMS4L_bk) | [homepage](https://jonepatr.github.io/lets_face_it/)
 - []()
@@ -109,7 +115,6 @@ Gesture2Vec
 
 </details>
 <!-- ************************* 2020 ************************* -->
-
 
 <!-- ************************* 2019 ************************* -->
 <details open>
@@ -122,7 +127,6 @@ Gesture2Vec
 </details>
 <!-- ************************* 2019 ************************* -->
 
-
 <!-- ************************* 2018 ************************* -->
 <details open>
 <summary>2018</summary>
@@ -132,7 +136,6 @@ Gesture2Vec
 </details>
 <!-- ************************* 2018 ************************* -->
 
-
 <!-- ************************* <2017 ************************* -->
 <details open>
 <summary><2017</summary>
@@ -141,7 +144,6 @@ Gesture2Vec
 </details>
 <!-- ************************* <2017 ************************* -->
 
-
 <!-- ************************* Others ************************* -->
 <details open>
 <summary>Others</summary>
@@ -149,9 +151,6 @@ Gesture2Vec
 - [Rig Inversion by Training a Differentiable Rig Function](https://arxiv.org/abs/2301.09567) | [video](https://www.youtube.com/watch?v=sYCz9LGIkuI)
 </details>
 <!-- ************************* Others ************************* -->
-
-
-
 
 ## <a name="talks">Talks</a>
 
