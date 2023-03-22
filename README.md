@@ -4,15 +4,15 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 ## Table of Contents
 
-- [Home](#home)
-- [Survey](#survey)
-- [Papers](#papers)
-- [Talks](#talks)
-- [Dataset](#dataset)
+- [1. Survey](#survey)
+- [2. Papers](#papers)
+- [3. Dataset](#dataset)
+- [4. Toolkit](#toolkit)
+- [5. Talks](#talks)
   - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
   - [Audio](#audio)
-- [Implementations](#implementations)
-- [Resources](#resources)
+- [5. Implementations](#implementations)
+- [6. Resources](#resources)
   - [Books](#books)
   - [Newsletters](#newsletters)
   - [Podcasts](#podcasts)
@@ -21,12 +21,10 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 ---
 
-## <a name="home">Home</a>
-
 - PapersWithCode
   - Gesture Generation : [https://paperswithcode.com/task/gesture-generation](https://paperswithcode.com/task/gesture-generation)
 
-## <a name="survey">Survey</a>
+## <a name="survey">1. Survey</a>
 
 <details open>
 <summary>Comprehensive preview</summary>
@@ -45,7 +43,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) | [homepage](https://svito-zar.github.io/GENEAchallenge2020/) | [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) | [github](https://github.com/Svito-zar/genea_numerical_evaluations)
 </details>
 
-## <a name="papers">Papers</a>
+## <a name="papers">2. Papers</a>
 
 <!-- ************************* Base-paper ************************* -->
 <details open>
