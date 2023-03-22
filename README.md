@@ -112,7 +112,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <!-- ************************* 2022 ************************* -->
 <details open>
-<summary><a name="2022">2022</a</summary>
+<summary><a name="2022">2022</a></summary>
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078)
 
