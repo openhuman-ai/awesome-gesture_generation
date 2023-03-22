@@ -50,7 +50,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <details open>
 <summary>Base-paper</summary>
 
-- [Mip-NeRF:](https://jonbarron.info/mipnerf/)
+- [M]()
 </details>
 <!-- ************************* Base-paper ************************* -->
 
@@ -58,7 +58,15 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <details open>
 <summary>GENEA Challenge</summary>
 
+-- 2023
+
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
+
+- 2021 - Accepted papers
+    - [Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN](https://openreview.net/forum?id=ykvm7OLh7B) | [video](https://www.youtube.com/watch?v=PMhjX6cdIPE)
+    - [Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood](https://openreview.net/forum?id=GjjPtEVdSLB)
+    - [Crossmodal clustered contrastive learning: Grounding of spoken language to gesture](https://openreview.net/forum?id=o8CpxaBurZQ) | [github](https://github.com/dondongwon/CC_NCE_GENEA)
+    - [Crossmodal clustered contrastive learning: Grounding of spoken language to gesture](https://openreview.net/forum?id=o8CpxaBurZQ)
 
 - []() | [github]()
 </details>
@@ -128,7 +136,7 @@ Gesture2Vec
 
 - [Probabilistic Multi-modal Interlocutor-awa*re Generation of Facial Gestures in Dyadic Settings](https://arxiv.org/abs/2006.09888) | [video](https://www.youtube.com/watch?v=RhazMS4L_bk) | [homepage](https://jonepatr.github.io/lets_face_it/)
 
-- []()
+- [Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents](https://arxiv.org/pdf/2009.10760.pdf)
 
 - []()
 
@@ -180,6 +188,10 @@ Gesture2Vec
 - [Rig Inversion by Training a Differentiable Rig Function](https://arxiv.org/abs/2301.09567) | [video](https://www.youtube.com/watch?v=sYCz9LGIkuI)
 </details>
 <!-- ************************* Others ************************* -->
+
+## <a name="dataset">Datasets</a>
+
+- [PATS Dataset](https://chahuja.com/pats/)
 
 ## <a name="talks">Talks</a>
 
