@@ -113,17 +113,28 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <details open>
 <summary><a name="kaggle">**Kaggle Ranking**</a></summary>
 
-**TED Gesture Dataset**
+- **TED Gesture Dataset**
 
-- [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/pdf/2203.13161.pdf) [github](https://github.com/alvinliu0/HA2G) | [video]() | [homepage](https://alvinliu0.github.io/projects/HA2G)
+  - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/pdf/2203.13161.pdf) [github](https://github.com/alvinliu0/HA2G) | [video]() | [homepage](https://alvinliu0.github.io/projects/HA2G)
 
-- [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) | [github](https://github.com/aubrey-ao/humanbehavioranimation) | [video](https://www.youtube.com/watch?v=qy2MrNhsoIs)
+  - [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) | [github](https://github.com/aubrey-ao/humanbehavioranimation) | [video](https://www.youtube.com/watch?v=qy2MrNhsoIs)
 
-- [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://arxiv.org/abs/2108.00262v2) [github](https://github.com/UttaranB127/speech2affective_gestures) | [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) | [video](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
+  - [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://arxiv.org/abs/2108.00262v2) [github](https://github.com/UttaranB127/speech2affective_gestures) | [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) | [video](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
 
-- [Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity](https://arxiv.org/abs/2009.02119v1) [github](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) | [github](https://github.com/PantoMatrix/BEAT)
+  - [Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity](https://arxiv.org/abs/2009.02119v1) [github](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) | [github](https://github.com/PantoMatrix/BEAT)
 
-- [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://arxiv.org/abs/2108.00262v2) [github](https://github.com/UttaranB127/speech2affective_gestures)
+  - [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://arxiv.org/abs/2108.00262v2) [github](https://github.com/UttaranB127/speech2affective_gestures)
+
+- **BEAT**
+  - [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://arxiv.org/abs/2203.05297v5) | [github](https://github.com/PantoMatrix/BEAT)
+
+  - [Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity](https://arxiv.org/abs/2009.02119v1) | [github](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
+
+  - [Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders](https://arxiv.org/abs/2108.06720v1)
+
+  - [Learning Individual Styles of Conversational Gesture](https://github.com/amirbar/speech2gesture)
+  
+  - [Robots Learning to Say `No': Prohibition and Rejective Mechanisms in Acquisition of Linguistic Negation](https://arxiv.org/abs/1810.11804v1)
 </details>
 <!-- ************************* Kaggle ************************* -->
 
