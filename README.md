@@ -64,7 +64,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <details open>
 <summary><a name="genea">GENEA Challenge</a></summary>
 
-**2023 - Accepted papers\*\***
+**2023 - Accepted papers**
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
 
