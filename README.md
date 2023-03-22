@@ -53,7 +53,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - []()
 </details>
 <!-- ************************* Base-paper ************************* -->
-
+---
 <!-- ************************* GENEA Challenge ************************* -->
 <details open>
 <summary>GENEA Challenge</summary>
@@ -88,7 +88,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 </details>
 <!-- ************************* GENEA Challenge ************************* -->
-
+---
 <!-- ************************* 2023 ************************* -->
 <details open>
 <summary>2023</summary>
@@ -99,7 +99,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - []()
 </details>
 <!-- ************************* 2023 ************************* -->
-
+---
 <!-- ************************* 2022 ************************* -->
 <details open>
 <summary>2022</summary>
@@ -117,8 +117,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - [Automatic text‐to‐gesture rule generation for embodied conversational agents]() [video](https://www.youtube.com/watch?v=GIxaI9yTmMc)
 </details>
 <!-- ************************* 2022 ************************* -->
-Gesture2Vec
-
+---
 <!-- ************************* 2021 ************************* -->
 <details open>
 <summary>2021</summary>
@@ -140,7 +139,7 @@ Gesture2Vec
 - []()
 </details>
 <!-- ************************* 2021 ************************* -->
-
+---
 <!-- ************************* 2020 ************************* -->
 <details open>
 <summary>2020</summary>
@@ -161,7 +160,7 @@ Gesture2Vec
 
 </details>  
 <!-- ************************* 2020 ************************* -->
-
+---
 <!-- ************************* 2019 ************************* -->
 <details open>
 <summary>2019</summary>
@@ -175,7 +174,7 @@ Gesture2Vec
 - []()
 </details>
 <!-- ************************* 2019 ************************* -->
-
+---
 <!-- ************************* 2018 ************************* -->
 <details open>
 <summary>2018</summary>
@@ -189,7 +188,7 @@ Gesture2Vec
 - []()
 </details>
 <!-- ************************* 2018 ************************* -->
-
+---
 <!-- ************************* <2017 ************************* -->
 <details open>
 <summary><2017</summary>
@@ -197,7 +196,7 @@ Gesture2Vec
 - []()
 </details>
 <!-- ************************* <2017 ************************* -->
-
+---
 <!-- ************************* Others ************************* -->
 <details open>
 <summary>Others</summary>
