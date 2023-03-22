@@ -14,6 +14,8 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
   - [2020](#2020)
   - [2019](#2019)
   - [2018](#2018)
+  - [2017](#2017)
+  - [Others](#others)
 - [3. Dataset](#dataset)
 - [4. Toolkit](#toolkit)
 - [5. Talks](#talks)
@@ -97,7 +99,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <!-- ************************* 2023 ************************* -->
 <details open>
-<summary>2023</summary>
+<summary><a name="2023">2023</a></summary>
 
 - [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) | [github](https://github.com/google/mipnerf) | [web](https://www.ea.com/seed/news/genea-challenge-2022)
 - []()
@@ -110,7 +112,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <!-- ************************* 2022 ************************* -->
 <details open>
-<summary>2022</summary>
+<summary><a name="2022">2022</a</summary>
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078)
 
@@ -130,7 +132,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <!-- ************************* 2021 ************************* -->
 <details open>
-<summary>2021</summary>
+<summary><a name="2021">2021</a></summary>
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents](https://dl.acm.org/doi/abs/10.1145/3514197.3549697)
 
@@ -154,7 +156,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <!-- ************************* 2020 ************************* -->
 <details open>
-<summary>2020</summary>
+<summary><a name="2020">2020</a></summary>
 
 - [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) | [homepage](https://svito-zar.github.io/GENEAchallenge2020/) | [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) | [video](https://www.youtube.com/watch?v=Y-5dgBQk34c) | [github](https://github.com/Svito-zar/genea_numerical_evaluations)
 
@@ -177,7 +179,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <!-- ************************* 2019 ************************* -->
 <details open>
-<summary>2019</summary>
+<summary><a name="2019">2019</a></summary>
 
 - [Analyzing Input and Output Representations for Speech-Driven Gesture Generation](https://arxiv.org/abs/1903.03369) | [github](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) | [video](https://www.youtube.com/watch?v=Iv7UBe92zrw) | [video](https://www.youtube.com/watch?v=tQLVyTVtsSU) | [homepage](https://svito-zar.github.io/audio2gestures/)
 
@@ -193,7 +195,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <!-- ************************* 2018 ************************* -->
 <details open>
-<summary>2018</summary>
+<summary><a name="2018">2018</a></summary>
 
 - [A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture](https://arxiv.org/abs/1803.02665) | [video](https://www.youtube.com/watch?v=mi75gzEhbHI) | [video](https://www.youtube.com/watch?v=MFdFqxCNhN0) | [github](https://github.com/Svito-zar/NN-for-Missing-Marker-Reconstruction)
 
@@ -219,7 +221,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <!-- ************************* Others ************************* -->
 <details open>
-<summary>Others</summary>
+<summary><a name="others">Others</a></summary>
 
 - [Rig Inversion by Training a Differentiable Rig Function](https://arxiv.org/abs/2301.09567) | [video](https://www.youtube.com/watch?v=sYCz9LGIkuI)
 </details>
