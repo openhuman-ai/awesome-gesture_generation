@@ -71,20 +71,20 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
   - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
 
 - **2022 - Accepted papers**
-  ✓
+  
 
-| Menthod            | Description | Audio |
-| ------------------ | ----------- | ----- |
-| DeepMotion         | Title       | ✓     |
-| DSI                | Text        | ✓     |
-| FineMotion         | Text        | ✓     |
-| Forgerons          | Text        | ✓     |
-| GestureMaster      | Text        | ✓     |
-| IVI Lab            | Text        | ✓     |
-| Murple AI lab      | Text        | ✓     |
-| ReprGesture        | Text        | ✓     |
-| TransGesture       | Text        | ✓     |
-| UEA Digital Humans | Text        | ✓     |
+| Menthod            | Description | Autogressive | RNN | SA  | VAEs | Other |
+| ------------------ | ----------- | ------------ | --- | --- | ---- | ----- |
+| DeepMotion         | Title       | ✓            | ✓   | ✓   | ✓    | ✓     |
+| DSI                | Text        | ✓            | ✓   | ✓   | ✓    | ✓     |
+| FineMotion         | Text        | ✓            | ✓   | ✓   | ✓    | ✓     |
+| Forgerons          | Text        | ✓            | ✓   | ✓   | ✓    | ✓     |
+| GestureMaster      | Text        | ✓            | ✓   | ✓   | ✓    | ✓     |
+| IVI Lab            | Text        | ✓            | ✓   | ✓   | ✓    | ✓     |
+| Murple AI lab      | Text        | ✓            | ✓   | ✓   | ✓    | ✓     |
+| ReprGesture        | Text        | ✓            | ✓   | ✓   | ✓    | ✓     |
+| TransGesture       | Text        | ✓            | ✓   | ✓   | ✓    | ✓     |
+| UEA Digital Humans | Text        | ✓            | ✓   | ✓   | ✓    | ✓     |
 
 - [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
 - [The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3536221.3558060)
