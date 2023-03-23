@@ -53,7 +53,8 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <details open>
 <summary><a name="fundamental">Fundamental Paper</a></summary>
 
-- [The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony](https://core.ac.uk/download/pdf/15945024.pdf) |
+- [The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony](https://core.ac.uk/download/pdf/15945024.pdf)
+- [Complexity Matters E05: Complexity Matching and Synchronization between Gestures and Speech](https://www.youtube.com/watch?v=lMb-So8wKS8)
 
 </details>
 <!-- ************************* Base-paper ************************* -->
@@ -66,11 +67,13 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 - **2023 - Accepted papers**
 
-  - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
+  - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures) 
 
 - **2022 - Accepted papers**
 
-| Syntax      | Description |
+<img src="data:image/png;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iOSIgdmlld0JveD0iMCAwIDEyIDkiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xMS43Nzk5IDAuMjE5OTVDMTEuOTIwNCAwLjM2MDU3NiAxMS45OTkzIDAuNTUxMiAxMS45OTkzIDAuNzQ5OTVDMTEuOTk5MyAwLjk0ODcwMSAxMS45MjA0IDEuMTM5MzMgMTEuNzc5OSAxLjI3OTk1TDQuNTI5OTQgOC41Mjk5NUM0LjM4OTMyIDguNjcwNCA0LjE5ODY5IDguNzQ5MjkgMy45OTk5NCA4Ljc0OTI5QzMuODAxMTkgOC43NDkyOSAzLjYxMDU3IDguNjcwNCAzLjQ2OTk0IDguNTI5OTVMMC4yMTk5NDQgNS4yNzk5NUMwLjA4NzUzNTcgNS4xMzc2OSAwLjAxNTQzMjIgNC45NDk2NCAwLjAxODc4ODkgNC43NTUzMkMwLjAyMjE0NTYgNC41NjEgMC4xMDA3MDEgNC4zNzU1NSAwLjIzNzk0NCA0LjIzNzk1QzAuMzc1NTQ4IDQuMTAwNzEgMC41NjA5OTcgNC4wMjIxNSAwLjc1NTMxNCA0LjAxODhDMC45NDk2MzEgNC4wMTU0NCAxLjEzNzY4IDQuMDg3NTQgMS4yNzk5NCA0LjIxOTk1TDMuOTk5OTQgNi45Mzk5NUwxMC43MTk5IDAuMjE5OTVDMTAuODYwNiAwLjA3OTQ5OTcgMTEuMDUxMiAwLjAwMDYxMDM1MiAxMS4yNDk5IDAuMDAwNjEwMzUyQzExLjQ0ODcgMC4wMDA2MTAzNTIgMTEuNjM5MyAwLjA3OTQ5OTcgMTEuNzc5OSAwLjIxOTk1WiIgZmlsbD0iIzAwOEMzOCIvPgo8L3N2Zz4K">
+
+| Menthod     | Description |  |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
