@@ -66,15 +66,14 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 - **2023 - Accepted papers**
 
-  - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
+  - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
 
 - **2022 - Accepted papers**
 
----
-----------------
-| sdfs | sfddf |
-| sdfs | sfddf |
------------------
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
   - [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
   - [The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3536221.3558060)
