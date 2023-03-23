@@ -2,8 +2,6 @@
 
 A curated list of Awesome **Gesture Generation** resources inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
-<img alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAyNCAxOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIzLjU2MDYgMC42NjI0MTJDMjMuODQyIDAuOTQ0MTE4IDI0IDEuMzI1OTggMjQgMS43MjQxM0MyNCAyLjEyMjI3IDIzLjg0MiAyLjUwNDE0IDIzLjU2MDYgMi43ODU4NEw5LjAzNzE0IDE3LjMwOTNDOC43NTU0MyAxNy41OTA3IDguMzczNTcgMTcuNzQ4NyA3Ljk3NTQyIDE3Ljc0ODdDNy41NzcyOCAxNy43NDg3IDcuMTk1NDEgMTcuNTkwNyA2LjkxMzcxIDE3LjMwOTNMMC40MDMxODcgMTAuNzk4OEMwLjEzNzk0MSAxMC41MTM4IC0wLjAwNjQ5OTY0IDEwLjEzNzEgMC4wMDAyMjQ2NzUgOS43NDc4NEMwLjAwNjk0ODk5IDkuMzU4NTcgMC4xNjQzMTQgOC45ODcwNyAwLjQzOTI0NSA4LjcxMTQyQzAuNzE0ODk3IDguNDM2NDkgMS4wODY0IDguMjc5MTIgMS40NzU2NiA4LjI3MjRDMS44NjQ5MiA4LjI2NTY4IDIuMjQxNjMgOC40MTAxMiAyLjUyNjYyIDguNjc1MzZMNy45NzU0MiAxNC4xMjQyTDIxLjQzNzIgMC42NjI0MTJDMjEuNzE4OSAwLjM4MTA1NyAyMi4xMDA3IDAuMjIzMDIyIDIyLjQ5ODkgMC4yMjMwMjJDMjIuODk3IDAuMjIzMDIyIDIzLjI3ODkgMC4zODEwNTcgMjMuNTYwNiAwLjY2MjQxMloiIGZpbGw9IiMwMDhDMzgiLz4KPC9zdmc+Cg==" />
-
 ## Table of Contents
 
 - [1. Survey](#survey)
@@ -47,6 +45,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - [GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents](https://dl.acm.org/doi/10.1145/3462244.3480983) | [homepage](https://genea-workshop.github.io/2021/)
 
 - [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) | [homepage](https://svito-zar.github.io/GENEAchallenge2020/) | [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) | [github](https://github.com/Svito-zar/genea_numerical_evaluations)
+
 </details>
 
 ## <a name="papers">2. Papers</a>
@@ -69,26 +68,33 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 - **2023 - Accepted papers**
 
-  - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures) 
+  - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
 
 - **2022 - Accepted papers**
+  ✓
 
-<img src="data:image/png;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iOSIgdmlld0JveD0iMCAwIDEyIDkiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xMS43Nzk5IDAuMjE5OTVDMTEuOTIwNCAwLjM2MDU3NiAxMS45OTkzIDAuNTUxMiAxMS45OTkzIDAuNzQ5OTVDMTEuOTk5MyAwLjk0ODcwMSAxMS45MjA0IDEuMTM5MzMgMTEuNzc5OSAxLjI3OTk1TDQuNTI5OTQgOC41Mjk5NUM0LjM4OTMyIDguNjcwNCA0LjE5ODY5IDguNzQ5MjkgMy45OTk5NCA4Ljc0OTI5QzMuODAxMTkgOC43NDkyOSAzLjYxMDU3IDguNjcwNCAzLjQ2OTk0IDguNTI5OTVMMC4yMTk5NDQgNS4yNzk5NUMwLjA4NzUzNTcgNS4xMzc2OSAwLjAxNTQzMjIgNC45NDk2NCAwLjAxODc4ODkgNC43NTUzMkMwLjAyMjE0NTYgNC41NjEgMC4xMDA3MDEgNC4zNzU1NSAwLjIzNzk0NCA0LjIzNzk1QzAuMzc1NTQ4IDQuMTAwNzEgMC41NjA5OTcgNC4wMjIxNSAwLjc1NTMxNCA0LjAxODhDMC45NDk2MzEgNC4wMTU0NCAxLjEzNzY4IDQuMDg3NTQgMS4yNzk5NCA0LjIxOTk1TDMuOTk5OTQgNi45Mzk5NUwxMC43MTk5IDAuMjE5OTVDMTAuODYwNiAwLjA3OTQ5OTcgMTEuMDUxMiAwLjAwMDYxMDM1MiAxMS4yNDk5IDAuMDAwNjEwMzUyQzExLjQ0ODcgMC4wMDA2MTAzNTIgMTEuNjM5MyAwLjA3OTQ5OTcgMTEuNzc5OSAwLjIxOTk1WiIgZmlsbD0iIzAwOEMzOCIvPgo8L3N2Zz4K">
+| Menthod            | Description | Audio |
+| ------------------ | ----------- | ----- |
+| DeepMotion         | Title       | ✓     |
+| DSI                | Text        | ✓     |
+| FineMotion         | Text        | ✓     |
+| Forgerons          | Text        | ✓     |
+| GestureMaster      | Text        | ✓     |
+| IVI Lab            | Text        | ✓     |
+| Murple AI lab      | Text        | ✓     |
+| ReprGesture        | Text        | ✓     |
+| TransGesture       | Text        | ✓     |
+| UEA Digital Humans | Text        | ✓     |
 
-| Menthod     | Description |  |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-  - [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
-  - [The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3536221.3558060)
-  - [Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022 ](https://openreview.net/forum?id=fO_Q4q1dFAA)
-  - [UEA Digital Humans entry to the GENEA Challenge 2022](https://openreview.net/forum?id=RZP6nErM2Xa)
-  - [GestureMaster: Graph-based Speech-driven Gesture Generation](https://dl.acm.org/doi/10.1145/3536221.3558063) | [video](https://www.youtube.com/watch?v=nwNwEGX33SA)
-  - [ReCell: replicating recurrent cell for auto-regressive pose generation](https://openreview.net/forum?id=uX86IlhiHNx)
-  - [The ReprGesture entry to the GENEA Challenge 2022](https://openreview.net/forum?id=atWaELmguNj7)
-  - [TransGesture: Autoregressive Gesture Generation with RNN-Transducer](https://openreview.net/forum?id=AYMDEx97qPN)
-  - [Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation](https://openreview.net/forum?id=-2HZD-e6pX7W) | [github](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
+- [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
+- [The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3536221.3558060)
+- [Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022](https://openreview.net/forum?id=fO_Q4q1dFAA)
+- [UEA Digital Humans entry to the GENEA Challenge 2022](https://openreview.net/forum?id=RZP6nErM2Xa)
+- [GestureMaster: Graph-based Speech-driven Gesture Generation](https://dl.acm.org/doi/10.1145/3536221.3558063) | [video](https://www.youtube.com/watch?v=nwNwEGX33SA)
+- [ReCell: replicating recurrent cell for auto-regressive pose generation](https://openreview.net/forum?id=uX86IlhiHNx)
+- [The ReprGesture entry to the GENEA Challenge 2022](https://openreview.net/forum?id=atWaELmguNj7)
+- [TransGesture: Autoregressive Gesture Generation with RNN-Transducer](https://openreview.net/forum?id=AYMDEx97qPN)
+- [Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation](https://openreview.net/forum?id=-2HZD-e6pX7W) | [github](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
 
 - **2021 - Accepted papers**
 
@@ -141,6 +147,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - []()
 - []()
 - []()
+
 </details>
 <!-- ************************* 2023 ************************* -->
 
@@ -170,12 +177,13 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents](https://dl.acm.org/doi/abs/10.1145/3514197.3549697)
 - [Multimodal analysis of the predictability of hand-gesture properties](https://arxiv.org/abs/2108.05762)
 - [Deep Gesture Generation for Social Robots Using Type-Specific Libraries](https://arxiv.org/abs/2210.06790)
-- [A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents](https://arxiv.org/abs/2102.12302) | [video] (https://www.youtube.com/watch?v=jhgUBS0125A) | [homepage](https://nagyrajmund.github.io/project/gesturebot/) | [github](https://github.com/nagyrajmund/gesturebot)
+- [A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents](https://arxiv.org/abs/2102.12302) | [video] (<https://www.youtube.com/watch?v=jhgUBS0125A>) | [homepage](https://nagyrajmund.github.io/project/gesturebot/) | [github](https://github.com/nagyrajmund/gesturebot)
 - [Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech](https://arxiv.org/abs/2106.14736) | [homepage](https://svito-zar.github.io/speech2properties2gestures/)
 - [Moving Fast and Slow: Analysis of Representations and Post-Processing in Speech-Driven Automatic Gesture Generation](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1883883)
 - []()
 - []()
 - []()
+
 </details>
 <!-- ************************* 2021 ************************* -->
 
@@ -221,6 +229,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - [A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture](https://www.researchgate.net/publication/323626902_A_Neural_Network_Approach_to_Missing_Marker_Reconstruction_in_Human_Motion_Capture) | [github](https://github.com/Svito-zar/NN-for-Missing-Marker-Reconstruction) | [video](https://www.youtube.com/watch?v=mi75gzEhbHI)
 
 - []()
+
 </details>
 <!-- ************************* 2018 ************************* -->
 
@@ -231,6 +240,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <summary><a name="2017"><2017</a></summary>
 
 - []()
+
 </details>
 <!-- ************************* <2017 ************************* -->
 
@@ -241,6 +251,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <summary><a name="others">Others</a></summary>
 
 - [Rig Inversion by Training a Differentiable Rig Function](https://arxiv.org/abs/2301.09567) | [video](https://www.youtube.com/watch?v=sYCz9LGIkuI)
+
 </details>
 <!-- ************************* Others ************************* -->
 
