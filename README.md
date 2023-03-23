@@ -53,7 +53,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <details open>
 <summary><a name="fundamental">Fundamental Paper</a></summary>
 
-- [The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony](https://core.ac.uk/download/pdf/15945024.pdf) | 
+- [The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony](https://core.ac.uk/download/pdf/15945024.pdf) |
 
 </details>
 <!-- ************************* Base-paper ************************* -->
@@ -65,9 +65,17 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <summary><a name="genea">GENEA Challenge</a></summary>
 
 - **2023 - Accepted papers**
+
   - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
 
 - **2022 - Accepted papers**
+
+---
+----------------
+| sdfs | sfddf |
+| sdfs | sfddf |
+-----------------
+
   - [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
   - [The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3536221.3558060)
   - [Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022 ](https://openreview.net/forum?id=fO_Q4q1dFAA)
@@ -79,6 +87,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
   - [Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation](https://openreview.net/forum?id=-2HZD-e6pX7W) | [github](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
 
 - **2021 - Accepted papers**
+
   - [Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN](https://openreview.net/forum?id=ykvm7OLh7B) | [video](https://www.youtube.com/watch?v=PMhjX6cdIPE)
   - [Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood](https://openreview.net/forum?id=GjjPtEVdSLB)
   - [Crossmodal clustered contrastive learning: Grounding of spoken language to gesture](https://openreview.net/forum?id=o8CpxaBurZQ) | [github](https://github.com/dondongwon/CC_NCE_GENEA)
@@ -112,9 +121,9 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
   - [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://arxiv.org/abs/2203.05297v5) | [github](https://github.com/PantoMatrix/BEAT)
   - [Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity](https://arxiv.org/abs/2009.02119v1) | [github](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
   - [Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders](https://arxiv.org/abs/2108.06720v1)
-  - [Learning Individual Styles of Conversational Gesture](https://github.com/amirbar/speech2gesture)  
+  - [Learning Individual Styles of Conversational Gesture](https://github.com/amirbar/speech2gesture)
   - [Robots Learning to Say `No': Prohibition and Rejective Mechanisms in Acquisition of Linguistic Negation](https://arxiv.org/abs/1810.11804v1)
-  
+
 </details>
 <!-- ************************* Kaggle ************************* -->
 
