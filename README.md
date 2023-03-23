@@ -53,7 +53,8 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 <details open>
 <summary><a name="fundamental">Fundamental Paper</a></summary>
 
-- []()
+- [The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony](https://core.ac.uk/download/pdf/15945024.pdf) | 
+
 </details>
 <!-- ************************* Base-paper ************************* -->
 
@@ -82,8 +83,6 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
   - [Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood](https://openreview.net/forum?id=GjjPtEVdSLB)
   - [Crossmodal clustered contrastive learning: Grounding of spoken language to gesture](https://openreview.net/forum?id=o8CpxaBurZQ) | [github](https://github.com/dondongwon/CC_NCE_GENEA)
 
-- []()
-
 - **2020 - Accepted papers**
   - [The StyleGestures entry to the GENEA Challenge 2020](https://genea-workshop.github.io/2020/downloads/Alexanderson2020StyleGestures.pdf) | [zendomo](https://zenodo.org/record/4088600#.ZBqRWNJByV4)
   - [The FineMotion entry to the GENEA Challenge 2020](https://zenodo.org/record/4088609#.ZBqSB9JByV4)
@@ -99,7 +98,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <!-- ************************* Kaggle ************************* -->
 <details open>
-<summary><a name="kaggle">**Kaggle Ranking**</a></summary>
+<summary><a name="kaggle"><bold>Kaggle Ranking</bold></a></summary>
 
 - **TED Gesture Dataset**
 
