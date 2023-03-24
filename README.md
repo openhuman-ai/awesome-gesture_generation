@@ -3,7 +3,9 @@
 A curated list of Awesome **Gesture Generation** resources inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
 <p align="center">
+
 ![Gesture Generation](./img/gesture_generation.jpeg)
+
 </p>
 ## Table of Contents
 
