@@ -71,7 +71,6 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
   - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974) | [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
 
 - **2022 - Accepted papers**
-  
 
 | Menthod            | Description | Autogressive | RNN | SA  | VAEs | Other |
 | ------------------ | ----------- | ------------ | --- | --- | ---- | ----- |
@@ -86,18 +85,17 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 | TransGesture       | Text        | ✓            | ✓   | ✓   | ✓    | ✓     |
 | UEA Digital Humans | Text        | ✓            | ✓   | ✓   | ✓    | ✓     |
 
-- [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
-- [The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3536221.3558060)
-- [Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022](https://openreview.net/forum?id=fO_Q4q1dFAA)
-- [UEA Digital Humans entry to the GENEA Challenge 2022](https://openreview.net/forum?id=RZP6nErM2Xa)
-- [GestureMaster: Graph-based Speech-driven Gesture Generation](https://dl.acm.org/doi/10.1145/3536221.3558063) | [video](https://www.youtube.com/watch?v=nwNwEGX33SA)
-- [ReCell: replicating recurrent cell for auto-regressive pose generation](https://openreview.net/forum?id=uX86IlhiHNx)
-- [The ReprGesture entry to the GENEA Challenge 2022](https://openreview.net/forum?id=atWaELmguNj7)
-- [TransGesture: Autoregressive Gesture Generation with RNN-Transducer](https://openreview.net/forum?id=AYMDEx97qPN)
-- [Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation](https://openreview.net/forum?id=-2HZD-e6pX7W) | [github](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
+- DeepMotion - [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
+- IVI Lab - [The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3536221.3558060)
+- Ubisoft [Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022](https://openreview.net/forum?id=fO_Q4q1dFAA) | [video](https://www.youtube.com/watch?v=zdNsj3MGpL0&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=9)
+- UEA Digital Humans - [UEA Digital Humans entry to the GENEA Challenge 2022](https://openreview.net/forum?id=RZP6nErM2Xa)
+- GestureMaster - [GestureMaster: Graph-based Speech-driven Gesture Generation](https://dl.acm.org/doi/10.1145/3536221.3558063) | [video](https://www.youtube.com/watch?v=nwNwEGX33SA)
+- FineMotion - [ReCell: replicating recurrent cell for auto-regressive pose generation](https://openreview.net/forum?id=uX86IlhiHNx)
+- ReprGesture - [The ReprGesture entry to the GENEA Challenge 2022](https://openreview.net/forum?id=atWaELmguNj7)
+- TransGesture - [TransGesture: Autoregressive Gesture Generation with RNN-Transducer](https://openreview.net/forum?id=AYMDEx97qPN)
+- DSI - [Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation](https://openreview.net/forum?id=-2HZD-e6pX7W) | [github](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
 
 - **2021 - Accepted papers**
-
   - [Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN](https://openreview.net/forum?id=ykvm7OLh7B) | [video](https://www.youtube.com/watch?v=PMhjX6cdIPE)
   - [Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood](https://openreview.net/forum?id=GjjPtEVdSLB)
   - [Crossmodal clustered contrastive learning: Grounding of spoken language to gesture](https://openreview.net/forum?id=o8CpxaBurZQ) | [github](https://github.com/dondongwon/CC_NCE_GENEA)
