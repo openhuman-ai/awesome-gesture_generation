@@ -2,6 +2,8 @@
 
 A curated list of Awesome **Gesture Generation** resources inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
+![Gesture Generation](./img/gesture_generation.jpeg)
+
 ## Table of Contents
 
 - [1. Survey](#survey)
