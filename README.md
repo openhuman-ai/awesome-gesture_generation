@@ -262,6 +262,9 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 ## <a name="talks">Talks</a>
 
+![Youtube](./img/youtube.png)
+- [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=1)
+
 ## <a name="toolkit">Toolkit</a>
 
 - Algorithms
