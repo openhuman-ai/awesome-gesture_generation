@@ -4,8 +4,6 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 
 <p align="center">
 
-<!-- ![Gesture Generation](./img/gesture_generation.jpeg) -->
-
 <img src="./img/gesture_generation.jpeg">
 
 </p>
