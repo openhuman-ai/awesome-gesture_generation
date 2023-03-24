@@ -2,8 +2,9 @@
 
 A curated list of Awesome **Gesture Generation** resources inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
+<p align="center">
 ![Gesture Generation](./img/gesture_generation.jpeg)
-
+</p>
 ## Table of Contents
 
 - [1. Survey](#survey)
@@ -98,6 +99,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 - DSI - [Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation](https://openreview.net/forum?id=-2HZD-e6pX7W) | [github](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
 
 - **2021 - Accepted papers**
+
   - [Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN](https://openreview.net/forum?id=ykvm7OLh7B) | [video](https://www.youtube.com/watch?v=PMhjX6cdIPE)
   - [Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood](https://openreview.net/forum?id=GjjPtEVdSLB)
   - [Crossmodal clustered contrastive learning: Grounding of spoken language to gesture](https://openreview.net/forum?id=o8CpxaBurZQ) | [github](https://github.com/dondongwon/CC_NCE_GENEA)
@@ -265,6 +267,7 @@ A curated list of Awesome **Gesture Generation** resources inspired by [awesome-
 ## <a name="talks">Talks</a>
 
 ![Youtube](./img/youtube.png)
+
 - [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=1)
 
 ## <a name="toolkit">Toolkit</a>
