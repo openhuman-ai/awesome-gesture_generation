@@ -78,18 +78,18 @@ A curated list of Awesome **Gesture Generation**
 
 - **2022 - Accepted papers**
 
-|| Menthod            || Description || Autogressive || RNN || SA  || VAEs || Other ||
-|| ------------------ || ----------- || ------------ || --- || --- || ---- || ----- ||
-|| DeepMotion         || Title       || ✓            || ✓   || ✓   || ✓    || ✓     ||
-|| DSI                || Text        || ✓            || ✓   || ✓   || ✓    || ✓     ||
-|| FineMotion         || Text        || ✓            || ✓   || ✓   || ✓    || ✓     ||
-|| Forgerons          || Text        || ✓            || ✓   || ✓   || ✓    || ✓     ||
-|| GestureMaster      || Text        || ✓            || ✓   || ✓   || ✓    || ✓     ||
-|| IVI Lab            || Text        || ✓            || ✓   || ✓   || ✓    || ✓     ||
-|| Murple AI lab      || Text        || ✓            || ✓   || ✓   || ✓    || ✓     ||
-|| ReprGesture        || Text        || ✓            || ✓   || ✓   || ✓    || ✓     ||
-|| TransGesture       || Text        || ✓            || ✓   || ✓   || ✓    || ✓     ||
-|| UEA Digital Humans || Text        || ✓            || ✓   || ✓   || ✓    || ✓     ||
+| Menthod            | Description | Autogressive | RNN | A   | Es  | Other |
+| ------------------ | ----------- | ------------ | --- | --- | --- | ----- |
+| DeepMotion         | Title       | ✓            | ✓   | ✓   | ✓   | ✓     |
+| DSI                | Text        | ✓            | ✓   | ✓   | ✓   | ✓     |
+| FineMotion         | Text        | ✓            | ✓   | ✓   | ✓   | ✓     |
+| Forgerons          | Text        | ✓            | ✓   | ✓   | ✓   | ✓     |
+| GestureMaster      | Text        | ✓            | ✓   | ✓   | ✓   | ✓     |
+| IVI Lab            | Text        | ✓            | ✓   | ✓   | ✓   | ✓     |
+| Murple AI lab      | Text        | ✓            | ✓   | ✓   | ✓   | ✓     |
+| ReprGesture        | Text        | ✓            | ✓   | ✓   | ✓   | ✓     |
+| TransGesture       | Text        | ✓            | ✓   | ✓   | ✓   | ✓     |
+| UEA Digital Humans | Text        | ✓            | ✓   | ✓   | ✓   | ✓     |
 
 - DeepMotion - [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
 - IVI Lab - [The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3536221.3558060)
