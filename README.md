@@ -294,18 +294,14 @@ A curated list of Awesome **Gesture Generation**
 - 2000 - [Paired Speech and Gesture Generation in Embodied Conversational Agents](https://www.google.com.vn/books/edition/Paired_Speech_and_Gesture_Generation_in/LgrmtgAACAAJ)
 - 2009 - [Gesture in Embodied Communication and Human Computer Interaction](https://www.google.com.vn/books/edition/Gesture_in_Embodied_Communication_and_Hu/vLqoCAAAQBAJ?hl=en&gbpv=0)
 
-## Websites
+<!-- ## Websites
 
-- []()
+- []() -->
 
 ## Talks
 
 - [GDC 2020 - Machine Learning, Physics Simulation, Kolmogorov Complexity, and Squishy Bunnies](https://www.youtube.com/watch?v=sUb0W5_waRI)
 - []()
-
-
-# Contributing
-
 
 ## <a name="code">Code</a>
 
