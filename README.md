@@ -275,7 +275,11 @@ A curated list of Awesome **Gesture Generation**
 
 - BEAT (Body-Expression-Audio-Text) - [Dataset](https://pantomatrix.github.io/BEAT-Dataset/) - [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://arxiv.org/pdf/2203.05297.pdf) | [homepage](https://pantomatrix.github.io/BEAT/) | [github](https://github.com/PantoMatrix/BEAT)
 
-
+- GENEA Challenge:
+  - Challenge dataset: [GENEA Challenge 2022 Dataset Files](https://zenodo.org/record/6998231)
+  - 3D coordinates of submitted motion: [GENEA Challenge 2022 3D coordinates of submitted motion](https://zenodo.org/record/6973297)
+  - Submitted BVH files: [GENEA Challenge 2022 submitted BVH files](https://zenodo.org/record/6977157)
+  - User-study video stimuli: [GENEA Challenge 2022 user-study video stimuli](https://zenodo.org/record/6997926)
 
 ## <a name="toolkit">5. Toolkit</a>
 
@@ -304,6 +308,16 @@ A curated list of Awesome **Gesture Generation**
 - []()
 
 ## <a name="code">Code</a>
+
+
+* Visualization code: [github.com/TeoNikolov/genea_visualizer](https://github.com/TeoNikolov/genea_visualizer)
+* Objective evaluation code: [github.com/genea-workshop/genea_numerical_evaluations](https://github.com/genea-workshop/genea_numerical_evaluations)
+* Text-based baseline: [Yoon et al. (ICRA 2019)](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
+* Audio-based baseline: [Kucherenko et al. (IVA 2019)](https://github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder/tree/GENEA_2022)
+* Interface for subjective evaluations: [HEMVIP](https://github.com/jonepatr/hemvip/tree/genea2022)
+* Code for creating attention-check videos: [create_attention_check](https://github.com/youngwoo-yoon/create_attention_check)
+* Utility to trim BVH files: [trim_bvh](https://github.com/ghenter/trim_bvh)
+* Modified PyMO for the challenge dataset: [Modified PyMO](https://github.com/youngwoo-yoon/PyMO)
 
 
 
