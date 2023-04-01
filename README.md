@@ -11,7 +11,8 @@ A curated list of Awesome **Gesture Generation**
 ## Table of Contents
 
 - [1. Survey](#survey)
-- [2. Papers](#papers)
+- [2. Method](#method)
+- [3. Papers](#papers)
   - [Fundamental Paper](#fundamental)
   - [GENEA Challenge](#genea)
   - [2023](#2023)
@@ -22,10 +23,10 @@ A curated list of Awesome **Gesture Generation**
   - [2018](#2018)
   - [2017](#2017)
   - [Others](#others)
-- [3. Dataset](#dataset)
-- [4. Toolkit](#toolkit)
-- [5. Talks](#talks)
-- [6. Code](#implementations)
+- [4. Dataset](#dataset)
+- [5. Toolkit](#toolkit)
+- [6. Talks](#talks)
+- [7. Code](#implementations)
 - [Contributing](#contributing)
 
 ---
@@ -54,7 +55,11 @@ A curated list of Awesome **Gesture Generation**
 
 </details>
 
-## <a name="papers">2. Papers</a>
+## <a name="method">2. Method</a>
+
+
+
+## <a name="papers">3. Papers</a>
 
 <!-- ************************* Base-paper ************************* -->
 <details open>
@@ -260,7 +265,7 @@ A curated list of Awesome **Gesture Generation**
 </details>
 <!-- ************************* Others ************************* -->
 
-## <a name="dataset">Datasets</a>
+## <a name="dataset">4. Datasets</a>
 
 - PATS (Pose, Audio, Transcript, Style) - [Style Transfer for Co-Speech Gesture Animation A Multi-Speaker Conditional-Mixture Approach](https://arxiv.org/pdf/2007.12553v1.pdf) | [homepage](https://chahuja.com/pats/) | [github](https://github.com/chahuja/pats)
 
@@ -270,20 +275,24 @@ A curated list of Awesome **Gesture Generation**
 
 - BEAT (Body-Expression-Audio-Text) - [Dataset](https://pantomatrix.github.io/BEAT-Dataset/) - [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://arxiv.org/pdf/2203.05297.pdf) | [homepage](https://pantomatrix.github.io/BEAT/) | [github](https://github.com/PantoMatrix/BEAT)
 
+
+
+## <a name="toolkit">5. Toolkit</a>
+
+- Algorithms
+  - [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents](https://github.com/ai4r/SGToolkit) | [homepage](https://uist.acm.org/uist2021/) | [video](https://www.youtube.com/watch?v=qClSOtLiVlc)
+
+
 ## <a name="talks">Talks</a>
 
 ![Youtube](./img/youtube.png)
 
 - [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=1)
 
-## <a name="toolkit">Toolkit</a>
-
-- Algorithms
-  - [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents](https://github.com/ai4r/SGToolkit) | [homepage](https://uist.acm.org/uist2021/) | [video](https://www.youtube.com/watch?v=qClSOtLiVlc)
-
 ## Books
 
-- []()
+- 2000 - [Paired Speech and Gesture Generation in Embodied Conversational Agents](https://www.google.com.vn/books/edition/Paired_Speech_and_Gesture_Generation_in/LgrmtgAACAAJ)
+- 2009 - [Gesture in Embodied Communication and Human Computer Interaction](https://www.google.com.vn/books/edition/Gesture_in_Embodied_Communication_and_Hu/vLqoCAAAQBAJ?hl=en&gbpv=0)
 
 ## Websites
 
@@ -294,17 +303,14 @@ A curated list of Awesome **Gesture Generation**
 - [GDC 2020 - Machine Learning, Physics Simulation, Kolmogorov Complexity, and Squishy Bunnies](https://www.youtube.com/watch?v=sUb0W5_waRI)
 - []()
 
+
 # Contributing
 
-## Implementations
 
-#### Tensorflow
+## <a name="code">Code</a>
 
-- []()
 
-#### PyTorch
 
-- []()
 
 ## License
 
