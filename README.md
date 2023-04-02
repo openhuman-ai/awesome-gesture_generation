@@ -40,7 +40,11 @@ A curated list of Awesome **Gesture Generation**
 <details open>
 <summary>Comprehensive preview</summary>
 
+**Machine Learning**
+
 - [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) | [github](https://github.com/google/mipnerf) | [web](https://www.ea.com/seed/news/genea-challenge-2022)
+
+- [Gesture and speech in interaction: An overview](https://www.sciencedirect.com/science/article/abs/pii/S0167639313001295?via%3Dihub)
 
 </details>
 
@@ -57,6 +61,7 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="method">2. Method</a>
 
+* 
 
 
 ## <a name="papers">3. Papers</a>
