@@ -317,12 +317,12 @@ A curated list of Awesome **Gesture Generation**
 
 * Visualization code: [github.com/TeoNikolov/genea_visualizer](https://github.com/TeoNikolov/genea_visualizer)
 * Objective evaluation code: [github.com/genea-workshop/genea_numerical_evaluations](https://github.com/genea-workshop/genea_numerical_evaluations)
-* Text-based baseline: [Yoon et al. (ICRA 2019)](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
-* Audio-based baseline: [Kucherenko et al. (IVA 2019)](https://github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder/tree/GENEA_2022)
-* Interface for subjective evaluations: [HEMVIP](https://github.com/jonepatr/hemvip/tree/genea2022)
-* Code for creating attention-check videos: [create_attention_check](https://github.com/youngwoo-yoon/create_attention_check)
-* Utility to trim BVH files: [trim_bvh](https://github.com/ghenter/trim_bvh)
-* Modified PyMO for the challenge dataset: [Modified PyMO](https://github.com/youngwoo-yoon/PyMO)
+* Text-based baseline: [github.com/youngwoo-yoon/Co-Speech_Gesture_Generation](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
+* Audio-based baseline: [github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder](https://github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder/tree/GENEA_2022)
+* Interface for subjective evaluations: [jonepatr/hemvip](https://github.com/jonepatr/hemvip/tree/genea2022)
+* Code for creating attention-check videos: [youngwoo-yoon/create_attention_check](https://github.com/youngwoo-yoon/create_attention_check)
+* Utility to trim BVH files: [github.com/ghenter/trim_bvh](https://github.com/ghenter/trim_bvh)
+* Modified PyMO for the challenge dataset: [youngwoo-yoon/PyMO](https://github.com/youngwoo-yoon/PyMO)
 
 
 
