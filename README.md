@@ -59,21 +59,21 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="method">2. Method</a>
 
-### 1. Framework:
-
-- 
-
-### 2. Method:
-
-#### 2.1 Rule Base
+### 2.1. Framework:
 
 -
 
-#### 2.2 Deep Learning
+### 2.2. Method:
+
+#### 2.2.1 Rule Base
 
 -
 
-### 3. Learning Objective:
+#### 2.2.2 Deep Learning
+
+-
+
+### 2.3. Learning Objective:
 
 | Full name                                                     | Description                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -97,6 +97,12 @@ A curated list of Awesome **Gesture Generation**
 | Task Reward (**TR**)                                          | Used in reinforcement learning to provide a reward signal to an agent based on its performance in completing a given task.                                                                                                                                                  |
 | Variance (**Var**)                                            | A statistical metric used to measure the variability of a set of data points around their mean.                                                                                                                                                                             |
 | Within-cluster Sum of Squares (**WCSS**)                      | Used in cluster analysis to measure the variability of data points within a cluster by computing the sum of squared distances between each data point and the mean of the cluster.                                                                                          |
+
+### 2.4 Metric
+
+| Metric  | Formula | Description |
+| ------- | ------- | ----------- |
+| IEMOCAP | $ssss$  | Description |
 
 ## <a name="papers">3. Papers</a>
 
