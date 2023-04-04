@@ -37,8 +37,7 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="survey">1. Survey</a>
 
-<details open>
-<summary>Comprehensive preview</summary>
+**Comprehensive preview**
 
 - [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) | [github](https://github.com/google/mipnerf) | [web](https://www.ea.com/seed/news/genea-challenge-2022)
 
@@ -46,8 +45,7 @@ A curated list of Awesome **Gesture Generation**
 
 </details>
 
-<details open>
-<summary>GENEA Challenge</summary>
+**GENEA Challenge**
 
 - [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://arxiv.org/abs/2208.10441) | [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) | [video](https://www.youtube.com/watch?v=4n02wXGGnd0)
 
@@ -85,8 +83,8 @@ A curated list of Awesome **Gesture Generation**
 ## <a name="papers">3. Papers</a>
 
 <!-- ************************* Base-paper ************************* -->
-<details open>
-<summary><a name="fundamental">Fundamental Paper</a></summary>
+
+**<a name="fundamental">Fundamental Paper</a>**
 
 - [The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony](https://core.ac.uk/download/pdf/15945024.pdf)
 - [Complexity Matters E05: Complexity Matching and Synchronization between Gestures and Speech](https://www.youtube.com/watch?v=lMb-So8wKS8)
@@ -97,8 +95,8 @@ A curated list of Awesome **Gesture Generation**
 ---
 
 <!-- ************************* GENEA Challenge ************************* -->
-<details open>
-<summary><a name="genea">GENEA Challenge</a></summary>
+
+**<a name="genea">GENEA Challenge</a>**
 
 - **2023 - Accepted papers**
 
@@ -149,8 +147,8 @@ A curated list of Awesome **Gesture Generation**
 ---
 
 <!-- ************************* Kaggle ************************* -->
-<details open>
-<summary><a name="kaggle"><bold>Kaggle Ranking</bold></a></summary>
+
+**<a name="kaggle"><bold>Kaggle Ranking</bold></a>**
 
 - **TED Gesture Dataset**
 
@@ -173,8 +171,8 @@ A curated list of Awesome **Gesture Generation**
 ---
 
 <!-- ************************* 2023 ************************* -->
-<details open>
-<summary><a name="2023">2023</a></summary>
+
+**<a name="2023">2023</a>**
 
 - [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) | [github](https://github.com/google/mipnerf) | [web](https://www.ea.com/seed/news/genea-challenge-2022)
 - []()
@@ -187,8 +185,8 @@ A curated list of Awesome **Gesture Generation**
 ---
 
 <!-- ************************* 2022 ************************* -->
-<details open>
-<summary><a name="2022">2022</a></summary>
+
+**<a name="2022">2022</a>**
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2104.10078)
 - [ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](https://arxiv.org/abs/2209.07556) | [github](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) | [video](https://www.youtube.com/watch?v=EJPdTtVrxHo)
@@ -204,8 +202,8 @@ A curated list of Awesome **Gesture Generation**
 ---
 
 <!-- ************************* 2021 ************************* -->
-<details open>
-<summary><a name="2021">2021</a></summary>
+
+**<a name="2021">2021</a>**
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents](https://dl.acm.org/doi/abs/10.1145/3514197.3549697)
 - [Multimodal analysis of the predictability of hand-gesture properties](https://arxiv.org/abs/2108.05762)
@@ -223,8 +221,8 @@ A curated list of Awesome **Gesture Generation**
 ---
 
 <!-- ************************* 2020 ************************* -->
-<details open>
-<summary><a name="2020">2020</a></summary>
+
+**<a name="2020">2020</a>**
 
 - [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) | [homepage](https://svito-zar.github.io/GENEAchallenge2020/) | [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) | [video](https://www.youtube.com/watch?v=Y-5dgBQk34c) | [github](https://github.com/Svito-zar/genea_numerical_evaluations)
 - [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) | || [video](https://www.youtube.com/watch?v=VQ8he6jjW08) | [github](https://github.com/Svito-zar/gesticulator) | [homepage](https://svito-zar.github.io/gesticulator/) | [dataset](https://figshare.com/projects/Gesticulator/87128)
@@ -240,8 +238,8 @@ A curated list of Awesome **Gesture Generation**
 ---
 
 <!-- ************************* 2019 ************************* -->
-<details open>
-<summary><a name="2019">2019</a></summary>
+
+**<a name="2019">2019</a>**
 
 - [Analyzing Input and Output Representations for Speech-Driven Gesture Generation](https://arxiv.org/abs/1903.03369) | [github](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) | [video](https://www.youtube.com/watch?v=Iv7UBe92zrw) | [video](https://www.youtube.com/watch?v=tQLVyTVtsSU) | [homepage](https://svito-zar.github.io/audio2gestures/)
 - [On the Importance of Representations for Speech-Driven Gesture Generation](https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2072.pdf)
@@ -254,8 +252,8 @@ A curated list of Awesome **Gesture Generation**
 ---
 
 <!-- ************************* 2018 ************************* -->
-<details open>
-<summary><a name="2018">2018</a></summary>
+
+**<a name="2018">2018</a>**
 
 - [A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture](https://arxiv.org/abs/1803.02665) | [video](https://www.youtube.com/watch?v=mi75gzEhbHI) | [video](https://www.youtube.com/watch?v=MFdFqxCNhN0) | [github](https://github.com/Svito-zar/NN-for-Missing-Marker-Reconstruction)
 - [Data Driven Non-Verbal Behavior Generation for Humanoid Robots](https://dl.acm.org/doi/10.1145/3242969.3264970)
@@ -269,8 +267,8 @@ A curated list of Awesome **Gesture Generation**
 ---
 
 <!-- ************************* <2017 ************************* -->
-<details open>
-<summary><a name="2017"><2017</a></summary>
+
+**<a name="2017"><2017</a>**
 
 - []()
 
@@ -280,8 +278,8 @@ A curated list of Awesome **Gesture Generation**
 ---
 
 <!-- ************************* Others ************************* -->
-<details open>
-<summary><a name="others">Others</a></summary>
+
+**<a name="others">Others</a>**
 
 - [Rig Inversion by Training a Differentiable Rig Function](https://arxiv.org/abs/2301.09567) | [video](https://www.youtube.com/watch?v=sYCz9LGIkuI)
 
