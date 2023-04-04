@@ -45,6 +45,10 @@ A curated list of Awesome **Gesture Generation**
 
 - [Gesture and speech in interaction: An overview](https://www.sciencedirect.com/science/article/abs/pii/S0167639313001295?via%3Dihub)
 
+**Survey**
+
+- [Speech-based Gesture Generation for Robots and Embodied Agents: A Scoping Review](https://wafa.johal.org/files/papers/Speech_Driven_Gesture_Generation__A_Review.pdf)
+
 **GENEA Challenge**
 
 - [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://arxiv.org/abs/2208.10441) | [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) | [video](https://www.youtube.com/watch?v=4n02wXGGnd0)
@@ -136,7 +140,7 @@ A curated list of Awesome **Gesture Generation**
   - [Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth](https://zenodo.org/record/4088376#.ZBqR89JByV4)
   - [CGVU: Semantics-guided 3D Body Gesture Synthesis](https://zenodo.org/record/4090879#.ZBqSHtJByV4)
   - [Interpreting and Generating Gestures with Embodied Human Computer Interactions](https://zenodo.org/record/4088625#.ZBqSLtJByV4)
-  - [The Nectec Gesture Generation System entry to the GENEA Challenge 2020](https://zenodo.org/record/4088629#.ZBqSQ9JByV4)s
+  - [The Nectec Gesture Generation System entry to the GENEA Challenge 2020](https://zenodo.org/record/4088629#.ZBqSQ9JByV4)
 
 <!-- ************************* GENEA Challenge ************************* -->
 
@@ -275,25 +279,25 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="dataset">4. Datasets</a>
 
-| Dataset                                  | Modalities                                   | Type    | Link                                                                                                                                                          | Paper |
-| ---------------------------------------- | -------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| IEMOCAP                                  | Ges., Audio, Text, Emotion                   | Dialog  | [sail.usc.edu/iemocap](https://sail.usc.edu/iemocap)                                                                                                               |       |
-| Creative-IT                              | joint rot. Ges., Audio, Text, Emotion        | Dialog  | [sail.usc.edu/CreativeIT](https://sail.usc.edu/CreativeIT/ImprovRelease.htm)                                                                             |       |
-| Gesture-Speech Dataset                   | Ges., Audio                                  | Monolog | [dropbox](https://www.dropbox.com/sh/j419kp4m8hkt9nd/AAC_pIcS1b_WFBqUp5ofBG1Ia?dl=0)                                                   |       |
-| CMU Panoptic                             | Ges., Audio, Text                            | Dialog  | [domedb.perception.cmu](http://domedb.perception.cs.cmu.edu)                                                                                                             |       |
-| Speech-Gesture                           | Ges., Audio                                  | Monolog | [amirbar/speech2gesture](https://github.com/amirbar/speech2gesture)                                                                                       |       |
-| TED Dataset                              | Ges., Audio                                  | Monolog | [youtube-gesture-dataset](https://github.com/youngwoo-yoon/youtube-gesture-dataset)                                                                           |       |
-| Talking With Hands                       | Ges., Audio                                  | Dialog  | [facebookresearch/TalkingWithHands32M](https://github.com/facebookresearch/TalkingWithHands32M)                                                           |       |
-| PATS                                     | Ges., Audio, Text                            | Monolog | [chahuja.com/pats](https://chahuja.com/pats)                                                                                                                  |       |
-| Trinity Speech-Gesture                   | Ges., Audio                                  | Monolog | [Trinity Speech-Gesture I](https://trinityspeechgesture.scss.tcd.ie)                                                                                                       |       |
+| Dataset                                  | Modalities                                   | Type    | Link                                                                                                                                     | Paper |
+| ---------------------------------------- | -------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| IEMOCAP                                  | Ges., Audio, Text, Emotion                   | Dialog  | [sail.usc.edu/iemocap](https://sail.usc.edu/iemocap)                                                                                     |       |
+| Creative-IT                              | joint rot. Ges., Audio, Text, Emotion        | Dialog  | [sail.usc.edu/CreativeIT](https://sail.usc.edu/CreativeIT/ImprovRelease.htm)                                                             |       |
+| Gesture-Speech Dataset                   | Ges., Audio                                  | Monolog | [dropbox](https://www.dropbox.com/sh/j419kp4m8hkt9nd/AAC_pIcS1b_WFBqUp5ofBG1Ia?dl=0)                                                     |       |
+| CMU Panoptic                             | Ges., Audio, Text                            | Dialog  | [domedb.perception.cmu](http://domedb.perception.cs.cmu.edu)                                                                             |       |
+| Speech-Gesture                           | Ges., Audio                                  | Monolog | [amirbar/speech2gesture](https://github.com/amirbar/speech2gesture)                                                                      |       |
+| TED Dataset                              | Ges., Audio                                  | Monolog | [youtube-gesture-dataset](https://github.com/youngwoo-yoon/youtube-gesture-dataset)                                                      |       |
+| Talking With Hands                       | Ges., Audio                                  | Dialog  | [facebookresearch/TalkingWithHands32M](https://github.com/facebookresearch/TalkingWithHands32M)                                          |       |
+| PATS                                     | Ges., Audio, Text                            | Monolog | [chahuja.com/pats](https://chahuja.com/pats)                                                                                             |       |
+| Trinity Speech-Gesture                   | Ges., Audio                                  | Monolog | [Trinity Speech-Gesture I](https://trinityspeechgesture.scss.tcd.ie)                                                                     |       |
 | Trinity Speech-Gesture I GENEA Extension | Ges., Audio, Text                            | Monolog | [Trinity Speech-Gesture I](https://trinityspeechgesture.scss.tcd.ie/data/Trinity%20Speech-Gesture%20I/GENEA_Challenge_2020_data_release) |       |
-| Trinity Speech-Gesture II                | Ges., Audio, Gest. segment.                  | Monolog | [Trinity Speech GestureII](https://trinityspeechgesture.scss.tcd.ie/data/Trinity%20Speech-Gesture%20II)                                                          |       |
-| Speech-Gesture 3D extension              | Ges., Audio                                  | Monolog | [nextcloud.mpi-klsb](https://nextcloud.mpi-klsb.mpg.de/index.php/s/7LzxGSepzrndg2x)                                                                        |       |
-| Talking With Hands GENEA Extension       | Ges., Audio, Text                            | Dialog  | [zenodo/6998231](https://zenodo.org/record/6998231)                                                                                                       |       |
-| SaGA                                     | Ges., Audio, Gest. properties                | Dialog  | [phonetik.uni-muenchen](https://www.phonetik.uni-muenchen.de/Bas/BasSaGAeng.html)                                                                               |       |
-| SaGA++                                   | Ges., Audio, Gest. properties                | Dialog  | [zenodo/6546229](https://zenodo.org/record/6546229)                                                                                                       |       |
-| ZEGGS Dataset                            | Ges., Audio                                  | Monolog | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)                                                                               |       |
-| BEAT Dataset                             | Ges., Audio, Text, Gest. properties, Emotion | Both    | [github.io/BEAT](https://pantomatrix.github.io/BEAT)                                                                                                          |       |
+| Trinity Speech-Gesture II                | Ges., Audio, Gest. segment.                  | Monolog | [Trinity Speech GestureII](https://trinityspeechgesture.scss.tcd.ie/data/Trinity%20Speech-Gesture%20II)                                  |       |
+| Speech-Gesture 3D extension              | Ges., Audio                                  | Monolog | [nextcloud.mpi-klsb](https://nextcloud.mpi-klsb.mpg.de/index.php/s/7LzxGSepzrndg2x)                                                      |       |
+| Talking With Hands GENEA Extension       | Ges., Audio, Text                            | Dialog  | [zenodo/6998231](https://zenodo.org/record/6998231)                                                                                      |       |
+| SaGA                                     | Ges., Audio, Gest. properties                | Dialog  | [phonetik.uni-muenchen](https://www.phonetik.uni-muenchen.de/Bas/BasSaGAeng.html)                                                        |       |
+| SaGA++                                   | Ges., Audio, Gest. properties                | Dialog  | [zenodo/6546229](https://zenodo.org/record/6546229)                                                                                      |       |
+| ZEGGS Dataset                            | Ges., Audio                                  | Monolog | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)                                                          |       |
+| BEAT Dataset                             | Ges., Audio, Text, Gest. properties, Emotion | Both    | [github.io/BEAT](https://pantomatrix.github.io/BEAT)                                                                                     |       |
 
 - TedTalk Dataset - [Robots Learn Social Skills - End-to-End Learning of Co-Speech Gesture Generation for Humanoid Robots](https://arxiv.org/pdf/1810.12541.pdf) | [homepage](https://sites.google.com/view/youngwoo-yoon/projects/co-speech-gesture-generation)
 - PATS (Pose, Audio, Transcript, Style) - [Style Transfer for Co-Speech Gesture Animation A Multi-Speaker Conditional-Mixture Approach](https://arxiv.org/pdf/2007.12553v1.pdf) | [homepage](https://chahuja.com/pats/) | [github](https://github.com/chahuja/pats)
