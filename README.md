@@ -312,7 +312,7 @@ A curated list of Awesome **Gesture Generation**
 
 | Dataset                                  | Modalities         | Type    | Link                                                                                                                                     | Paper |
 | ---------------------------------------- | ------------------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| IEMOCAP                                  | 🚶, 🔊, 📃, 🤯     | Dialog  | [sail.usc.edu/iemocap](https://sail.usc.edu/iemocap)                                                                                     |       |
+| IEMOCAP                                  | 🚶, 🔊, 📃, 🤯     | Dialog  | [sail.usc.edu/iemocap](https://sail.usc.edu/iemocap)                                                                                     | [arxiv](https://arxiv.org/pdf/1810.12541.pdf)      |
 | Creative-IT                              | 🚶, 🔊, 📃, 🤯     | Dialog  | [sail.usc.edu/CreativeIT](https://sail.usc.edu/CreativeIT/ImprovRelease.htm)                                                             |       |
 | Gesture-Speech Dataset                   | 🚶, 🔊             | Monolog | [dropbox](https://www.dropbox.com/sh/j419kp4m8hkt9nd/AAC_pIcS1b_WFBqUp5ofBG1Ia?dl=0)                                                     |       |
 | CMU Panoptic                             | 🚶, 🔊, 📃         | Dialog  | [domedb.perception.cmu](http://domedb.perception.cs.cmu.edu)                                                                             |       |
@@ -330,8 +330,8 @@ A curated list of Awesome **Gesture Generation**
 | ZEGGS Dataset                            | 🚶, 🔊             | Monolog | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)                                                          |       |
 | BEAT Dataset                             | 🚶, 🔊, 📃, ℹ️, 🤯 | Both    | [github.io/BEAT](https://pantomatrix.github.io/BEAT)                                                                                     |       |
 
-- TedTalk Dataset - [Robots Learn Social Skills - End-to-End Learning of Co-Speech Gesture Generation for Humanoid Robots](https://arxiv.org/pdf/1810.12541.pdf) | [homepage](https://sites.google.com/view/youngwoo-yoon/projects/co-speech-gesture-generation)
-- PATS (Pose, Audio, Transcript, Style) - [Style Transfer for Co-Speech Gesture Animation A Multi-Speaker Conditional-Mixture Approach](https://arxiv.org/pdf/2007.12553v1.pdf) | [homepage](https://chahuja.com/pats/) | [github](https://github.com/chahuja/pats)
+- TedTalk Dataset -  | [homepage](https://sites.google.com/view/youngwoo-yoon/projects/co-speech-gesture-generation)
+- PATS (Pose, Audio, Transcript, Style) - [arxiv](Style Transfer for Co-Speech Gesture Animation A Multi-Speaker Conditional-Mixture Approach)(https://arxiv.org/pdf/2007.12553v1.pdf) | [homepage](https://chahuja.com/pats/) | [github](https://github.com/chahuja/pats)
 - Talking With Hands 16.2M - [Talking With Hands 16.2M: A Large-Scale Dataset of Synchronized Body-Finger Motion and Audio for Conversational Motion Analysis and Synthesis](https://personalrobotics.cs.washington.edu/publications/lee2019handmotiondataset.pdf) | [github](https://github.com/facebookresearch/TalkingWithHands32M)
 - BEAT (Body-Expression-Audio-Text) - [Dataset](https://pantomatrix.github.io/BEAT-Dataset/) - [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://arxiv.org/pdf/2203.05297.pdf) | [homepage](https://pantomatrix.github.io/BEAT/) | [github](https://github.com/PantoMatrix/BEAT)
 - GENEA Challenge:
