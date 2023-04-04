@@ -61,9 +61,19 @@ A curated list of Awesome **Gesture Generation**
 
 ### 1. Framework:
 
-### 2. Output:
+- 
 
-### 3. Loss Function:
+### 2. Method:
+
+#### 2.1 Rule Base
+
+-
+
+#### 2.2 Deep Learning
+
+-
+
+### 3. Learning Objective:
 
 | Full name                                                     | Description                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -285,9 +295,7 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="dataset">4. Datasets</a>
 
-Note:
-
-**Input**:
+**Modalities type**:
 
 - 🔊 : audio
 - 📃 : text
