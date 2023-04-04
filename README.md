@@ -285,26 +285,26 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="dataset">4. Datasets</a>
 
-Note: *input* 🔊 - audio, 📃 - text, 🤯 - emotion, 🚶 - gesture motion, ℹ️ - gesture properties, 🎞️ - gesture segment
+Note: _input_ 🔊 - audio, 📃 - text, 🤯 - emotion, 🚶 - gesture motion, ℹ️ - gesture properties, 🎞️ - gesture segment
 
-| Dataset                                  | Modalities               | Type    | Link                                                                                                                                     | Paper |
-| ---------------------------------------- | ------------------------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| IEMOCAP                                  | 🚶, 🔊, 📃, 🤯           | Dialog  | [sail.usc.edu/iemocap](https://sail.usc.edu/iemocap)                                                                                     |       |
-| Creative-IT                              | 🚶, 🔊, 📃, 🤯           | Dialog  | [sail.usc.edu/CreativeIT](https://sail.usc.edu/CreativeIT/ImprovRelease.htm)                                                             |       |
-| Gesture-Speech Dataset                   | 🚶, 🔊                   | Monolog | [dropbox](https://www.dropbox.com/sh/j419kp4m8hkt9nd/AAC_pIcS1b_WFBqUp5ofBG1Ia?dl=0)                                                     |       |
-| CMU Panoptic                             | 🚶, 🔊, 📃               | Dialog  | [domedb.perception.cmu](http://domedb.perception.cs.cmu.edu)                                                                             |       |
-| Speech-Gesture                           | 🚶, 🔊                   | Monolog | [amirbar/speech2gesture](https://github.com/amirbar/speech2gesture)                                                                      |       |
-| TED Dataset                              | 🚶, 🔊                   | Monolog | [youtube-gesture-dataset](https://github.com/youngwoo-yoon/youtube-gesture-dataset)                                                      |       |
-| Talking With Hands                       | 🚶, 🔊                   | Dialog  | [facebookresearch/TalkingWithHands32M](https://github.com/facebookresearch/TalkingWithHands32M)                                          |       |
-| PATS                                     | 🚶, 🔊, 📃               | Monolog | [chahuja.com/pats](https://chahuja.com/pats)                                                                                             |       |
-| Trinity Speech-Gesture                   | 🚶, 🔊                   | Monolog | [Trinity Speech-Gesture I](https://trinityspeechgesture.scss.tcd.ie)                                                                     |       |
-| Trinity Speech-Gesture I GENEA Extension | 🚶, 🔊, 📃               | Monolog | [Trinity Speech-Gesture I](https://trinityspeechgesture.scss.tcd.ie/data/Trinity%20Speech-Gesture%20I/GENEA_Challenge_2020_data_release) |       |
-| Trinity Speech-Gesture II                | 🚶, 🔊, 🎞️               | Monolog | [Trinity Speech GestureII](https://trinityspeechgesture.scss.tcd.ie/data/Trinity%20Speech-Gesture%20II)                                  |       |
-| Speech-Gesture 3D extension              | 🚶, 🔊                   | Monolog | [nextcloud.mpi-klsb](https://nextcloud.mpi-klsb.mpg.de/index.php/s/7LzxGSepzrndg2x)                                                      |       |
-| Talking With Hands GENEA Extension       | 🚶, 🔊, 📃               | Dialog  | [zenodo/6998231](https://zenodo.org/record/6998231)                                                                                      |       |
+| Dataset                                  | Modalities         | Type    | Link                                                                                                                                     | Paper |
+| ---------------------------------------- | ------------------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| IEMOCAP                                  | 🚶, 🔊, 📃, 🤯     | Dialog  | [sail.usc.edu/iemocap](https://sail.usc.edu/iemocap)                                                                                     |       |
+| Creative-IT                              | 🚶, 🔊, 📃, 🤯     | Dialog  | [sail.usc.edu/CreativeIT](https://sail.usc.edu/CreativeIT/ImprovRelease.htm)                                                             |       |
+| Gesture-Speech Dataset                   | 🚶, 🔊             | Monolog | [dropbox](https://www.dropbox.com/sh/j419kp4m8hkt9nd/AAC_pIcS1b_WFBqUp5ofBG1Ia?dl=0)                                                     |       |
+| CMU Panoptic                             | 🚶, 🔊, 📃         | Dialog  | [domedb.perception.cmu](http://domedb.perception.cs.cmu.edu)                                                                             |       |
+| Speech-Gesture                           | 🚶, 🔊             | Monolog | [amirbar/speech2gesture](https://github.com/amirbar/speech2gesture)                                                                      |       |
+| TED Dataset                              | 🚶, 🔊             | Monolog | [youtube-gesture-dataset](https://github.com/youngwoo-yoon/youtube-gesture-dataset)                                                      |       |
+| Talking With Hands                       | 🚶, 🔊             | Dialog  | [facebookresearch/TalkingWithHands32M](https://github.com/facebookresearch/TalkingWithHands32M)                                          |       |
+| PATS                                     | 🚶, 🔊, 📃         | Monolog | [chahuja.com/pats](https://chahuja.com/pats)                                                                                             |       |
+| Trinity Speech-Gesture                   | 🚶, 🔊             | Monolog | [Trinity Speech-Gesture I](https://trinityspeechgesture.scss.tcd.ie)                                                                     |       |
+| Trinity Speech-Gesture I GENEA Extension | 🚶, 🔊, 📃         | Monolog | [Trinity Speech-Gesture I](https://trinityspeechgesture.scss.tcd.ie/data/Trinity%20Speech-Gesture%20I/GENEA_Challenge_2020_data_release) |       |
+| Trinity Speech-Gesture II                | 🚶, 🔊, 🎞️         | Monolog | [Trinity Speech GestureII](https://trinityspeechgesture.scss.tcd.ie/data/Trinity%20Speech-Gesture%20II)                                  |       |
+| Speech-Gesture 3D extension              | 🚶, 🔊             | Monolog | [nextcloud.mpi-klsb](https://nextcloud.mpi-klsb.mpg.de/index.php/s/7LzxGSepzrndg2x)                                                      |       |
+| Talking With Hands GENEA Extension       | 🚶, 🔊, 📃         | Dialog  | [zenodo/6998231](https://zenodo.org/record/6998231)                                                                                      |       |
 | SaGA                                     | 🚶, 🔊, ℹ️         | Dialog  | [phonetik.uni-muenchen](https://www.phonetik.uni-muenchen.de/Bas/BasSaGAeng.html)                                                        |       |
 | SaGA++                                   | 🚶, 🔊, ℹ️         | Dialog  | [zenodo/6546229](https://zenodo.org/record/6546229)                                                                                      |       |
-| ZEGGS Dataset                            | 🚶, 🔊                   | Monolog | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)                                                          |       |
+| ZEGGS Dataset                            | 🚶, 🔊             | Monolog | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)                                                          |       |
 | BEAT Dataset                             | 🚶, 🔊, 📃, ℹ️, 🤯 | Both    | [github.io/BEAT](https://pantomatrix.github.io/BEAT)                                                                                     |       |
 
 - TedTalk Dataset - [Robots Learn Social Skills - End-to-End Learning of Co-Speech Gesture Generation for Humanoid Robots](https://arxiv.org/pdf/1810.12541.pdf) | [homepage](https://sites.google.com/view/youngwoo-yoon/projects/co-speech-gesture-generation)
