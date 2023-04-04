@@ -346,6 +346,19 @@ A curated list of Awesome **Gesture Generation**
 - Algorithms
   - [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents](https://github.com/ai4r/SGToolkit) | [homepage](https://uist.acm.org/uist2021/) | [video](https://www.youtube.com/watch?v=qClSOtLiVlc)
 
+- Recognition:
+  - OpenPose - https://github.com/CMU-Perceptual-Computing-Lab/openpose
+  - MMPose - https://github.com/open-mmlab/mmpose
+
+- Audio pre-processing:
+  - 
+
+- Mesh processing:
+  - Utility to trim BVH files: [github.com/ghenter/trim_bvh](https://github.com/ghenter/trim_bvh)
+
+- Visualization:
+  - [github.com/TeoNikolov/genea_visualizer](https://github.com/TeoNikolov/genea_visualizer)
+
 ## <a name="talks">Talks</a>
 
 ![Youtube](./img/youtube.png)
@@ -368,7 +381,6 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="code">Code</a>
 
-- Visualization code: [github.com/TeoNikolov/genea_visualizer](https://github.com/TeoNikolov/genea_visualizer)
 - Objective evaluation code: [github.com/genea-workshop/genea_numerical_evaluations](https://github.com/genea-workshop/genea_numerical_evaluations)
 - Text-based baseline: [github.com/youngwoo-yoon/Co-Speech_Gesture_Generation](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
 - Audio-based baseline: [github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder](https://github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder/tree/GENEA_2022)
