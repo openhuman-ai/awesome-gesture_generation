@@ -290,15 +290,32 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="dataset">4. Datasets</a>
 
-- PATS (Pose, Audio, Transcript, Style) - [Style Transfer for Co-Speech Gesture Animation A Multi-Speaker Conditional-Mixture Approach](https://arxiv.org/pdf/2007.12553v1.pdf) | [homepage](https://chahuja.com/pats/) | [github](https://github.com/chahuja/pats)
+| Dataset                                  | Modalities                                   | Type    | Link                                                                                                          | Paper |
+| ---------------------------------------- | -------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------- | ----- |
+| IEMOCAP                                  | Ges., Audio, Text, Emotion                   | Dialog  | https://sail.usc.edu/iemocap/                                                                                 |       |
+| Creative-IT                              | joint rot. Ges., Audio, Text, Emotion        | Dialog  | https://sail.usc.edu/CreativeIT/ImprovRelease.htm                                                             |       |
+| Gesture-Speech Dataset                   | Ges., Audio                                  | Monolog | https://www.dropbox.com/sh/j419kp4m8hkt9nd/AAC_pIcS1b_WFBqUp5ofBG1Ia?dl=0                                     |       |
+| CMU Panoptic                             | Ges., Audio, Text                            | Dialog  | http://domedb.perception.cs.cmu.edu/                                                                          |       |
+| Speech-Gesture                           | Ges., Audio                                  | Monolog | https://github.com/amirbar/speech2gesture                                                                     |       |
+| TED Dataset                              | Ges., Audio                                  | Monolog | https://github.com/youngwoo-yoon/youtube-gesture-dataset                                                      |       |
+| Talking With Hands                       | Ges., Audio                                  | Dialog  | https://github.com/facebookresearch/TalkingWithHands32M                                                       |       |
+| PATS                                     | Ges., Audio, Text                            | Monolog | https://chahuja.com/pats/                                                                                     |       |
+| Trinity Speech-Gesture                   | Ges., Audio                                  | Monolog | https://trinityspeechgesture.scss.tcd.ie/                                                                     |       |
+| Trinity Speech-Gesture I GENEA Extension | Ges., Audio, Text                            | Monolog | https://trinityspeechgesture.scss.tcd.ie/data/Trinity%20Speech-Gesture%20I/GENEA_Challenge_2020_data_release/ |       |
+| Trinity Speech-Gesture II                | Ges., Audio, Gest. segment.                  | Monolog | https://trinityspeechgesture.scss.tcd.ie/data/Trinity%20Speech-Gesture%20II/                                  |       |
+| Speech-Gesture 3D extension              | Ges., Audio                                  | Monolog | https://nextcloud.mpi-klsb.mpg.de/index.php/s/7LzxGSepzrndg2x                                                 |       |
+| Talking With Hands GENEA Extension       | Ges., Audio, Text                            | Dialog  | https://zenodo.org/record/6998231                                                                             |       |
+| SaGA                                     | Ges., Audio, Gest. properties                | Dialog  | https://www.phonetik.uni-muenchen.de/Bas/BasSaGAeng.html                                                      |       |
+| SaGA++                                   | Ges., Audio, Gest. properties                | Dialog  | https://zenodo.org/record/6546229                                                                             |       |
+| ZEGGS Dataset                            | Ges., Audio                                  | Monolog | https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS                                                           |       |
+| BEAT Dataset                             | Ges., Audio, Text, Gest. properties, Emotion | Both    | https://pantomatrix.github.io/BEAT/                                                                           |       |
 
 - TedTalk Dataset - [Robots Learn Social Skills - End-to-End Learning of Co-Speech Gesture Generation for Humanoid Robots](https://arxiv.org/pdf/1810.12541.pdf) | [homepage](https://sites.google.com/view/youngwoo-yoon/projects/co-speech-gesture-generation)
-
+- PATS (Pose, Audio, Transcript, Style) - [Style Transfer for Co-Speech Gesture Animation A Multi-Speaker Conditional-Mixture Approach](https://arxiv.org/pdf/2007.12553v1.pdf) | [homepage](https://chahuja.com/pats/) | [github](https://github.com/chahuja/pats)
 - Talking With Hands 16.2M - [Talking With Hands 16.2M: A Large-Scale Dataset of Synchronized Body-Finger Motion and Audio for Conversational Motion Analysis and Synthesis](https://personalrobotics.cs.washington.edu/publications/lee2019handmotiondataset.pdf) | [github](https://github.com/facebookresearch/TalkingWithHands32M)
-
 - BEAT (Body-Expression-Audio-Text) - [Dataset](https://pantomatrix.github.io/BEAT-Dataset/) - [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://arxiv.org/pdf/2203.05297.pdf) | [homepage](https://pantomatrix.github.io/BEAT/) | [github](https://github.com/PantoMatrix/BEAT)
-
 - GENEA Challenge:
+  - TWH GENEA
   - Challenge dataset: [GENEA Challenge 2022 Dataset Files](https://zenodo.org/record/6998231)
   - 3D coordinates of submitted motion: [GENEA Challenge 2022 3D coordinates of submitted motion](https://zenodo.org/record/6973297)
   - Submitted BVH files: [GENEA Challenge 2022 submitted BVH files](https://zenodo.org/record/6977157)
