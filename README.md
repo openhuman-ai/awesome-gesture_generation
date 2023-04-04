@@ -347,8 +347,9 @@ A curated list of Awesome **Gesture Generation**
   - [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents](https://github.com/ai4r/SGToolkit) | [homepage](https://uist.acm.org/uist2021/) | [video](https://www.youtube.com/watch?v=qClSOtLiVlc)
 
 - Recognition:
-  - OpenPose - https://github.com/CMU-Perceptual-Computing-Lab/openpose
-  - MMPose - https://github.com/open-mmlab/mmpose
+  - OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose)
+  - AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
 
 - Audio pre-processing:
   - 
