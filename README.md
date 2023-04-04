@@ -4,7 +4,7 @@ A curated list of Awesome **Gesture Generation**
 
 <p align="center">
 
-<img src="./img/gesture_generation.jpeg">
+<img src="./img/gesture_generation.png">
 
 </p>
 
