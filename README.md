@@ -344,7 +344,7 @@ A curated list of Awesome **Gesture Generation**
 | Var       | Variance                                         | dfdsfs      |
 | WCSS      | Within-cluster Sum of Squares                    | dfdsfs      |
 
-$Loss $=-\sum_{i=1}^{\substack{\text { output } \\ \text { size }}} y_i \cdot \log \hat{y}_i$$
+$$Loss $=-\sum_{i=1}^{\substack{\text { output } \\ \text { size }}} y_i \cdot \log \hat{y}_i$$
 
 ## License
 
