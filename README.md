@@ -35,7 +35,7 @@ A curated list of Awesome **Gesture Generation**
 
 **PapersWithCode**
 
-- Gesture Generation : [https://paperswithcode.com/task/gesture-generation](https://paperswithcode.com/task/gesture-generation)
+[paperswithcode.com/Gesture Generation](https://paperswithcode.com/task/gesture-generation)
 
 ## <a name="survey">1. Survey</a>
 
@@ -58,6 +58,12 @@ A curated list of Awesome **Gesture Generation**
 - [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) | [homepage](https://svito-zar.github.io/GENEAchallenge2020/) | [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) | [github](https://github.com/Svito-zar/genea_numerical_evaluations)
 
 ## <a name="method">2. Method</a>
+
+### 1. Framework:
+
+### 2. Output:
+
+### 3. Loss Function:
 
 | Full name                                                     | Description                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
