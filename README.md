@@ -45,8 +45,6 @@ A curated list of Awesome **Gesture Generation**
 
 - [Gesture and speech in interaction: An overview](https://www.sciencedirect.com/science/article/abs/pii/S0167639313001295?via%3Dihub)
 
-</details>
-
 **GENEA Challenge**
 
 - [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://arxiv.org/abs/2208.10441) | [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) | [video](https://www.youtube.com/watch?v=4n02wXGGnd0)
@@ -55,32 +53,30 @@ A curated list of Awesome **Gesture Generation**
 
 - [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) | [homepage](https://svito-zar.github.io/GENEAchallenge2020/) | [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) | [github](https://github.com/Svito-zar/genea_numerical_evaluations)
 
-</details>
-
 ## <a name="method">2. Method</a>
 
-| Objective | Full name                                        | Description                                                                                                                                                                                                                                                                 |
-| --------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Adv       | Adversarial Loss                                 | Used in Generative Adversarial Networks (GANs), this loss function pits a generator network against a discriminator network, with the goal of the generator producing samples that can fool the discriminator into thinking they are real.                                  |
-| CCE       | Categorical Cross Entropy                        | A common loss function used in multi-class classification tasks, where the goal is to minimize the difference between the predicted and true class labels.                                                                                                                  |
-| CC-NCE    | Cross-modal Cluster Noise Contrastive Estimation | Used in multimodal learning to learn joint representations across different modalities, this loss function maximizes the similarity between matching modalities while minimizing the similarity between non-matching modalities.                                            |
-| ETC       | Edge Transition Cost                             | Used in graph-based image segmentation, this loss function measures the similarity between adjacent pixels in an image to preserve the coherence and smoothness of segmented regions.                                                                                       |
-| EM        | Expectation Maximization                         | Used for maximum likelihood estimation when dealing with incomplete or missing data, this algorithm involves computing the expected likelihood of the missing data and updating model parameters to maximize the likelihood of the observed data given the expected values. |
-| GeoD      | Geodesic Distance                                | Used in deep learning for image segmentation, this loss function penalizes the discrepancy between the predicted segmentation map and the ground truth, while also considering the spatial relationships between different image regions.                                   |
-| WGAN-GP   | Wasserstein-GAN Gradient Penalty                 | An extension of the Wasserstein GAN algorithm that adds a gradient penalty term to the loss function, used to enforce the Lipschitz continuity constraint and ensure stability during training.                                                                             |
-| Hamm      | Hamming Distance                                 | Used in information theory, this metric measures the number of positions at which two strings differ.                                                                                                                                                                       |
-| Huber     | Huber Loss                                       | A robust loss function used in regression tasks that is less sensitive to outliers than the Mean Squared Error (MSE) loss.                                                                                                                                                  |
-| IR        | Imitation Reward                                 | Used in imitation learning to train a model to mimic the behavior of an expert agent, by providing a reward signal based on how closely the model's behavior matches that of the expert.                                                                                    |
-| KL        | Kullback–Leibler Divergence                      | Used to measure the difference between two probability distributions, this loss function is commonly used in probabilistic models and deep learning for regularization and training.                                                                                        |
-| L2        | L2 Distance                                      | Measures the Euclidean distance between two points in space, commonly used in regression tasks.                                                                                                                                                                             |
-| MAE       | Mean Absolute Error                              | A loss function used in regression tasks that measures the average difference between the predicted and true values.                                                                                                                                                        |
-| MLE       | Maximum Likelihood Estimation                    | A statistical method used to estimate the parameters of a probability distribution that maximize the likelihood of observing the data.                                                                                                                                      |
-| MSE       | Mean Squared Error                               | A common loss function used in regression tasks that measures the average squared difference between the predicted and true values.                                                                                                                                         |
-| NLL       | Negative Log-likelihood                          | Used in probabilistic models to maximize the likelihood of the observed data by minimizing the negative log-likelihood.                                                                                                                                                     |
-| SIMM      | Structural Similarity Index Measure              | Used in image processing to measure the similarity between two images based on their luminance, contrast, and structural content.                                                                                                                                           |
-| TR        | Task Reward                                      | Used in reinforcement learning to provide a reward signal to an agent based on its performance in completing a given task.                                                                                                                                                  |
-| Var       | Variance                                         | A statistical metric used to measure the variability of a set of data points around their mean.                                                                                                                                                                             |
-| WCSS      | Within-cluster Sum of Squares                    | Used in cluster analysis to measure the variability of data points within a cluster by computing the sum of squared distances between each data point and the mean of the cluster.                                                                                          |
+| Full name                                                     | Description                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adversarial Loss (**Adv**)                                    | Used in Generative Adversarial Networks (GANs), this loss function pits a generator network against a discriminator network, with the goal of the generator producing samples that can fool the discriminator into thinking they are real.                                  |
+| Categorical Cross Entropy (**CCE**)                           | A common loss function used in multi-class classification tasks, where the goal is to minimize the difference between the predicted and true class labels.                                                                                                                  |
+| Cross-modal Cluster Noise Contrastive Estimation (**CC-NCE**) | Used in multimodal learning to learn joint representations across different modalities, this loss function maximizes the similarity between matching modalities while minimizing the similarity between non-matching modalities.                                            |
+| Edge Transition Cost (**ETC**)                                | Used in graph-based image segmentation, this loss function measures the similarity between adjacent pixels in an image to preserve the coherence and smoothness of segmented regions.                                                                                       |
+| Expectation Maximization (**EM**)                             | Used for maximum likelihood estimation when dealing with incomplete or missing data, this algorithm involves computing the expected likelihood of the missing data and updating model parameters to maximize the likelihood of the observed data given the expected values. |
+| Geodesic Distance (**GeoD**)                                  | Used in deep learning for image segmentation, this loss function penalizes the discrepancy between the predicted segmentation map and the ground truth, while also considering the spatial relationships between different image regions.                                   |
+| Wasserstein-GAN Gradient Penalty (**WGAN-GP**)                | An extension of the Wasserstein GAN algorithm that adds a gradient penalty term to the loss function, used to enforce the Lipschitz continuity constraint and ensure stability during training.                                                                             |
+| Hamming Distance (**Hamm**)                                   | Used in information theory, this metric measures the number of positions at which two strings differ.                                                                                                                                                                       |
+| Huber Loss (**Huber**)                                        | A robust loss function used in regression tasks that is less sensitive to outliers than the Mean Squared Error (MSE) loss.                                                                                                                                                  |
+| Imitation Reward (**IR**)                                     | Used in imitation learning to train a model to mimic the behavior of an expert agent, by providing a reward signal based on how closely the model's behavior matches that of the expert.                                                                                    |
+| Kullback–Leibler Divergence (**KL**)                          | Used to measure the difference between two probability distributions, this loss function is commonly used in probabilistic models and deep learning for regularization and training.                                                                                        |
+| L2 Distance (**L2**)                                          | Measures the Euclidean distance between two points in space, commonly used in regression tasks.                                                                                                                                                                             |
+| Mean Absolute Error (**MAE**)                                 | A loss function used in regression tasks that measures the average difference between the predicted and true values.                                                                                                                                                        |
+| Maximum Likelihood Estimation (**MLE**)                       | A statistical method used to estimate the parameters of a probability distribution that maximize the likelihood of observing the data.                                                                                                                                      |
+| Mean Squared Error (**MSE**)                                  | A common loss function used in regression tasks that measures the average squared difference between the predicted and true values.                                                                                                                                         |
+| Negative Log-likelihood (**NLL**)                             | Used in probabilistic models to maximize the likelihood of the observed data by minimizing the negative log-likelihood.                                                                                                                                                     |
+| Structural Similarity Index Measure (**SIMM**)                | Used in image processing to measure the similarity between two images based on their luminance, contrast, and structural content.                                                                                                                                           |
+| Task Reward (**TR**)                                          | Used in reinforcement learning to provide a reward signal to an agent based on its performance in completing a given task.                                                                                                                                                  |
+| Variance (**Var**)                                            | A statistical metric used to measure the variability of a set of data points around their mean.                                                                                                                                                                             |
+| Within-cluster Sum of Squares (**WCSS**)                      | Used in cluster analysis to measure the variability of data points within a cluster by computing the sum of squared distances between each data point and the mean of the cluster.                                                                                          |
 
 ## <a name="papers">3. Papers</a>
 
@@ -91,7 +87,6 @@ A curated list of Awesome **Gesture Generation**
 - [The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony](https://core.ac.uk/download/pdf/15945024.pdf)
 - [Complexity Matters E05: Complexity Matching and Synchronization between Gestures and Speech](https://www.youtube.com/watch?v=lMb-So8wKS8)
 
-</details>
 <!-- ************************* Base-paper ************************* -->
 
 ---
@@ -143,7 +138,6 @@ A curated list of Awesome **Gesture Generation**
   - [Interpreting and Generating Gestures with Embodied Human Computer Interactions](https://zenodo.org/record/4088625#.ZBqSLtJByV4)
   - [The Nectec Gesture Generation System entry to the GENEA Challenge 2020](https://zenodo.org/record/4088629#.ZBqSQ9JByV4)s
 
-</details>
 <!-- ************************* GENEA Challenge ************************* -->
 
 ---
@@ -167,7 +161,6 @@ A curated list of Awesome **Gesture Generation**
   - [Learning Individual Styles of Conversational Gesture](https://github.com/amirbar/speech2gesture)
   - [Robots Learning to Say `No': Prohibition and Rejective Mechanisms in Acquisition of Linguistic Negation](https://arxiv.org/abs/1810.11804v1)
 
-</details>
 <!-- ************************* Kaggle ************************* -->
 
 ---
@@ -181,7 +174,6 @@ A curated list of Awesome **Gesture Generation**
 - []()
 - []()
 
-</details>
 <!-- ************************* 2023 ************************* -->
 
 ---
@@ -198,7 +190,6 @@ A curated list of Awesome **Gesture Generation**
 - [Automatic text‐to‐gesture rule generation for embodied conversational agents](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1944) [video](https://www.youtube.com/watch?v=GIxaI9yTmMc)
 - [Gesture2Vec: Clustering Gestures using Representation Learning Methods for Co-speech Gesture Generation](https://sfumars.com/wp-content/papers/2022_iros_gesture2vec.pdf) [github](https://github.com/pjyazdian/Gesture2Vec) | [video](https://www.youtube.com/watch?v=ac8jWk4fdCU) | [video](https://www.youtube.com/watch?v=qFObMpOboCg)
 
-</details>
 <!-- ************************* 2022 ************************* -->
 
 ---
@@ -217,7 +208,6 @@ A curated list of Awesome **Gesture Generation**
 - []()
 - []()
 
-</details>
 <!-- ************************* 2021 ************************* -->
 
 ---
@@ -234,7 +224,6 @@ A curated list of Awesome **Gesture Generation**
 - []()
 - []()
 
-</details>
 <!-- ************************* 2020 ************************* -->
 
 ---
@@ -248,7 +237,6 @@ A curated list of Awesome **Gesture Generation**
 - []()
 - []()
 
-</details>
 <!-- ************************* 2019 ************************* -->
 
 ---
@@ -263,7 +251,6 @@ A curated list of Awesome **Gesture Generation**
 
 - []()
 
-</details>
 <!-- ************************* 2018 ************************* -->
 
 ---
@@ -274,7 +261,6 @@ A curated list of Awesome **Gesture Generation**
 
 - []()
 
-</details>
 <!-- ************************* <2017 ************************* -->
 
 ---
@@ -285,7 +271,6 @@ A curated list of Awesome **Gesture Generation**
 
 - [Rig Inversion by Training a Differentiable Rig Function](https://arxiv.org/abs/2301.09567) | [video](https://www.youtube.com/watch?v=sYCz9LGIkuI)
 
-</details>
 <!-- ************************* Others ************************* -->
 
 ## <a name="dataset">4. Datasets</a>
