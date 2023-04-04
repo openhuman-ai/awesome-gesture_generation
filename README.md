@@ -321,32 +321,30 @@ A curated list of Awesome **Gesture Generation**
 - Utility to trim BVH files: [github.com/ghenter/trim_bvh](https://github.com/ghenter/trim_bvh)
 - Modified PyMO for the challenge dataset: [youngwoo-yoon/PyMO](https://github.com/youngwoo-yoon/PyMO)
 
-| Objective | Full name                                        | Description                                                                                   |
-| --------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| Adv       | Adversarial Loss                                 | $l_{G e n}^{S R}=\sum_{n=1}^N-\log D_{\theta_D}\left(G_{\theta_G}\left(I^{L R}\right)\right)$ |
-| CCE       | Categorical Cross Entropy                        | $Loss =-\sum_{i=1}^{\substack{\text { output } \\ \text { size }}} y_i \cdot \log \hat{y}_i$  |
-| CC-NCE    | Cross-modal Cluster Noise Contrastive Estimation | dfdsfs                                                                                        |
-| ETC       | Edge Transition Cost                             | dfdsfs                                                                                        |
-| EM        | Expectation Maximization                         | dfdsfs                                                                                        |
-| GeoD      | Geodesic Distance                                | dfdsfs                                                                                        |
-| WGAN-GP   | Wasserstein-GAN Gradient Penalty                 | dfdsfs                                                                                        |
-| Hamm      | Hamming Distance                                 | dfdsfs                                                                                        |
-| Huber     | Huber Loss                                       | dfdsfs                                                                                        |
-| IR        | Imitation Reward                                 | dfdsfs                                                                                        |
-| KL        | Kullback–Leibler Divergence                      | dfdsfs                                                                                        |
-| L2        | L2 Distance                                      | dfdsfs                                                                                        |
-| MAE       | Mean Absolute Error                              | dfdsfs                                                                                        |
-| MLE       | Maximum Likelihood Estimation                    | dfdsfs                                                                                        |
-| MSE       | Mean Squared Error                               | dfdsfs                                                                                        |
-| NLL       | Negative Log-likelihood                          | dfdsfs                                                                                        |
-| SIMM      | Structural Similarity Index Measure              | dfdsfs                                                                                        |
-| TR        | Task Reward                                      | dfdsfs                                                                                        |
-| Var       | Variance                                         | dfdsfs                                                                                        |
-| WCSS      | Within-cluster Sum of Squares                    | dfdsfs                                                                                        |
+| Objective | Full name                                        | Description                                                                                                                      |
+| --------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Adv       | Adversarial Loss                                 | $l_{G e n}^{S R}=\sum_{n=1}^N-\log D_{\theta_D}\left(G_{\theta_G}\left(I^{L R}\right)\right)$                                    |
+| CCE       | Categorical Cross Entropy                        | $Loss = -\sum_{i=1}^{\text{output size}} y_i \cdot \log \hat{y}_i$                                                               |
+| CC-NCE    | Cross-modal Cluster Noise Contrastive Estimation | $L = -log(\frac{s}{(s + n)})$                                                                                                    |
+| ETC       | Edge Transition Cost                             | $L*{E T C}=\sum_c \sum*{i, j} w\_{i j}\left(y_i \neq y_j\right) \exp \left(-\lambda\left \| I_i-I_j\right \| ^2\right)$          |
+| EM        | Expectation Maximization                         | $L_{EM}=−log_p ( X ∣ θ )$ $Q\left(\theta \mid \theta^{(t)}\right)=\mathbb{E}_{Z \mid X, \theta^{(t)}}[\log p(X, Z \mid \theta)]$ |
+| GeoD      | Geodesic Distance                                | dfdsfs                                                                                                                           |
+| WGAN-GP   | Wasserstein-GAN Gradient Penalty                 | dfdsfs                                                                                                                           |
+| Hamm      | Hamming Distance                                 | dfdsfs                                                                                                                           |
+| Huber     | Huber Loss                                       | dfdsfs                                                                                                                           |
+| IR        | Imitation Reward                                 | dfdsfs                                                                                                                           |
+| KL        | Kullback–Leibler Divergence                      | dfdsfs                                                                                                                           |
+| L2        | L2 Distance                                      | dfdsfs                                                                                                                           |
+| MAE       | Mean Absolute Error                              | dfdsfs                                                                                                                           |
+| MLE       | Maximum Likelihood Estimation                    | dfdsfs                                                                                                                           |
+| MSE       | Mean Squared Error                               | dfdsfs                                                                                                                           |
+| NLL       | Negative Log-likelihood                          | dfdsfs                                                                                                                           |
+| SIMM      | Structural Similarity Index Measure              | dfdsfs                                                                                                                           |
+| TR        | Task Reward                                      | dfdsfs                                                                                                                           |
+| Var       | Variance                                         | dfdsfs                                                                                                                           |
+| WCSS      | Within-cluster Sum of Squares                    | dfdsfs                                                                                                                           |
 
-$Loss =-\sum_{i=1}^{\substack{\text { output } \\ \text { size }}} y_i \cdot \log \hat{y}_i$
-
-$l_{G e n}^{S R}=\sum_{n=1}^N-\log D_{\theta_D}\left(G_{\theta_G}\left(I^{L R}\right)\right)$
+$L_{\text{EM}}=−log_p ( X ∣ θ )$
 
 ## License
 
