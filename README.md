@@ -4,7 +4,9 @@ A curated list of Awesome **Gesture Generation**
 
 <p align="center">
 
+<a href="https://www.youtube.com/watch?v=2nDaBHUWpC0">
 <img src="./img/gesture_generation.png">
+</a>
 
 </p>
 
