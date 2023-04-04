@@ -285,7 +285,16 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="dataset">4. Datasets</a>
 
-Note: _input_ 🔊 - audio, 📃 - text, 🤯 - emotion, 🚶 - gesture motion, ℹ️ - gesture properties, 🎞️ - gesture segment
+Note:
+
+**Input**:
+
+- 🔊 : audio
+- 📃 : text
+- 🤯 : emotion
+- 🚶 : gesture motion
+- ℹ️ : gesture properties
+- 🎞️ : gesture segment
 
 | Dataset                                  | Modalities         | Type    | Link                                                                                                                                     | Paper |
 | ---------------------------------------- | ------------------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----- |
