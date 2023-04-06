@@ -302,8 +302,8 @@ A curated list of Awesome **Gesture Generation**
 
 - Rhythmic Gesticulator - [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) | [github](https://github.com/aubrey-ao/humanbehavioranimation) | [video](https://www.youtube.com/watch?v=qy2MrNhsoIs) | [video](https://www.youtube.com/watch?v=DO_W8plFWco)
 - HA2G - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/abs/2203.13161) | [github](https://github.com/alvinliu0/HA2G)
-- DiffGAN - 
-- Deichler et al. [DWAB22]
+- DiffGAN - [Low-Resource Adaptation for Personalized Co-Speech Gesture Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.pdf)
+- [Towards Context-Aware Human-like Pointing Gestures with RL Motion Imitation](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1664509)
 - Zhou et al. [ZYL∗22]
 - Zhuang et al. [ZQZ∗22]
 - SEEG - [SEEG: Semantic Energized Co-Speech Gesture Generation](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html) | [github](https://github.com/akira-l/seeg)
