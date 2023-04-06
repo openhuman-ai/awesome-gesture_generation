@@ -43,6 +43,7 @@ A curated list of Awesome **Gesture Generation**
 - [paperswithcode.com/Gesture Generation](https://paperswithcode.com/task/gesture-generation)
 - [GENEA Workshop](https://genea-workshop.github.io/)
 - [github/topic/gesture-generation](https://github.com/topics/gesture-generation)
+- [twitter/WorkshopGENEA](https://twitter.com/workshopgenea)
 
 ---
 
@@ -209,7 +210,7 @@ A curated list of Awesome **Gesture Generation**
 **<a name="2020">2020</a>**
 
 - [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [video](https://www.youtube.com/watch?v=Y-5dgBQk34c) ; [github](https://github.com/Svito-zar/genea_numerical_evaluations)
-- [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) ; || [video](https://www.youtube.com/watch?v=VQ8he6jjW08) ; [github](https://github.com/Svito-zar/gesticulator) ; [homepage](https://svito-zar.github.io/gesticulator/) ; [dataset](https://figshare.com/projects/Gesticulator/87128)
+- [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) ; | [video](https://www.youtube.com/watch?v=VQ8he6jjW08) ; [github](https://github.com/Svito-zar/gesticulator) ; [homepage](https://svito-zar.github.io/gesticulator/) ; [dataset](https://figshare.com/projects/Gesticulator/87128)
 - [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows]() ; [video](https://www.youtube.com/watch?v=egf3tjbWBQE) ; [github](https://github.com/simonalexanderson/StyleGestures)
 - [Probabilistic Multi-modal Interlocutor-awa\*re Generation of Facial Gestures in Dyadic Settings](https://arxiv.org/abs/2006.09888) ; [video](https://www.youtube.com/watch?v=RhazMS4L_bk) ; [homepage](https://jonepatr.github.io/lets_face_it/)
 - [Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents](https://arxiv.org/pdf/2009.10760.pdf)
@@ -374,8 +375,7 @@ A curated list of Awesome **Gesture Generation**
 | TED Dataset [homepage](https://sites.google.com/view/youngwoo-yoon/projects/co-speech-gesture-generation)                                                             | 🚶, 🔊             | 👤     | [youtube-gesture-dataset](https://github.com/youngwoo-yoon/youtube-gesture-dataset)                                                      |                                                                                                          |
 | Talking With Hands ([github](https://github.com/facebookresearch/TalkingWithHands32M))                                                                                | 🚶, 🔊             | 👥     | [facebookresearch/TalkingWithHands32M](https://github.com/facebookresearch/TalkingWithHands32M)                                          | [personalrobotics](https://personalrobotics.cs.washington.edu/publications/lee2019handmotiondataset.pdf) |
 | PATS ([homepage](https://chahuja.com/pats/), [github](https://github.com/chahuja/pats))                                                                               | 🚶, 🔊, 📃         | 👤     | [chahuja.com/pats](https://chahuja.com/pats)                                                                                             | [arxiv](https://arxiv.org/pdf/2007.12553v1.pdf)                                                          |
-| Trinity Speech-Gesture                                                                                                                                                | 🚶, 🔊             | 👤     | [Trinity Speech-Gesture I](https://trinityspeechgesture.scss.tcd.ie)                                                                     |                                                                                                          |
-| Trinity Speech-Gesture I GENEA Extension                                                                                                                              | 🚶, 🔊, 📃         | 👤     | [Trinity Speech-Gesture I](https://trinityspeechgesture.scss.tcd.ie/data/Trinity%20Speech-Gesture%20I/GENEA_Challenge_2020_data_release) |                                                                                                          |
+| Trinity Speech-Gesture I                                                                                                                                              | 🚶, 🔊, 📃         | 👤     | [Trinity Speech-Gesture I](https://trinityspeechgesture.scss.tcd.ie/data/Trinity%20Speech-Gesture%20I/GENEA_Challenge_2020_data_release) |                                                                                                          |
 | Trinity Speech-Gesture II                                                                                                                                             | 🚶, 🔊, 🎞️         | 👤     | [Trinity Speech GestureII](https://trinityspeechgesture.scss.tcd.ie/data/Trinity%20Speech-Gesture%20II)                                  |                                                                                                          |
 | Speech-Gesture 3D extension                                                                                                                                           | 🚶, 🔊             | 👤     | [nextcloud.mpi-klsb](https://nextcloud.mpi-klsb.mpg.de/index.php/s/7LzxGSepzrndg2x)                                                      |                                                                                                          |
 | Talking With Hands GENEA Extension                                                                                                                                    | 🚶, 🔊, 📃         | 👥     | [zenodo/6998231](https://zenodo.org/record/6998231)                                                                                      | [dl.acm.org](https://dl.acm.org/doi/abs/10.1145/3536221.3558068)                                         |
@@ -410,7 +410,7 @@ A curated list of Awesome **Gesture Generation**
 
 - Audio pre-processing:
 
-  - df
+  -
 
 - Mesh processing:
 
