@@ -280,7 +280,7 @@ A curated list of Awesome **Gesture Generation**
 
 ### <a name="rulebase"> 3.1 Rule Base approach
 
-- 
+-
 
 <!-- ************************* Rule Base ************************* -->
 
@@ -290,11 +290,11 @@ A curated list of Awesome **Gesture Generation**
 
 ### <a name="datadriven">3.2 Data-driven approach
 
-- 
+-
 
 #### <a name="statistical">3.2.1 Statistical
 
-- 
+-
 
 #### <a name="deeplearning">3.2.2 Deep learning approach
 
@@ -302,8 +302,8 @@ A curated list of Awesome **Gesture Generation**
 
 - Rhythmic Gesticulator - [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) | [github](https://github.com/aubrey-ao/humanbehavioranimation) | [video](https://www.youtube.com/watch?v=qy2MrNhsoIs) | [video](https://www.youtube.com/watch?v=DO_W8plFWco)
 - HA2G - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/abs/2203.13161) | [github](https://github.com/alvinliu0/HA2G)
-- DiffGAN - 
-- Deichler et al. [DWAB22] 
+- DiffGAN -
+- Deichler et al. [DWAB22]
 - Zhou et al. [ZYL∗22]
 - Zhuang et al. [ZQZ∗22]
 - SEEG - [SEEG: Semantic Energized Co-Speech Gesture Generation](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html) | [github](https://github.com/akira-l/seeg)
@@ -311,29 +311,29 @@ A curated list of Awesome **Gesture Generation**
 - ZS-MSTM [FGPO22]
 - ZeroEGGS [GFC22]
 - GestureMaster [ZBC22]
-- Nguyen et al. [NC22] 
+- Nguyen et al. [NC22]
 - Kucherenko et al. [KNN∗22]
-- Wu et al. [WLII21a] 
-- Wu et al. [WLII21b] 
+- Wu et al. [WLII21a]
+- Wu et al. [WLII21b]
 - Flow-VAE [TWGM21]
 - Rebol et al. [RGP21]
 - Qian et al. [QTZ∗21]
 - CMCF [SBM21]
 - ExpressGesture [FNM21]
-- Text2Gestures [BRB∗21] 
+- Text2Gestures [BRB∗21]
 - Lee et al. [LAM21]
 - Body2Hands [NGDJ21]
 - Audio2Gestures [LKP∗21]
 - Korzun et al. [KDZ21]
 - Habibie et al. [HXM∗21]
-- AiSLE [ALIM20] 
+- AiSLE [ALIM20]
 - StyleGestures [AHKB20]
-- Gesticulator [KJvW∗20] 
+- Gesticulator [KJvW∗20]
 - Bozkurt et al. [BYE20]
-- Yoon et al. [YCL∗20] 
+- Yoon et al. [YCL∗20]
 - Mix-StAGE [ALNM20]
 - CDBN [SB19]
-- Ferstl et al. [FNM19] 
+- Ferstl et al. [FNM19]
 - Speech2Gesture [GBK∗19]
 - DRAM [AMMS19]
 - Yoon et al. [YKJ∗19]
