@@ -308,9 +308,9 @@ A curated list of Awesome **Gesture Generation**
 - [Text/Speech-Driven Full-Body Animation](https://arxiv.org/abs/2205.15573)
 - SEEG - [SEEG: Semantic Energized Co-Speech Gesture Generation](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html) | [github](https://github.com/akira-l/seeg)
 - [A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech](https://dl.acm.org/doi/abs/10.1145/3528233.3530750)
-- ZS-MSTM [FGPO22]
-- ZeroEGGS [GFC22]
-- GestureMaster [ZBC22]
+- [Zero-Shot Style Transfer for Gesture Animation driven by Text and Speech using Adversarial Disentanglement of Multimodal Style Encoding](https://arxiv.org/abs/2208.01917)
+- ZeroEGGS [Exemplar-based stylized gesture generation from speech: An entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558068)
+- GestureMaster [GestureMaster: Graph-based Speech-driven Gesture Generation](https://dl.acm.org/doi/abs/10.1145/3536221.3558063)
 - Nguyen et al. [NC22]
 - Kucherenko et al. [KNN∗22]
 - Wu et al. [WLII21a]
