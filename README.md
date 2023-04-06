@@ -28,7 +28,7 @@ A curated list of Awesome **Gesture Generation**
   - [3.1 Rule base approach](#rulebase)
   - [3.2 Deep learning approach](#deeplearning)
 - [4. Pipeline](#pipeline)
-- [5. Learning objective](#objective)
+- [5. Learning objective](#learnobjective)
 - [6. Metric](#metric)
 - [7. Dataset](#dataset)
 - [8. Toolkit](#toolkit)
@@ -271,11 +271,11 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ###################################################### APPROACHS  ###################################################### -->
 
-## <a name="approachs">4. Approachs</a>
+## <a name="approachs">3. Approachs</a>
 
 <!-- ************************* Rule Base ************************* -->
 
-#### <a name="rulebase"> 4.1 Rule Base approach
+#### <a name="rulebase"> 3.1 Rule Base approach
 
 -
 
@@ -285,7 +285,7 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* Deep learning ************************* -->
 
-#### <a name="deeplearning">4.2 Deep learning approach
+#### <a name="deeplearning">3.2 Deep learning approach
 
 ---
 
@@ -295,7 +295,7 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ###################################################### PIPELINES  ###################################################### -->
 
-## <a name="pipeline">3. Pipelines
+## <a name="pipeline">4. Pipelines
 
 -
 
@@ -305,7 +305,7 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ###################################################### LEARNING OBJECTED  ###################################################### -->
 
-## <a name="learnobjective"> 4. Learning Objective
+## <a name="learnobjective"> 5. Learning Objective
 
 | Full name                                                     | Description                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
