@@ -46,7 +46,7 @@ A curated list of Awesome **Gesture Generation**
 
 ---
 
-<!-- ######################### SURVEY ################################### -->
+<!-- ###################################################### SURVEYS  ###################################################### -->
 
 ## <a name="survey">1. Survey</a>
 
@@ -68,11 +68,11 @@ A curated list of Awesome **Gesture Generation**
 
 - [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) | [github](https://github.com/Svito-zar/genea_numerical_evaluations)
 
-<!-- ######################### SURVEY ################################### -->
+<!-- ###################################################### SURVEYS  ###################################################### -->
 
 ---
 
-<!-- ######################## METHOD  ########################### -->
+<!-- ###################################################### PAPERS  ###################################################### -->
 
 ## <a name="papers">2. Papers</a>
 
@@ -138,7 +138,7 @@ A curated list of Awesome **Gesture Generation**
 
 **<a name="kaggle"><bold>2.3 Kaggle Ranking</bold></a>**
 
-- **TEDTalk**
+- **Extract from video (TEDTalk Dataset)**
 
   - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/pdf/2203.13161.pdf) [github](https://github.com/alvinliu0/HA2G) ; [video]() ; [homepage](https://alvinliu0.github.io/projects/HA2G)
   - [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) ; [github](https://github.com/aubrey-ao/humanbehavioranimation) ; [video](https://www.youtube.com/watch?v=qy2MrNhsoIs)
@@ -146,7 +146,7 @@ A curated list of Awesome **Gesture Generation**
   - [Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity](https://arxiv.org/abs/2009.02119v1) [github](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) ; [github](https://github.com/PantoMatrix/BEAT)
   - [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://arxiv.org/abs/2108.00262v2) [github](https://github.com/UttaranB127/speech2affective_gestures)
 
-- **BEAT**
+- **Motion Capture Dataset (BEAT)**
   - [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://arxiv.org/abs/2203.05297v5) ; [github](https://github.com/PantoMatrix/BEAT)
   - [Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity](https://arxiv.org/abs/2009.02119v1) ; [github](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
   - [Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders](https://arxiv.org/abs/2108.06720v1)
@@ -265,7 +265,9 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* Others ************************* -->
 
-<!-- ######################## Approachs  ########################### -->
+<!-- ###################################################### PAPERS  ###################################################### -->
+
+---
 
 <!-- ###################################################### APPROACHS  ###################################################### -->
 
@@ -273,7 +275,7 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* Rule Base ************************* -->
 
-#### <a name="rulebase"> Rule Base approach
+#### <a name="rulebase"> 4.1 Rule Base approach
 
 -
 
@@ -283,7 +285,7 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* Deep learning ************************* -->
 
-#### <a name="deeplearning"> Deep learning approach
+#### <a name="deeplearning">4.2 Deep learning approach
 
 ---
 
@@ -291,11 +293,13 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ###################################################### APPROACHS  ###################################################### -->
 
-## <a name="framwork">3. Pipelines
+<!-- ###################################################### PIPELINES  ###################################################### -->
+
+## <a name="pipeline">3. Pipelines
 
 -
 
-<!-- ######################## METHOD  ########################### -->
+<!-- ###################################################### PIPELINES  ###################################################### -->
 
 ---
 
@@ -416,7 +420,6 @@ A curated list of Awesome **Gesture Generation**
   - [github.com/TeoNikolov/genea_visualizer](https://github.com/TeoNikolov/genea_visualizer)
 
 <!-- ###################################################### TOOLKIT  ###################################################### -->
-
 
 <!-- ######################## TALKS  ########################### -->
 
