@@ -294,7 +294,7 @@ A curated list of Awesome **Gesture Generation**
 
 #### <a name="statistical">3.2.1 Statistical
 
--
+- 
 
 #### <a name="deeplearning">3.2.2 Deep learning approach
 
@@ -302,7 +302,7 @@ A curated list of Awesome **Gesture Generation**
 
 - Rhythmic Gesticulator - [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) | [github](https://github.com/aubrey-ao/humanbehavioranimation) | [video](https://www.youtube.com/watch?v=qy2MrNhsoIs) | [video](https://www.youtube.com/watch?v=DO_W8plFWco)
 - HA2G - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/abs/2203.13161) | [github](https://github.com/alvinliu0/HA2G)
-- DiffGAN -
+- DiffGAN - 
 - Deichler et al. [DWAB22]
 - Zhou et al. [ZYL∗22]
 - Zhuang et al. [ZQZ∗22]
