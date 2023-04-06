@@ -26,7 +26,9 @@ A curated list of Awesome **Gesture Generation**
   - [Others](#others)
 - [3. Approach](#approachs)
   - [3.1 Rule base approach](#rulebase)
-  - [3.2 Deep learning approach](#deeplearning)
+  - [3.2 Data-driven approach](#datadriven)
+    - [3.2.1 Statistical](#statistical)
+    - [3.2.2 Deep learning approach](#deeplearning)
 - [4. Pipeline](#pipeline)
 - [5. Learning objective](#learnobjective)
 - [6. Metric](#metric)
@@ -276,7 +278,7 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* Rule Base ************************* -->
 
-#### <a name="rulebase"> 3.1 Rule Base approach
+### <a name="rulebase"> 3.1 Rule Base approach
 
 -
 
@@ -286,7 +288,17 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* Deep learning ************************* -->
 
-#### <a name="deeplearning">3.2 Deep learning approach
+### <a name="datadriven">3.2 Data-driven approach
+
+- 
+
+#### <a name="statistical">3.2.1 Statistical
+
+- 
+
+#### <a name="deeplearning">3.2.2 Deep learning approach
+
+- 
 
 ---
 
