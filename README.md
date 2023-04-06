@@ -304,10 +304,10 @@ A curated list of Awesome **Gesture Generation**
 - HA2G - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/abs/2203.13161) | [github](https://github.com/alvinliu0/HA2G)
 - DiffGAN - [Low-Resource Adaptation for Personalized Co-Speech Gesture Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.pdf)
 - [Towards Context-Aware Human-like Pointing Gestures with RL Motion Imitation](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1664509)
-- Zhou et al. [ZYL∗22]
-- Zhuang et al. [ZQZ∗22]
+- [Audio-Driven Neural Gesture Reenactment With Video Motion Graphs](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Audio-Driven_Neural_Gesture_Reenactment_With_Video_Motion_Graphs_CVPR_2022_paper.html)
+- [Text/Speech-Driven Full-Body Animation](https://arxiv.org/abs/2205.15573)
 - SEEG - [SEEG: Semantic Energized Co-Speech Gesture Generation](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html) | [github](https://github.com/akira-l/seeg)
-- Habibie et al. [HES∗22]
+- [A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech](https://dl.acm.org/doi/abs/10.1145/3528233.3530750)
 - ZS-MSTM [FGPO22]
 - ZeroEGGS [GFC22]
 - GestureMaster [ZBC22]
