@@ -40,8 +40,6 @@ A curated list of Awesome **Gesture Generation**
 
 ---
 
-# OpenHuman.ai - Open Realistic Human Assistant
-
 **Main link**
 
 - [paperswithcode.com/Gesture Generation](https://paperswithcode.com/task/gesture-generation)
@@ -392,9 +390,33 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="metric"> 5. Metric Evaluation
 
-| Metric  | Formula | Description |
-| ------- | ------- | ----------- |
-| IEMOCAP | $ssss$  | Description |
+- 🧑‍🦲 : Upper-body tier
+- 🧍 : Full-body tier
+
+| Metric | Type | Description               |
+| ------ | ---- | ------------------------- |
+| FNA    | 🧍   | Full-body Natural Motion  |
+| FBT    | 🧍   | Full-body Text-based      |
+| FSA    | 🧍   | Full-body Audio-based     |
+<!-- | FSB    | 🧍   |                           |
+| FSC    | 🧍   |                           |
+| FSD    | 🧍   |                           |
+| FSF    | 🧍   |                           |
+| FSG    | 🧍   |                           |
+| FSH    | 🧍   |                           |
+| FSI    | 🧍   |                           |
+| ------ | ---- | -------------------       | -->
+| UNA    | 🧑‍🦲   | Upper-body Natural Motion |
+| UBA    | 🧑‍🦲   | Upper-body Audio-based    |
+| UBT    | 🧑‍🦲   | Upper-body Text-based     |
+<!-- | USJ    | 🧑‍🦲   |                           |
+| USK    | 🧑‍🦲   |                           |
+| USL    | 🧑‍🦲   |                           |
+| USM    | 🧑‍🦲   |                           |
+| USN    | 🧑‍🦲   |                           |
+| USO    | 🧑‍🦲   |                           |
+| USP    | 🧑‍🦲   |                           |
+| USQ    | 🧑‍🦲   |                           | -->
 
 <!-- ###################################################### METRIC  ###################################################### -->
 
@@ -521,3 +543,7 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 ## License
 
 MIT
+
+## Create by OpenHuman
+
+OpenHuman.ai - Open Realistic Human Assistant
