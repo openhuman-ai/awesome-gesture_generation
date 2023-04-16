@@ -40,6 +40,8 @@ A curated list of Awesome **Gesture Generation**
 
 ---
 
+# OpenHuman.ai - Open Realistic Human Assistant
+
 **Main link**
 
 - [paperswithcode.com/Gesture Generation](https://paperswithcode.com/task/gesture-generation)
