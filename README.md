@@ -1,5 +1,7 @@
 # Awesome Gesture Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+**Continuing editing (Not finished yet)**
+
 A curated list of Awesome **Gesture Generation**
 
 <p align="center">
@@ -398,6 +400,9 @@ A curated list of Awesome **Gesture Generation**
 | FNA    | 🧍   | Full-body Natural Motion  |
 | FBT    | 🧍   | Full-body Text-based      |
 | FSA    | 🧍   | Full-body Audio-based     |
+| UNA    | 🧑‍🦲   | Upper-body Natural Motion |
+| UBA    | 🧑‍🦲   | Upper-body Audio-based    |
+| UBT    | 🧑‍🦲   | Upper-body Text-based     |
 <!-- | FSB    | 🧍   |                           |
 | FSC    | 🧍   |                           |
 | FSD    | 🧍   |                           |
@@ -406,9 +411,7 @@ A curated list of Awesome **Gesture Generation**
 | FSH    | 🧍   |                           |
 | FSI    | 🧍   |                           |
 | ------ | ---- | -------------------       | -->
-| UNA    | 🧑‍🦲   | Upper-body Natural Motion |
-| UBA    | 🧑‍🦲   | Upper-body Audio-based    |
-| UBT    | 🧑‍🦲   | Upper-body Text-based     |
+
 <!-- | USJ    | 🧑‍🦲   |                           |
 | USK    | 🧑‍🦲   |                           |
 | USL    | 🧑‍🦲   |                           |
