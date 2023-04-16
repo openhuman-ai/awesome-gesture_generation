@@ -549,4 +549,4 @@ MIT
 
 ## Create by OpenHuman
 
-OpenHuman.ai - Open Realistic Human Assistant
+[OpenHuman.ai](https://www.openhuman.ai) - Open Realistic Human Assistant
