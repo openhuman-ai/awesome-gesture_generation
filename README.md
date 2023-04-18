@@ -94,7 +94,7 @@ A curated list of Awesome **Gesture Generation**
 
 - **2023 - Accepted papers**
 
-  - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974) ; [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
+- 
 
 - **2022 - Accepted papers**
 
@@ -120,6 +120,8 @@ A curated list of Awesome **Gesture Generation**
 - ReprGesture - [The ReprGesture entry to the GENEA Challenge 2022](https://openreview.net/forum?id=atWaELmguNj7)
 - TransGesture - [TransGesture: Autoregressive Gesture Generation with RNN-Transducer](https://openreview.net/forum?id=AYMDEx97qPN)
 - DSI - [Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation](https://openreview.net/forum?id=-2HZD-e6pX7W) ; [github](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
+
+- [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974) ; [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
 
 - **2021 - Accepted papers**
 
