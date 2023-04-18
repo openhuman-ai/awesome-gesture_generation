@@ -505,15 +505,6 @@ A curated list of Awesome **Gesture Generation**
 
 - [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=1)
 
-<!-- ## Websites
-
-- []() -->
-
-<!-- ## Video
-
-- []()
-- []() -->
-
 <!-- ######################## CODE  ########################### -->
 
 ## <a name="code">Code</a>
