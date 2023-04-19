@@ -94,7 +94,7 @@ A curated list of Awesome **Gesture Generation**
 
 - **2023 - Accepted papers**
 
-- 
+-
 
 - **2022 - Accepted papers**
 
@@ -102,7 +102,7 @@ A curated list of Awesome **Gesture Generation**
 | ------------------ | ----------- | ------------ |
 | DeepMotion         | Title       | ✓            |
 | DSI                | Text        | ✓            |
-| FineMotion         | Text        | ✓            |
+| FineMotion         | Text        |              |
 | Forgerons          | Text        | ✓            |
 | GestureMaster      | Text        | ✓            |
 | IVI Lab            | Text        | ✓            |
