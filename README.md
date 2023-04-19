@@ -205,7 +205,6 @@ A curated list of Awesome **Gesture Generation**
 - [Moving Fast and Slow: Analysis of Representations and Post-Processing in Speech-Driven Automatic Gesture Generation](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1883883)
 - []()
 - []()
-- []()
 
 <!-- ************************* 2021 ************************* -->
 
@@ -538,6 +537,6 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 
 MIT
 
-## Create by [OpenHuman](https://github.com/Openhuman-ai)
+## Created by [OpenHuman](https://github.com/Openhuman-ai)
 
 [OpenHuman.ai](https://www.openhuman.ai) - Open Realistic Human Assistant
