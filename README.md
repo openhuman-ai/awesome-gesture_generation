@@ -18,6 +18,7 @@ A curated list of Awesome **Gesture Generation**
 - [2. Papers](#papers)
   - [Fundamental Paper](#fundamental)
   - [GENEA Challenge](#genea)
+  - [Kaggle](#kaggle)
   - [2023](#2023)
   - [2022](#2022)
   - [2021](#2021)
@@ -143,7 +144,7 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* Kaggle ************************* -->
 
-**<a name="kaggle"><bold>2.3 Kaggle Ranking</bold></a>**
+**<a name="kaggle"></a><bold>2.3 Kaggle Ranking</bold>**
 
 - **Extract from video Dataset (TEDTalk)**
 
@@ -461,7 +462,8 @@ A curated list of Awesome **Gesture Generation**
 | ZEGGS Dataset [video](https://www.youtube.com/watch?v=YFg7QKWkjwQ)                                                                                                    | 🚶, 🔊             | 👤     | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)                                                          | [arxiv](https://arxiv.org/abs/2209.07556)                                                                |
 | BEAT Dataset ([homepage](https://pantomatrix.github.io/BEAT-Dataset/) [homepage](https://pantomatrix.github.io/BEAT/), [github](https://github.com/PantoMatrix/BEAT)) | 🚶, 🔊, 📃, ℹ️, 🤯 | 👥, 👤 | [github.io/BEAT](https://pantomatrix.github.io/BEAT)                                                                                     | [arxiv](https://arxiv.org/pdf/2203.05297.pdf)                                                            |
 
-- 2022 GENEA Challenge:
+
+#### 2022 GENEA Challenge:
   - Challenge dataset: [GENEA Challenge 2022 Dataset Files](https://zenodo.org/record/6998231)
   - 3D coordinates of submitted motion: [GENEA Challenge 2022 3D coordinates of submitted motion](https://zenodo.org/record/6973297)
   - Submitted BVH files: [GENEA Challenge 2022 submitted BVH files](https://zenodo.org/record/6977157)
