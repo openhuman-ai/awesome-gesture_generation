@@ -257,7 +257,7 @@ A curated list of Awesome **Gesture Generation**
 
 **<a name="2017">Before 2017</a>**
 
-- []()
+- 
 
 <!-- ************************* <2017 ************************* -->
 
