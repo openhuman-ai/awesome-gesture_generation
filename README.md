@@ -99,6 +99,8 @@ A curated list of Awesome **Gesture Generation**
 
 - **2022 - Accepted papers**
 
+
+<!--
 | Method             | Description | Autogressive |
 | ------------------ | ----------- | ------------ |
 | DeepMotion         | Title       | ✓            |
@@ -111,6 +113,7 @@ A curated list of Awesome **Gesture Generation**
 | ReprGesture        | Text        | ✓            |
 | TransGesture       | Text        | ✓            |
 | UEA Digital Humans | Text        | ✓            |
+-->
 
 - DeepMotion - [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
 - IVI Lab - [The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3536221.3558060)
@@ -137,8 +140,7 @@ A curated list of Awesome **Gesture Generation**
   - [CGVU: Semantics-guided 3D Body Gesture Synthesis](https://zenodo.org/record/4090879#.ZBqSHtJByV4)
   - [Interpreting and Generating Gestures with Embodied Human Computer Interactions](https://zenodo.org/record/4088625#.ZBqSLtJByV4)
   - [The Nectec Gesture Generation System entry to the GENEA Challenge 2020](https://zenodo.org/record/4088629#.ZBqSQ9JByV4)
-
-<!-- ************************* GENEA Challenge ************************* -->
+ ************************* GENEA Challenge ************************* 
 
 ---
 
