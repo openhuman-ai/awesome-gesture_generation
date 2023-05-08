@@ -82,22 +82,26 @@ A curated list of Awesome **Gesture Generation**
 * The GENEA [GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents](https://dl.acm.org/doi/10.1145/3462244.3480983)
 * The GENEA [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617)
 
+<li> [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://arxiv.org/abs/2208.10441) </li>
+<li> [GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents](https://dl.acm.org/doi/10.1145/3462244.3480983) </li>
+<li> [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) </li>
+
 </details>
 
 <details><summary>GENEA 1</summary>
 
-* The GENEA
-* The GENEA
-* The GENEA
+<li>The GENEA</li>
+<li>The GENEA</li>
+<li>The GENEA</li>
 
 </details>
 
 
 <details><summary>GENEA 2</summary>
 
-* <li>The GENEA</li>
-* <li>The GENEA</li>
-* <li>The GENEA</li>
+<li>The GENEA</li>
+<li>The GENEA</li>
+<li>The GENEA</li>
 
 </details>
 
