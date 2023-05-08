@@ -95,10 +95,9 @@ A curated list of Awesome **Gesture Generation**
 
 - **2023 - Accepted papers**
 
--
+- 
 
 - **2022 - Accepted papers**
-
 
 <!--
 | Method             | Description | Autogressive |
@@ -124,8 +123,8 @@ A curated list of Awesome **Gesture Generation**
 - ReprGesture - [The ReprGesture entry to the GENEA Challenge 2022](https://openreview.net/forum?id=atWaELmguNj7)
 - TransGesture - [TransGesture: Autoregressive Gesture Generation with RNN-Transducer](https://openreview.net/forum?id=AYMDEx97qPN)
 - DSI - [Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation](https://openreview.net/forum?id=-2HZD-e6pX7W) ; [github](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
-
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974) ; [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
+
 
 - **2021 - Accepted papers**
 
@@ -133,14 +132,16 @@ A curated list of Awesome **Gesture Generation**
   - [Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood](https://openreview.net/forum?id=GjjPtEVdSLB)
   - [Crossmodal clustered contrastive learning: Grounding of spoken language to gesture](https://openreview.net/forum?id=o8CpxaBurZQ) ; [github](https://github.com/dondongwon/CC_NCE_GENEA)
 
+
 - **2020 - Accepted papers**
+
   - [The StyleGestures entry to the GENEA Challenge 2020](https://genea-workshop.github.io/2020/downloads/Alexanderson2020StyleGestures.pdf) ; [zendomo](https://zenodo.org/record/4088600#.ZBqRWNJByV4)
   - [The FineMotion entry to the GENEA Challenge 2020](https://zenodo.org/record/4088609#.ZBqSB9JByV4)
   - [Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth](https://zenodo.org/record/4088376#.ZBqR89JByV4)
   - [CGVU: Semantics-guided 3D Body Gesture Synthesis](https://zenodo.org/record/4090879#.ZBqSHtJByV4)
   - [Interpreting and Generating Gestures with Embodied Human Computer Interactions](https://zenodo.org/record/4088625#.ZBqSLtJByV4)
   - [The Nectec Gesture Generation System entry to the GENEA Challenge 2020](https://zenodo.org/record/4088629#.ZBqSQ9JByV4)
- ************************* GENEA Challenge ************************* 
+<!-- ************************* GENEA Challenge ************************* -->
 
 ---
 
@@ -171,9 +172,8 @@ A curated list of Awesome **Gesture Generation**
 
 **<a name="2023">2023</a>**
 
-- [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) ; [github](https://github.com/google/mipnerf) ; [web](https://www.ea.com/seed/news/genea-challenge-2022)
-- []()
-- []()
+- 【CVPR23】[Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf)
+- 【PAKDD 2023】[RLMixer: A Reinforcement Learning Approach For Integrated Ranking With Contrastive User Preference Modeling](https://batmanzzmc.github.io/assets/pdf/PAKDD2023.pdf)
 - []()
 
 <!-- ************************* 2023 ************************* -->
@@ -184,6 +184,7 @@ A curated list of Awesome **Gesture Generation**
 
 **<a name="2022">2022</a>**
 
+- [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) ; [github](https://github.com/google/mipnerf) ; [web](https://www.ea.com/seed/news/genea-challenge-2022)
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974)
 - [ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](https://arxiv.org/abs/2209.07556) ; [github](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ; [video](https://www.youtube.com/watch?v=EJPdTtVrxHo)
 - [Voice2Face: Audio-Driven Facial and Tongue Rig Animations](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-sca2022-voice2face-paper.pdf) ; [video](https://www.youtube.com/watch?v=R4CWYAQe4Zs) ; [web](https://www.ea.com/seed/news/sca22-voice2face-audio-driven-facial-animation)
@@ -259,7 +260,7 @@ A curated list of Awesome **Gesture Generation**
 
 **<a name="2017">Before 2017</a>**
 
-- 
+-
 
 <!-- ************************* <2017 ************************* -->
 
@@ -464,12 +465,12 @@ A curated list of Awesome **Gesture Generation**
 | ZEGGS Dataset [video](https://www.youtube.com/watch?v=YFg7QKWkjwQ)                                                                                                    | 🚶, 🔊             | 👤     | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)                                                          | [arxiv](https://arxiv.org/abs/2209.07556)                                                                |
 | BEAT Dataset ([homepage](https://pantomatrix.github.io/BEAT-Dataset/) [homepage](https://pantomatrix.github.io/BEAT/), [github](https://github.com/PantoMatrix/BEAT)) | 🚶, 🔊, 📃, ℹ️, 🤯 | 👥, 👤 | [github.io/BEAT](https://pantomatrix.github.io/BEAT)                                                                                     | [arxiv](https://arxiv.org/pdf/2203.05297.pdf)                                                            |
 
-
 #### 2022 GENEA Challenge:
-  - Challenge dataset: [GENEA Challenge 2022 Dataset Files](https://zenodo.org/record/6998231)
-  - 3D coordinates of submitted motion: [GENEA Challenge 2022 3D coordinates of submitted motion](https://zenodo.org/record/6973297)
-  - Submitted BVH files: [GENEA Challenge 2022 submitted BVH files](https://zenodo.org/record/6977157)
-  - User-study video stimuli: [GENEA Challenge 2022 user-study video stimuli](https://zenodo.org/record/6997926)
+
+- Challenge dataset: [GENEA Challenge 2022 Dataset Files](https://zenodo.org/record/6998231)
+- 3D coordinates of submitted motion: [GENEA Challenge 2022 3D coordinates of submitted motion](https://zenodo.org/record/6973297)
+- Submitted BVH files: [GENEA Challenge 2022 submitted BVH files](https://zenodo.org/record/6977157)
+- User-study video stimuli: [GENEA Challenge 2022 user-study video stimuli](https://zenodo.org/record/6997926)
 
 <!-- ###################################################### DATASETS  ###################################################### -->
 
