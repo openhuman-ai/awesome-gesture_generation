@@ -68,40 +68,15 @@ A curated list of Awesome **Gesture Generation**
 
 **GENEA Challenge**
 
+<!-- - [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://arxiv.org/abs/2208.10441) ; [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) ; [video](https://www.youtube.com/watch?v=4n02wXGGnd0)
+- [GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents](https://dl.acm.org/doi/10.1145/3462244.3480983) ; [homepage](https://genea-workshop.github.io/2021/)
+- [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [github](https://github.com/Svito-zar/genea_numerical_evaluations) -->
+
 <details><summary>The GENEA Challenge 2022</summary>
 
-- [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://arxiv.org/abs/2208.10441) ; [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) ; [video](https://www.youtube.com/watch?v=4n02wXGGnd0)
-- [GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents](https://dl.acm.org/doi/10.1145/3462244.3480983) ; [homepage](https://genea-workshop.github.io/2021/)
-- [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [github](https://github.com/Svito-zar/genea_numerical_evaluations)
-
-</details>
-
-<details><summary>The GENEA</summary>
-
-* The GENEA [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://arxiv.org/abs/2208.10441)
-* The GENEA [GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents](https://dl.acm.org/doi/10.1145/3462244.3480983)
-* The GENEA [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617)
-
-<li> [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://arxiv.org/abs/2208.10441) </li>
-<li> [GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents](https://dl.acm.org/doi/10.1145/3462244.3480983) </li>
-<li> [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) </li>
-
-</details>
-
-<details><summary>GENEA 1</summary>
-
-<li>The GENEA</li>
-<li>The GENEA</li>
-<li>The GENEA</li>
-
-</details>
-
-
-<details><summary>GENEA 2</summary>
-
-<li>The GENEA</li>
-<li>The GENEA</li>
-<li>The GENEA</li>
+<li> <a href="https://arxiv.org/abs/2208.10441">The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation</a></li>
+<li> <a href="https://dl.acm.org/doi/10.1145/3462244.3480983">GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents</a> </li>
+<li> <a href="https://arxiv.org/abs/2102.11617">The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data</a> </li>
 
 </details>
 
@@ -130,19 +105,24 @@ A curated list of Awesome **Gesture Generation**
 
 - **2022 - Accepted papers**
 
+| Method             |
+| ------------------ |
+| DeepMotion         |
+| DSI                |
+| FineMotion         |
+| Forgerons          |
+| GestureMaster      |
+| IVI Lab            |
+| Murple AI lab      |
+| ReprGesture        |
+| TransGesture       |
+| UEA Digital Humans |
+
 <!--
-| Method             | Description | Autogressive |
-| ------------------ | ----------- | ------------ |
-| DeepMotion         | Title       | ✓            |
-| DSI                | Text        | ✓            |
-| FineMotion         | Text        |              |
-| Forgerons          | Text        | ✓            |
-| GestureMaster      | Text        | ✓            |
-| IVI Lab            | Text        | ✓            |
-| Murple AI lab      | Text        | ✓            |
-| ReprGesture        | Text        | ✓            |
-| TransGesture       | Text        | ✓            |
-| UEA Digital Humans | Text        | ✓            |
+
+Description | Autogressive |
+----------- | ------------ |
+Title       | ✓            |
 -->
 
 - DeepMotion - [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
