@@ -178,7 +178,7 @@ A curated list of Awesome **Gesture Generation**
 
 **<a name="kaggle"></a><bold>2.3 Kaggle Ranking</bold>**
 
-- **Extract from video Dataset (TEDTalk)**
+- **TEDTalk** (Extract from video Dataset)
 
   - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/pdf/2203.13161.pdf) [github](https://github.com/alvinliu0/HA2G) ; [video]() ; [homepage](https://alvinliu0.github.io/projects/HA2G)
   - [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) ; [github](https://github.com/aubrey-ao/humanbehavioranimation) ; [video](https://www.youtube.com/watch?v=qy2MrNhsoIs)
@@ -186,7 +186,7 @@ A curated list of Awesome **Gesture Generation**
   - [Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity](https://arxiv.org/abs/2009.02119v1) [github](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) ; [github](https://github.com/PantoMatrix/BEAT)
   - [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://arxiv.org/abs/2108.00262v2) [github](https://github.com/UttaranB127/speech2affective_gestures)
 
-- **Motion Capture Dataset (BEAT)**
+- **BEAT** (Motion Capture Dataset)
   - [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://arxiv.org/abs/2203.05297v5) ; [github](https://github.com/PantoMatrix/BEAT)
   - [Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity](https://arxiv.org/abs/2009.02119v1) ; [github](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
   - [Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders](https://arxiv.org/abs/2108.06720v1)
