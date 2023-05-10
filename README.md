@@ -58,7 +58,7 @@ A curated list of Awesome **Gesture Generation**
 
 #### **Comprehensive preview**
 
-- 【EUROGRAPHICS 2023】[A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) ; [github](https://github.com/google/mipnerf) ; [web](https://www.ea.com/seed/news/genea-challenge-2022)
+-【EUROGRAPHICS 2023】[A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) ; [github](https://github.com/google/mipnerf) ; [web](https://www.ea.com/seed/news/genea-challenge-2022)
 
 - 2014 - [Gesture and speech in interaction: An overview](https://www.sciencedirect.com/science/article/abs/pii/S0167639313001295?via%3Dihub)
 
@@ -93,11 +93,11 @@ A curated list of Awesome **Gesture Generation**
 
 - **2023 - Accepted papers**
 
--
+- 
 
 - **2022 - Accepted papers**
 
-| Method             |
+<!-- | Method             |
 | ------------------ |
 | DeepMotion         |
 | DSI                |
@@ -108,7 +108,7 @@ A curated list of Awesome **Gesture Generation**
 | Murple AI lab      |
 | ReprGesture        |
 | TransGesture       |
-| UEA Digital Humans |
+| UEA Digital Humans | -->
 
 <!--
 
@@ -173,8 +173,8 @@ Title       | ✓            |
 
 **<a name="2023">2023</a>**
 
-- 【CVPR23】[Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf)
-- 【PAKDD 2023】[RLMixer: A Reinforcement Learning Approach For Integrated Ranking With Contrastive User Preference Modeling](https://batmanzzmc.github.io/assets/pdf/PAKDD2023.pdf)
+-【CVPR23】[Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf)
+-【PAKDD 2023】[RLMixer: A Reinforcement Learning Approach For Integrated Ranking With Contrastive User Preference Modeling](https://batmanzzmc.github.io/assets/pdf/PAKDD2023.pdf)
 - []()
 
 <!-- ************************* 2023 ************************* -->
@@ -185,7 +185,7 @@ Title       | ✓            |
 
 **<a name="2022">2022</a>**
 
-- 【EUROGRAPHICS 2023】 [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) ; [github](https://github.com/google/mipnerf) ; [web](https://www.ea.com/seed/news/genea-challenge-2022)
+-【EUROGRAPHICS 2023】 [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) ; [github](https://github.com/google/mipnerf) ; [web](https://www.ea.com/seed/news/genea-challenge-2022)
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974)
 - [ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](https://arxiv.org/abs/2209.07556) ; [github](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ; [video](https://www.youtube.com/watch?v=EJPdTtVrxHo)
 - [Voice2Face: Audio-Driven Facial and Tongue Rig Animations](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-sca2022-voice2face-paper.pdf) ; [video](https://www.youtube.com/watch?v=R4CWYAQe4Zs) ; [web](https://www.ea.com/seed/news/sca22-voice2face-audio-driven-facial-animation)
