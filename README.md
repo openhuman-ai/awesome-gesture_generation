@@ -87,6 +87,7 @@ A curated list of Awesome **Gesture Generation**
 
 - [The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony](https://core.ac.uk/download/pdf/15945024.pdf)
 - [Complexity Matters E05: Complexity Matching and Synchronization between Gestures and Speech](https://www.youtube.com/watch?v=lMb-So8wKS8)
+- ⭐⭐⭐ [Easier Said Than Done? Task Difficulty's Influence on Temporal Alignment, Semantic Similarity, and Complexity Matching Between Gestures and Speech](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12989)⭐⭐⭐
 
 <!-- ************************* GENEA Challenge ************************* -->
 
