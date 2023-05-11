@@ -49,6 +49,7 @@ A curated list of Awesome **Gesture Generation**
 - [GENEA Workshop](https://genea-workshop.github.io/)
 - [github/topic/gesture-generation](https://github.com/topics/gesture-generation)
 - [twitter/WorkshopGENEA](https://twitter.com/workshopgenea)
+- [Scholar/gesture generation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Gesture+Generation)
 
 ---
 
