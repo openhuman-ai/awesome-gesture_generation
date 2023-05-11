@@ -97,8 +97,8 @@ A curated list of Awesome **Gesture Generation**
 -
 
 - **2022 - Accepted papers**
-  <details open>
-  <summary>Shopping list</summary>
+  <details>
+  <summary>**2022 - Accepted papers**</summary>
 
   <li>DeepMotion - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558059">The DeepMotion entry to the GENEA Challenge 2022</a></li>
   <li>IVI Lab - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558060">The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism</a></li>
