@@ -157,14 +157,14 @@ Title       | ✓            |
 
 <!-- ************************* -->
 <details>
-<summary><bold>2020 - Accepted papers</bold></summary>
+  <summary><bold>2020 - Accepted papers</bold></summary>
 
-<a href="https://genea-workshop.github.io/2020/downloads/Alexanderson2020StyleGestures.pdf">The StyleGestures entry to the GENEA Challenge 2020</a> ; <a href="https://zenodo.org/record/4088600#.ZBqRWNJByV4">zendomo</a>
-<a href="https://zenodo.org/record/4088609#.ZBqSB9JByV4">The FineMotion entry to the GENEA Challenge 2020</a>
-<a href="https://zenodo.org/record/4088376#.ZBqR89JByV4">Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth</a>
-<a href="https://zenodo.org/record/4090879#.ZBqSHtJByV4">CGVU: Semantics-guided 3D Body Gesture Synthesis </a>
-<a href="https://zenodo.org/record/4088625#.ZBqSLtJByV4">Interpreting and Generating Gestures with Embodied Human Computer Interactions</a>
-<a href="https://zenodo.org/record/4088629#.ZBqSQ9JByV4">The Nectec Gesture Generation System entry to the GENEA Challenge 2020</a>
+  <li><a href="https://genea-workshop.github.io/2020/downloads/Alexanderson2020StyleGestures.pdf">The StyleGestures entry to the GENEA Challenge 2020</a> ; <a href="https://zenodo.org/record/4088600#.ZBqRWNJByV4">zendomo</a><li>
+  <li><a href="https://zenodo.org/record/4088609#.ZBqSB9JByV4">The FineMotion entry to the GENEA Challenge 2020</a><li>
+  <li><a href="https://zenodo.org/record/4088376#.ZBqR89JByV4">Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth</a><li>
+  <li><a href="https://zenodo.org/record/4090879#.ZBqSHtJByV4">CGVU: Semantics-guided 3D Body Gesture Synthesis </a><li>
+  <li><a href="https://zenodo.org/record/4088625#.ZBqSLtJByV4">Interpreting and Generating Gestures with Embodied Human Computer Interactions</a><li>
+  <li><a href="https://zenodo.org/record/4088629#.ZBqSQ9JByV4">The Nectec Gesture Generation System entry to the GENEA Challenge 2020</a><li>
 
 </details>
 
