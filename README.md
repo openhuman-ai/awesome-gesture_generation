@@ -101,7 +101,8 @@ A curated list of Awesome **Gesture Generation**
 </details>
 <!-- ************************* -->
 
-<!-- 2022 - Accepted papers -->
+<br/>
+
 <!-- ************************* -->
 <details>
 <summary><bold>2022 - Accepted papers</bold></summary>
@@ -119,6 +120,8 @@ A curated list of Awesome **Gesture Generation**
 
 </details>
 <!-- ************************* -->
+
+<br/>
 <!-- | Method             |
 | ------------------ |
 | DeepMotion         |
@@ -150,20 +153,11 @@ Title       | ✓            |
 </details>
 <!-- ************************* -->
 
-<!-- ************************* -->
-<details>
-<summary><bold>2021 - Accepted papers</bold></summary>
-
-<li><a href="https://openreview.net/forum?id=ykvm7OLh7B">Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGANn</a> ; <a href="https://www.youtube.com/watch?v=PMhjX6cdIPE">video</a></li>
-<li><a href="https://openreview.net/forum?id=GjjPtEVdSLB">Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood</a></li>
-<li><a href="https://openreview.net/forum?id=o8CpxaBurZQ">Crossmodal clustered contrastive learning: Grounding of spoken language to gesture</a> ; <a href="https://github.com/dondongwon/CC_NCE_GENEA">github</a></li>
-
-</details>
-<!-- ************************* -->
+<br/>
 
 <!-- ************************* -->
 <details>
-<summary><bold>2021 - Accepted papers</bold></summary>
+<summary><bold>2020 - Accepted papers</bold></summary>
 
 <a href="https://genea-workshop.github.io/2020/downloads/Alexanderson2020StyleGestures.pdf">The StyleGestures entry to the GENEA Challenge 2020</a> ; <a href="https://zenodo.org/record/4088600#.ZBqRWNJByV4">zendomo</a>
 <a href="https://zenodo.org/record/4088609#.ZBqSB9JByV4">The FineMotion entry to the GENEA Challenge 2020</a>
