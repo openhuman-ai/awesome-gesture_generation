@@ -178,7 +178,7 @@ Title       | ✓            |
 
 **<a name="kaggle"></a><bold>2.3 Kaggle Ranking</bold>**
 
-- **TEDTalk** (Extract from video Dataset)
+- **TEDTalk** (Extract skeleton from video Dataset)
 
   - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/pdf/2203.13161.pdf) [github](https://github.com/alvinliu0/HA2G) ; [video]() ; [homepage](https://alvinliu0.github.io/projects/HA2G)
   - [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) ; [github](https://github.com/aubrey-ao/humanbehavioranimation) ; [video](https://www.youtube.com/watch?v=qy2MrNhsoIs)
