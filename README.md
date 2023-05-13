@@ -489,41 +489,43 @@ A curated list of Awesome **Gesture Generation**
 Evaluation aspects :
 
 - Human-likeness : looks like the motion of a real human
-
-- Appropriateness ("specificity") : appropriate for the given speech, controlling for the human-likeness of the motion
+- Appropriateness (specificity) : appropriate for the given speech, controlling for the human-likeness of the motion
 
 - 🧑‍🦲 : Upper-body tier
 - 🧍 : Full-body tier
 
+<br/>
+
 - 🧍‍♂️ : motion
 - 🖹 : text
 - 🔊 : audio
+- ⚙️ : custom by teams
 
-| Metric | Body tier | Description               | Type |
-| ------ | --------- | ------------------------- | ---- |
-| FNA    | 🧍        | Full-body Natural Motion  | 🧍‍♂️   |
-| FBT    | 🧍        | Full-body Text-based      | 🖹    |
-| FSA    | 🧍        | Full-body Audio-based     | 🔊   |
-| FSB    | 🧍        | Full-body                 |      |
-| FSC    | 🧍        | Full-body                 |      |
-| FSD    | 🧍        | Full-body                 |      |
-| FSF    | 🧍        | Full-body                 |      |
-| FSG    | 🧍        | Full-body                 |      |
-| FSH    | 🧍        | Full-body                 |      |
-| FSI    | 🧍        | Upper-body                |      |
-| ---    | ----      | ----                      | ---  |
-| UNA    | 🧑‍🦲        | Upper-body Natural Motion | 🧍‍♂️   |
-| UBA    | 🧑‍🦲        | Upper-body Audio-based    | 🔊   |
-| UBT    | 🧑‍🦲        | Upper-body Text-based     | 🖹    |
-| USJ    | 🧑‍🦲        | Upper-body                |      |
-| USK    | 🧑‍🦲        | Upper-body                |      |
-| USL    | 🧑‍🦲        | Upper-body                |      |
-| USM    | 🧑‍🦲        | Upper-body                |      |
-| USN    | 🧑‍🦲        | Upper-body                |      |
-| USO    | 🧑‍🦲        | Upper-body                |      |
-| USP    | 🧑‍🦲        | Upper-body                |      |
-| USQ    | 🧑‍🦲        | Upper-body                |      |
-| ------ | --------- | ------------------------- | ---- |
+| Metric | Body tier | Description                | Type |
+| ------ | --------- | -------------------------- | ---- |
+| FNA    | 🧍        | Full-body Natural Motion   | 🧍‍♂️   |
+| FBT    | 🧍        | Full-body Text-based       | 🖹    |
+| FSA    | 🧍        | Full-body Custom by Teams  | ⚙️   |
+| FSB    | 🧍        | Full-body Custom by Teams  | ⚙️   |
+| FSC    | 🧍        | Full-body Custom by Teams  | ⚙️   |
+| FSD    | 🧍        | Full-body Custom by Teams  | ⚙️   |
+| FSF    | 🧍        | Full-body Custom by Teams  | ⚙️   |
+| FSG    | 🧍        | Full-body Custom by Teams  | ⚙️   |
+| FSH    | 🧍        | Full-body Custom by Teams  | ⚙️   |
+| FSI    | 🧍        | Full-body Custom by Teams  | ⚙️   |
+| ---    | ----      | ----                       | ---  |
+| UNA    | 🧑‍🦲        | Upper-body Natural Motion  | 🧍‍♂️   |
+| UBA    | 🧑‍🦲        | Upper-body Audio-based     | 🔊   |
+| UBT    | 🧑‍🦲        | Upper-body Text-based      | 🖹    |
+| USJ    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
+| USK    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
+| USL    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
+| USM    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
+| USN    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
+| USO    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
+| USP    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
+| USQ    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
+| ------ | --------- | -------------------------  | ---- |
 
 ### Objective metrics
 
