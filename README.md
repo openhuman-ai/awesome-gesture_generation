@@ -504,9 +504,6 @@ Evaluation aspects :
 | FNA    | 🧍        | Full-body Natural Motion  | 🧍‍♂️   |
 | FBT    | 🧍        | Full-body Text-based      | 🖹    |
 | FSA    | 🧍        | Full-body Audio-based     | 🔊   |
-| UNA    | 🧑‍🦲        | Upper-body Natural Motion | 🧍‍♂️   |
-| UBA    | 🧑‍🦲        | Upper-body Audio-based    | 🔊   |
-| UBT    | 🧑‍🦲        | Upper-body Text-based     | 🖹    |
 | FSB    | 🧍        | Full-body                 |      |
 | FSC    | 🧍        | Full-body                 |      |
 | FSD    | 🧍        | Full-body                 |      |
@@ -514,6 +511,10 @@ Evaluation aspects :
 | FSG    | 🧍        | Full-body                 |      |
 | FSH    | 🧍        | Full-body                 |      |
 | FSI    | 🧍        | Upper-body                |      |
+| ---    | ----      | ----                      | ---  |
+| UNA    | 🧑‍🦲        | Upper-body Natural Motion | 🧍‍♂️   |
+| UBA    | 🧑‍🦲        | Upper-body Audio-based    | 🔊   |
+| UBT    | 🧑‍🦲        | Upper-body Text-based     | 🖹    |
 | USJ    | 🧑‍🦲        | Upper-body                |      |
 | USK    | 🧑‍🦲        | Upper-body                |      |
 | USL    | 🧑‍🦲        | Upper-body                |      |
