@@ -91,15 +91,20 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* GENEA Challenge ************************* -->
 
-**<a name="genea">2.2 GENEA Challenge</a>**
+### **<a name="genea">2.2 GENEA</a>**
 
 <!-- ************************* -->
+
+#### GENEA 2023
+
 <details>
   <summary><bold>2023 - Accepted papers</bold></summary>
 
   <li><a href=""></a></li>
 
 </details>
+
+[GENEA CHALLENGE 2023](https://genea-workshop.github.io/2023/challenge/)
 
 [GENEA WORKSHOP 2023](https://genea-workshop.github.io/2023/)
 
@@ -108,6 +113,9 @@ A curated list of Awesome **Gesture Generation**
 <br/>
 
 <!-- ************************* -->
+
+#### GENEA 2022
+
 <details> 
 <summary><bold>GENEA Challenge 2022 - Accepted papers</bold></summary>
 
@@ -123,7 +131,7 @@ A curated list of Awesome **Gesture Generation**
 
 </details>
 
-[GENEA WORKSHOP 2022](https://genea-workshop.github.io/2022/)
+[GENEA CHALLENGE 2022](https://genea-workshop.github.io/2022/challenge/)
 
 | Team (Method)           | Github                                                                           | Video                                               | Award |
 | ----------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
@@ -137,15 +145,26 @@ A curated list of Awesome **Gesture Generation**
 | TransGesture            | ❌                                                                               | [link](https://www.youtube.com/watch?v=3aTiuAWDUhs) |       |
 | UEA Digital Humans      | [UEA/GENEA22](https://github.com/UEA-digital-human-group/GENEA22)                | [link](https://www.youtube.com/watch?v=giVYmiglOYI) |       |
 
+[GENEA WORKSHOP 2022](https://genea-workshop.github.io/2022/)
+
+| Papers                                                                                                                         | Github                                              | Video                                               | Award |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | --------------------------------------------------- | ----- |
+| Understanding Interviewees’ Perceptions and Behaviour towards Verbally and Non-verbally Expressive Virtual Interviewing Agents | ❌                                                  | [link](https://www.youtube.com/watch?v=3L9pyPv-I8M) |       |
+| ❌                                                                                                                             | [link](https://www.youtube.com/watch?v=9rcBp0ezlqs) |                                                     |
+| []()                                                                                                                           | [link](https://www.youtube.com/watch?v=ZVx_QIBR8wQ) |                                                     |
+
 <!-- ************************* -->
 
 <br/>
 
 <!-- ************************* -->
+
+#### GENEA 2021
+
 <details>
   <summary><bold>GENEA Challenge 2021 - Accepted papers</bold></summary>
 
-  <li><a href="https://openreview.net/forum?id=ykvm7OLh7B">Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN</a></li>
+  <li><a href="https://openreview.net/forum?id=ykvm7OLh7B"> Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN</a></li>
   <li><a href="https://openreview.net/forum?id=GjjPtEVdSLB">Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood</a></li>
   <li><a href="https://openreview.net/forum?id=o8CpxaBurZQ">Crossmodal clustered contrastive learning: Grounding of spoken language to gesture</a></li>
 
@@ -153,17 +172,20 @@ A curated list of Awesome **Gesture Generation**
 
 [GENEA WORKSHOP 2021](https://genea-workshop.github.io/2021/)
 
-| Method                                    | Github                                                                                                  | Video                                               | Award |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
-| GRU-based WGAN                            | [wubowen416/gesture-generation-using-WGAN](https://github.com/wubowen416/gesture-generation-using-WGAN) | [link](https://www.youtube.com/watch?v=PMhjX6cdIPE) | 🏆    |
-| Movement Energy                           | No github                                                                                               | No video                                            |       |
-| Crossmodal clustered contrastive learning | [dondongwon/CC_NCE_GENEA](https://github.com/dondongwon/CC_NCE_GENEA)                                   | [link](https://www.youtube.com/watch?v=L5dHXTpCkeI) |       |
+| Papers                                                                                                        | Github                                                                                                  | Video                                               | Award |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
+| Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN                                   | [wubowen416/gesture-generation-using-WGAN](https://github.com/wubowen416/gesture-generation-using-WGAN) | [link](https://www.youtube.com/watch?v=PMhjX6cdIPE) | 🏆    |
+| Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood | ❌                                                                                                      | No video                                            |       |
+| Crossmodal clustered contrastive learning: Grounding of spoken language to gesture                            | [dondongwon/CC_NCE_GENEA](https://github.com/dondongwon/CC_NCE_GENEA)                                   | [link](https://www.youtube.com/watch?v=L5dHXTpCkeI) |       |
 
 <!-- ************************* -->
 
 <br/>
 
 <!-- ************************* -->
+
+#### GENEA 2020
+
 <details>
   <summary><bold>GENEA Challenge 2020 - Accepted papers</bold></summary>
 
@@ -178,14 +200,14 @@ A curated list of Awesome **Gesture Generation**
 
 [GENEA WORKSHOP 2020](https://genea-workshop.github.io/2020/)
 
-| Method                               | Github                                                                                | Video                                               |
-| ------------------------------------ | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| StyleGestures                        | [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) | [link](https://www.youtube.com/watch?v=JZgBlJKGFGk) |
-| FineMotion                           | [FineMotion/GENEA_2020](https://github.com/FineMotion/GENEA_2020)                     | [link](https://www.youtube.com/watch?v=q29d9Hfbifk) |
-| Double-DCCCAE                        | ❌                                                                             | [link](https://www.youtube.com/watch?v=ht5Fu47JKkI) |
-| CGVU                                 | ❌                                                                             | [link](https://www.youtube.com/watch?v=MBSX0OLHRRU) |
-| Interpreting and Generating Gestures | ❌                                                                             | [link](https://www.youtube.com/watch?v=5I0FvhlcoDI) |
-| Nectec Gesture Generation System     | ❌                                                                             | [link](https://www.youtube.com/watch?v=0m0wKkNmrgQ) |
+| Papers                                                                             | Github                                                                                | Video                                               |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| The StyleGestures entry to the GENEA Challenge 2020                                | [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) | [link](https://www.youtube.com/watch?v=JZgBlJKGFGk) |
+| The FineMotion entry to the GENEA Challenge 2020                                   | [FineMotion/GENEA_2020](https://github.com/FineMotion/GENEA_2020)                     | [link](https://www.youtube.com/watch?v=q29d9Hfbifk) |
+| Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth | ❌                                                                                    | [link](https://www.youtube.com/watch?v=ht5Fu47JKkI) |
+| CGVU: Semantics-guided 3D Body Gesture Synthesis                                   | ❌                                                                                    | [link](https://www.youtube.com/watch?v=MBSX0OLHRRU) |
+| Interpreting and Generating Gestures with Embodied Human Computer Interactions     | ❌                                                                                    | [link](https://www.youtube.com/watch?v=5I0FvhlcoDI) |
+| The Nectec Gesture Generation System entry to the GENEA Challenge 2020             | ❌                                                                                    | [link](https://www.youtube.com/watch?v=0m0wKkNmrgQ) |
 
 <!-- ************************* -->
 <!-- ************************* GENEA Challenge ************************* -->
