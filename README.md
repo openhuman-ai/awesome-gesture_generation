@@ -106,7 +106,7 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* -->
 <details>
-<summary><bold>2022 - Accepted papers</bold></summary>
+<summary><bold>GENEA Challenge 2022 - Accepted papers</bold></summary>
 
 <li>DeepMotion - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558059">The DeepMotion entry to the GENEA Challenge 2022</a></li>
 <li>IVI Lab - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558060">The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism</a></li>
@@ -145,11 +145,11 @@ Title       | ✓            |
 
 <!-- ************************* -->
 <details>
-  <summary><bold>2021 - Accepted papers</bold></summary>
+  <summary><bold>GENEA Challenge 2021 - Accepted papers</bold></summary>
 
-  <li><a href="https://openreview.net/forum?id=ykvm7OLh7B">Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN</a> ; <a href="https://www.youtube.com/watch?v=PMhjX6cdIPE">video</a></li>
+  <li><a href="https://openreview.net/forum?id=ykvm7OLh7B">Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN</a></li>
   <li><a href="https://openreview.net/forum?id=GjjPtEVdSLB">Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood</a></li>
-  <li><a href="https://openreview.net/forum?id=o8CpxaBurZQ">Crossmodal clustered contrastive learning: Grounding of spoken language to gesture</a> ; <a href="https://github.com/dondongwon/CC_NCE_GENEA">github</a></li>
+  <li><a href="https://openreview.net/forum?id=o8CpxaBurZQ">Crossmodal clustered contrastive learning: Grounding of spoken language to gesture</a></li>
 
 </details>
 
@@ -165,7 +165,7 @@ Title       | ✓            |
 
 <!-- ************************* -->
 <details>
-  <summary><bold>2020 - Accepted papers</bold></summary>
+  <summary><bold>GENEA Challenge 2020 - Accepted papers</bold></summary>
 
   <li><a href="https://genea-workshop.github.io/2020/downloads/Alexanderson2020StyleGestures.pdf">The StyleGestures entry to the GENEA Challenge 2020</a> ; <a href="https://zenodo.org/record/4088600#.ZBqRWNJByV4">zendomo</a></li>
   <li><a href="https://zenodo.org/record/4088609#.ZBqSB9JByV4">The FineMotion entry to the GENEA Challenge 2020</a></li>
@@ -175,6 +175,8 @@ Title       | ✓            |
   <li><a href="https://zenodo.org/record/4088629#.ZBqSQ9JByV4">The Nectec Gesture Generation System entry to the GENEA Challenge 2020</a></li>
 
 </details>
+
+https://github.com/simonalexanderson/StyleGestures
 
 <!-- ************************* -->
 <!-- ************************* GENEA Challenge ************************* -->
