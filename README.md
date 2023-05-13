@@ -379,7 +379,7 @@ A curated list of Awesome **Gesture Generation**
 
 ### <a name="rulebase"> 3.1 Rule Base approach
 
--
+- [Rule-based generation of facial expression, gesture & spoken intonation for multiple conversational agents](https://dl.acm.org/doi/10.1145/192161.192272)
 
 <!-- ************************* Rule Base ************************* -->
 
