@@ -72,6 +72,7 @@ A curated list of Awesome **Gesture Generation**
 - [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://arxiv.org/abs/2208.10441) ; [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) ; [video](https://www.youtube.com/watch?v=4n02wXGGnd0)
 - [GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents](https://dl.acm.org/doi/10.1145/3462244.3480983) ; [homepage](https://genea-workshop.github.io/2021/)
 - [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [github](https://github.com/Svito-zar/genea_numerical_evaluations)
+- [Evaluating gesture-generation in a large-scale open challenge \_ The GENEA Challenge 2022](https://arxiv.org/pdf/2303.08737)
 
 <!-- ###################################################### SURVEYS  ###################################################### -->
 
@@ -488,29 +489,42 @@ A curated list of Awesome **Gesture Generation**
 - 🧑‍🦲 : Upper-body tier
 - 🧍 : Full-body tier
 
-| Metric | Type | Description               |
-| ------ | ---- | ------------------------- |
-| FNA    | 🧍   | Full-body Natural Motion  |
-| FBT    | 🧍   | Full-body Text-based      |
-| FSA    | 🧍   | Full-body Audio-based     |
-| UNA    | 🧑‍🦲   | Upper-body Natural Motion |
-| UBA    | 🧑‍🦲   | Upper-body Audio-based    |
-| UBT    | 🧑‍🦲   | Upper-body Text-based     |
-| FSB    | 🧍   |                           |
-| FSC    | 🧍   |                           |
-| FSD    | 🧍   |                           |
-| FSF    | 🧍   |                           |
-| FSG    | 🧍   |                           |
-| FSH    | 🧍   |                           |
-| FSI    | 🧍   |                           |
-| USJ    | 🧑‍🦲   |                           |
-| USK    | 🧑‍🦲   |                           |
-| USL    | 🧑‍🦲   |                           |
-| USM    | 🧑‍🦲   |                           |
-| USN    | 🧑‍🦲   |                           |
-| USO    | 🧑‍🦲   |                           |
-| USP    | 🧑‍🦲   |                           |
-| USQ    | 🧑‍🦲   |                           |
+| Metric | Body tier | Description               | Type |
+| ------ | --------- | ------------------------- | ---- |
+| FNA    | 🧍        | Full-body Natural Motion  |      |
+| FBT    | 🧍        | Full-body Text-based      |      |
+| FSA    | 🧍        | Full-body Audio-based     |      |
+| UNA    | 🧑‍🦲        | Upper-body Natural Motion |      |
+| UBA    | 🧑‍🦲        | Upper-body Audio-based    |      |
+| UBT    | 🧑‍🦲        | Upper-body Text-based     |      |
+| ------ | --------- | ------------------------- | ---- |
+| FSB    | 🧍        | Full-body                 |      |
+| FSC    | 🧍        | Full-body                 |      |
+| FSD    | 🧍        | Full-body                 |      |
+| FSF    | 🧍        | Full-body                 |      |
+| FSG    | 🧍        | Full-body                 |      |
+| FSH    | 🧍        | Full-body                 |      |
+| FSI    | 🧍        | Upper-body                |      |
+| USJ    | 🧑‍🦲        | Upper-body                |      |
+| USK    | 🧑‍🦲        | Upper-body                |      |
+| USL    | 🧑‍🦲        | Upper-body                |      |
+| USM    | 🧑‍🦲        | Upper-body                |      |
+| USN    | 🧑‍🦲        | Upper-body                |      |
+| USO    | 🧑‍🦲        | Upper-body                |      |
+| USP    | 🧑‍🦲        | Upper-body                |      |
+| USQ    | 🧑‍🦲        | Upper-body                |      |
+
+### Objective metrics
+
+| Metric                             | Description |
+| ---------------------------------- | ----------- |
+| 3.1 Average acceleration and jerk  |             |
+| 3.1 Comparing speed histograms     |             |
+| 3.1 Canonical correlation analysis |             |
+| 3.1 Fréchet gesture distance       |             |
+| 3.1 System ranking comparison      |             |
+
+- Canonical correlation analysis
 
 <!-- ###################################################### METRIC  ###################################################### -->
 
@@ -608,6 +622,7 @@ A curated list of Awesome **Gesture Generation**
 ### GENEA 2021
 
 <!-- - [The GENEA Challenge 2021]() -->
+
 - [GENEA 2021: Crossmodal clustered contrastive learning: Grounding of spoken language to gesture](https://www.youtube.com/watch?v=L5dHXTpCkeI)
 
 ### GENEA 2020
