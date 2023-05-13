@@ -118,37 +118,28 @@ A curated list of Awesome **Gesture Generation**
 <li>GestureMaster - <a href="https://dl.acm.org/doi/10.1145/3536221.3558063">GestureMaster: Graph-based Speech-driven Gesture Generation</a></li>
 <li>IVI Lab - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558060">The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism</a></li>
 <li>ReprGesture - <a href="https://openreview.net/forum?id=atWaELmguNj7">The ReprGesture entry to the GENEA Challenge 2022</a></li>
-<li>UEA Digital Humans - <a href="https://openreview.net/forum?id=RZP6nErM2Xa">UEA Digital Humans entry to the GENEA Challenge 2022</a></li>
 <li>TransGesture - <a href="https://openreview.net/forum?id=AYMDEx97qPN">TransGesture: Autoregressive Gesture Generation with RNN-Transducer</a></li>
-<li><a href="https://arxiv.org/abs/2210.06974">Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction</a> ; <a href="https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures">web</a></li>
+<li>UEA Digital Humans - <a href="https://openreview.net/forum?id=RZP6nErM2Xa">UEA Digital Humans entry to the GENEA Challenge 2022</a></li>
 
 </details>
 
 [GENEA WORKSHOP 2022](https://genea-workshop.github.io/2022/)
 
-| Team (Method)        | Github                                                            | Video                                               | Award |
-| -------------------- | ----------------------------------------------------------------- | --------------------------------------------------- | ----- |
-| DeepMotion (VQ-VAE)  | No github                                                         | [link](https://www.youtube.com/watch?v=3L9pyPv-I8M) |       |
-| DSI (Hybrid Seq2Seq) | No github                                                         | [link](https://www.youtube.com/watch?v=9rcBp0ezlqs) |       |
-| FineMotion (ReCell)  | [FineMotion/GENEA_2022](https://github.com/FineMotion/GENEA_2022) | [link](https://www.youtube.com/watch?v=ZVx_QIBR8wQ) |       |
-| Forgerons - Ubisoft  | No github                                                         | [link](https://www.youtube.com/watch?v=zdNsj3MGpL0) |       |
-| GestureMaster        | No github                                                         | [link](https://www.youtube.com/watch?v=nwNwEGX33SA) |       |
-| IVI Lab              | [Tacotron2-SpeechGesture](https://github.com/cjerry1243/Tacotron2-SpeechGesture)                                                              | [link]()                                            | 🏆    |
-| Murple AI lab        | []()                                                              | [link]()                                            |       |
-| ReprGesture          | [YoungSeng/ReprGesture](https://github.com/YoungSeng/ReprGesture) | [link](https://www.youtube.com/watch?v=KJJYEqyOq5U) |       |
-| TransGesture         | []()                                                              | [link]()                                            |       |
-| UEA Digital Humans   | []()                                                              | [link]()                                            |       |
+| Team (Method)           | Github                                                                           | Video                                               | Award |
+| ----------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
+| DeepMotion (VQ-VAE)     | ❌                                                                               | [link](https://www.youtube.com/watch?v=3L9pyPv-I8M) |       |
+| DSI (Hybrid Seq2Seq)    | ❌                                                                               | [link](https://www.youtube.com/watch?v=9rcBp0ezlqs) |       |
+| FineMotion (ReCell)     | [FineMotion/GENEA_2022](https://github.com/FineMotion/GENEA_2022)                | [link](https://www.youtube.com/watch?v=ZVx_QIBR8wQ) |       |
+| Forgerons - Ubisoft     | ❌                                                                               | [link](https://www.youtube.com/watch?v=zdNsj3MGpL0) |       |
+| GestureMaster - NetEase | ❌                                                                               | [link](https://www.youtube.com/watch?v=nwNwEGX33SA) |       |
+| IVI Lab                 | [Tacotron2-SpeechGesture](https://github.com/cjerry1243/Tacotron2-SpeechGesture) | [link](https://www.youtube.com/watch?v=PNmC6mlpyQg) | 🏆    |
+| ReprGesture             | [YoungSeng/ReprGesture](https://github.com/YoungSeng/ReprGesture)                | [link](https://www.youtube.com/watch?v=KJJYEqyOq5U) |       |
+| TransGesture            | ❌                                                                               | [link](https://www.youtube.com/watch?v=3aTiuAWDUhs) |       |
+| UEA Digital Humans      | [UEA/GENEA22](https://github.com/UEA-digital-human-group/GENEA22)                | [link](https://www.youtube.com/watch?v=giVYmiglOYI) |       |
 
 <!-- ************************* -->
 
 <br/>
-
-<!--
-
-Description | Autogressive |
------------ | ------------ |
-Title       | ✓            |
--->
 
 <!-- ************************* -->
 <details>
@@ -248,6 +239,7 @@ Title       | ✓            |
 - [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
 - [Automatic text‐to‐gesture rule generation for embodied conversational agents](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1944) [video](https://www.youtube.com/watch?v=GIxaI9yTmMc)
 - [Gesture2Vec: Clustering Gestures using Representation Learning Methods for Co-speech Gesture Generation](https://sfumars.com/wp-content/papers/2022_iros_gesture2vec.pdf) [github](https://github.com/pjyazdian/Gesture2Vec) ; [video](https://www.youtube.com/watch?v=ac8jWk4fdCU) ; [video](https://www.youtube.com/watch?v=qFObMpOboCg)
+- [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974) ; [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
 
 <!-- ************************* 2022 ************************* -->
 
