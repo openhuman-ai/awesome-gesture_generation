@@ -109,30 +109,30 @@ A curated list of Awesome **Gesture Generation**
 <summary><bold>GENEA Challenge 2022 - Accepted papers</bold></summary>
 
 <li>DeepMotion - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558059">The DeepMotion entry to the GENEA Challenge 2022</a></li>
+<li>DSI - <a href="https://openreview.net/forum?id=-2HZD-e6pX7W">Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation</a> ; <a href="">github</a></li>
+<li>FineMotion - <a href="https://openreview.net/forum?id=uX86IlhiHNx">ReCell: replicating recurrent cell for auto-regressive pose generation</a></li>
+<li>GestureMaster - <a href="https://dl.acm.org/doi/10.1145/3536221.3558063">GestureMaster: Graph-based Speech-driven Gesture Generation</a></li>
 <li>IVI Lab - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558060">The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism</a></li>
+<li>ReprGesture - <a href="https://openreview.net/forum?id=atWaELmguNj7">The ReprGesture entry to the GENEA Challenge 2022</a></li>
 <li>Ubisoft - <a href="https://openreview.net/forum?id=fO_Q4q1dFAA">Ubisoft Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022</a></li>
 <li>UEA Digital Humans - <a href="https://openreview.net/forum?id=RZP6nErM2Xa">UEA Digital Humans entry to the GENEA Challenge 2022</a></li>
-<li>GestureMaster - <a href="https://dl.acm.org/doi/10.1145/3536221.3558063">GestureMaster: Graph-based Speech-driven Gesture Generation</a></li>
-<li>FineMotion - <a href="https://openreview.net/forum?id=uX86IlhiHNx">ReCell: replicating recurrent cell for auto-regressive pose generation</a></li>
-<li>ReprGesture - <a href="https://openreview.net/forum?id=atWaELmguNj7">The ReprGesture entry to the GENEA Challenge 2022</a></li>
 <li>TransGesture - <a href="https://openreview.net/forum?id=AYMDEx97qPN">TransGesture: Autoregressive Gesture Generation with RNN-Transducer</a></li>
-<li>DSI - <a href="https://openreview.net/forum?id=-2HZD-e6pX7W">Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation</a> ; <a href="https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation">github</a></li>
 <li><a href="https://arxiv.org/abs/2210.06974">Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction</a> ; <a href="https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures">web</a></li>
 
 </details>
 
-| Method             | Github    | Video                                       |
-| ------------------ | --------- | ------------------------------------------- |
-| DeepMotion         | No github | https://www.youtube.com/watch?v=3L9pyPv-I8M |
-| DSI                | []()      | []()                                        |
-| FineMotion         | []()      | []()                                        |
-| Forgerons          | []()      | []()                                        |
-| GestureMaster      | []()      | []()                                        |
-| IVI Lab            | []()      | []()                                        |
-| Murple AI lab      | []()      | []()                                        |
-| ReprGesture        | []()      | []()                                        |
-| TransGesture       | []()      | []()                                        |
-| UEA Digital Humans | []()      | []()                                        |
+| Team               | Method         | Github                                                                                                      | Video                                               |
+| ------------------ | -------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| DeepMotion         | VQ-VAE         | No github                                                                                                   | [link](https://www.youtube.com/watch?v=3L9pyPv-I8M) |
+| DSI                | Hybrid Seq2Seq | [youngwoo-yoon/Co-Speech_Gesture_Generation](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation) | [link]()                                            |
+| FineMotion         | ReCell         | []()                                                                                                        | [link]()                                            |
+| Forgerons          | Forgerons      | []()                                                                                                        | [link]()                                            |
+| GestureMaster      | Ubisoft        | []()                                                                                                        | [link]()                                            |
+| IVI Lab            |                | []()                                                                                                        | [link]()                                            |
+| Murple AI lab      |                | []()                                                                                                        | [link]()                                            |
+| ReprGesture        |                | []()                                                                                                        | [link]()                                            |
+| TransGesture       |                | []()                                                                                                        | [link]()                                            |
+| UEA Digital Humans |                | []()                                                                                                        | [link]()                                            |
 
 <!-- ************************* -->
 
@@ -155,11 +155,13 @@ Title       | ✓            |
 
 </details>
 
-| Method                                    | Github                                                                                                  | Video                                               |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| GRU-based WGAN                            | [wubowen416/gesture-generation-using-WGAN](https://github.com/wubowen416/gesture-generation-using-WGAN) | [link](https://www.youtube.com/watch?v=PMhjX6cdIPE) |
-| Movement Energy                           | No github                                                                                               | No video                                            |
-| Crossmodal clustered contrastive learning | [dondongwon/CC_NCE_GENEA](https://github.com/dondongwon/CC_NCE_GENEA)                                   | [link](https://www.youtube.com/watch?v=L5dHXTpCkeI) |
+[GENEA WORKSHOP 2021](https://genea-workshop.github.io/2021/)
+
+| Method                                    | Github                                                                                                  | Video                                               | Award |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
+| Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN                            | [wubowen416/gesture-generation-using-WGAN](https://github.com/wubowen416/gesture-generation-using-WGAN) | [link](https://www.youtube.com/watch?v=PMhjX6cdIPE) |       |
+| Movement Energy                           | No github                                                                                               | No video                                            |       |
+| Crossmodal clustered contrastive learning | [dondongwon/CC_NCE_GENEA](https://github.com/dondongwon/CC_NCE_GENEA)                                   | [link](https://www.youtube.com/watch?v=L5dHXTpCkeI) |       |
 
 <!-- ************************* -->
 
