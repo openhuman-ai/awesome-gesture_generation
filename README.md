@@ -132,8 +132,8 @@ A curated list of Awesome **Gesture Generation**
 | DSI (Hybrid Seq2Seq) | No github                                                         | [link](https://www.youtube.com/watch?v=9rcBp0ezlqs) |       |
 | FineMotion (ReCell)  | [FineMotion/GENEA_2022](https://github.com/FineMotion/GENEA_2022) | [link](https://www.youtube.com/watch?v=ZVx_QIBR8wQ) |       |
 | Forgerons - Ubisoft  | No github                                                         | [link](https://www.youtube.com/watch?v=zdNsj3MGpL0) |       |
-| GestureMaster        | []()                                                              | [link](https://www.youtube.com/watch?v=nwNwEGX33SA) |       |
-| IVI Lab              | []()                                                              | [link]()                                            | 🏆    |
+| GestureMaster        | No github                                                         | [link](https://www.youtube.com/watch?v=nwNwEGX33SA) |       |
+| IVI Lab              | [Tacotron2-SpeechGesture](https://github.com/cjerry1243/Tacotron2-SpeechGesture)                                                              | [link]()                                            | 🏆    |
 | Murple AI lab        | []()                                                              | [link]()                                            |       |
 | ReprGesture          | [YoungSeng/ReprGesture](https://github.com/YoungSeng/ReprGesture) | [link](https://www.youtube.com/watch?v=KJJYEqyOq5U) |       |
 | TransGesture         | []()                                                              | [link]()                                            |       |
