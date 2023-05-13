@@ -108,7 +108,7 @@ A curated list of Awesome **Gesture Generation**
 <br/>
 
 <!-- ************************* -->
-<details>
+<details> 
 <summary><bold>GENEA Challenge 2022 - Accepted papers</bold></summary>
 
 <li>DeepMotion - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558059">The DeepMotion entry to the GENEA Challenge 2022</a></li>
@@ -182,10 +182,10 @@ A curated list of Awesome **Gesture Generation**
 | ------------------------------------ | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | StyleGestures                        | [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) | [link](https://www.youtube.com/watch?v=JZgBlJKGFGk) |
 | FineMotion                           | [FineMotion/GENEA_2020](https://github.com/FineMotion/GENEA_2020)                     | [link](https://www.youtube.com/watch?v=q29d9Hfbifk) |
-| Double-DCCCAE                        | No github                                                                             | [link](https://www.youtube.com/watch?v=ht5Fu47JKkI) |
-| CGVU                                 | No github                                                                             | [link](https://www.youtube.com/watch?v=MBSX0OLHRRU) |
-| Interpreting and Generating Gestures | No github                                                                             | [link](https://www.youtube.com/watch?v=5I0FvhlcoDI) |
-| Nectec Gesture Generation System     | No github                                                                             | [link](https://www.youtube.com/watch?v=0m0wKkNmrgQ) |
+| Double-DCCCAE                        | ❌                                                                             | [link](https://www.youtube.com/watch?v=ht5Fu47JKkI) |
+| CGVU                                 | ❌                                                                             | [link](https://www.youtube.com/watch?v=MBSX0OLHRRU) |
+| Interpreting and Generating Gestures | ❌                                                                             | [link](https://www.youtube.com/watch?v=5I0FvhlcoDI) |
+| Nectec Gesture Generation System     | ❌                                                                             | [link](https://www.youtube.com/watch?v=0m0wKkNmrgQ) |
 
 <!-- ************************* -->
 <!-- ************************* GENEA Challenge ************************* -->
@@ -587,6 +587,7 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 ## Books
 
 - 2000 - [Paired Speech and Gesture Generation in Embodied Conversational Agents](https://www.google.com/books/edition/Paired_Speech_and_Gesture_Generation_in/LgrmtgAACAAJ)
+- 2005 - [Gesture Generation by Imitation: From Human Behavior to Computer Character Animation](https://www.semanticscholar.org/paper/Gesture-generation-by-imitation%3A-from-human-to-Kipp/32d19b46dfef6ec36040986df955866f13699039)
 - 2009 - [Gesture in Embodied Communication and Human Computer Interaction](https://www.google.com/books/edition/Gesture_in_Embodied_Communication_and_Hu/vLqoCAAAQBAJ?hl=en&gbpv=0)
 - 2013 - [Nonverbal Communication in Human Interaction](https://books.google.co.uk/books?id=-g7hkSR_mLoC)
 - 2013 - [Nonverbal Communication: Science and Applications](https://books.google.co.uk/books?id=PeOeu3qFFTIC)
