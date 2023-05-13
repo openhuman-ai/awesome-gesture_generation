@@ -486,6 +486,7 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="metric"> 5. Metric Evaluation
 
+ÊÊÊ
 - 🧑‍🦲 : Upper-body tier
 - 🧍 : Full-body tier
 
@@ -497,7 +498,7 @@ A curated list of Awesome **Gesture Generation**
 | UNA    | 🧑‍🦲        | Upper-body Natural Motion |      |
 | UBA    | 🧑‍🦲        | Upper-body Audio-based    |      |
 | UBT    | 🧑‍🦲        | Upper-body Text-based     |      |
-| ------ | --------- | ------------------------- | ---- |
+-----------------------------------------------------------
 | FSB    | 🧍        | Full-body                 |      |
 | FSC    | 🧍        | Full-body                 |      |
 | FSD    | 🧍        | Full-body                 |      |
@@ -513,6 +514,7 @@ A curated list of Awesome **Gesture Generation**
 | USO    | 🧑‍🦲        | Upper-body                |      |
 | USP    | 🧑‍🦲        | Upper-body                |      |
 | USQ    | 🧑‍🦲        | Upper-body                |      |
+| ------ | --------- | ------------------------- | ---- |
 
 ### Objective metrics
 
