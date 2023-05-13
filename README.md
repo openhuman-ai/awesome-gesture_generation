@@ -120,7 +120,7 @@ A curated list of Awesome **Gesture Generation**
 <summary><bold>GENEA Challenge 2022 - Accepted papers</bold></summary>
 
 <li>DeepMotion - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558059">The DeepMotion entry to the GENEA Challenge 2022</a></li>
-<li>DSI - <a href="https://openreview.net/forum?id=-2HZD-e6pX7W">Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation</a> ; <a href="">github</a></li>
+<li>DSI - <a href="https://openreview.net/forum?id=-2HZD-e6pX7W">Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation</a></li>
 <li>FineMotion - <a href="https://openreview.net/forum?id=uX86IlhiHNx">ReCell: replicating recurrent cell for auto-regressive pose generation</a></li>
 <li>Ubisoft - <a href="https://openreview.net/forum?id=fO_Q4q1dFAA">Ubisoft Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022</a></li>
 <li>GestureMaster - <a href="https://dl.acm.org/doi/10.1145/3536221.3558063">GestureMaster: Graph-based Speech-driven Gesture Generation</a></li>
@@ -145,13 +145,23 @@ A curated list of Awesome **Gesture Generation**
 | TransGesture            | ❌                                                                               | [link](https://www.youtube.com/watch?v=3aTiuAWDUhs) |       |
 | UEA Digital Humans      | [UEA/GENEA22](https://github.com/UEA-digital-human-group/GENEA22)                | [link](https://www.youtube.com/watch?v=giVYmiglOYI) |       |
 
+<details> 
+<summary><bold>GENEA Workshop 2022 - Accepted papers</bold></summary>
+
+<li><a href="https://openreview.net/forum?id=T5ei7IeQUMK">Understanding Interviewees’ Perceptions and Behaviour towards Verbally and Non-verbally Expressive Virtual Interviewing Agents</a></li>
+<li><a href="https://openreview.net/forum?id=vaOobiePUy">Emotional Respiration Speech Dataset</a></li>
+<li><a href="https://openreview.net/forum?id=TmR8Q20jL-">Automatic facial expressions, gaze direction and head movements generation of a virtual agent </a></li>
+<li><a href="https://openreview.net/forum?id=by_w1j6XAwr">Can you tell that I'm confused? An overhearer study for German backchannels by an embodied agent </a></li>
+
+</details>
 [GENEA WORKSHOP 2022](https://genea-workshop.github.io/2022/)
 
-| Papers                                                                                                                         | Github                                              | Video                                               | Award |
-| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | --------------------------------------------------- | ----- |
-| Understanding Interviewees’ Perceptions and Behaviour towards Verbally and Non-verbally Expressive Virtual Interviewing Agents | ❌                                                  | [link](https://www.youtube.com/watch?v=3L9pyPv-I8M) |       |
-| ❌                                                                                                                             | [link](https://www.youtube.com/watch?v=9rcBp0ezlqs) |                                                     |
-| []()                                                                                                                           | [link](https://www.youtube.com/watch?v=ZVx_QIBR8wQ) |                                                     |
+| Papers                                                                                                                         | Video                                               | Award |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | ----- |
+| Understanding Interviewees’ Perceptions and Behaviour towards Verbally and Non-verbally Expressive Virtual Interviewing Agents | [link](https://www.youtube.com/watch?v=7Si8j9xxaHE) |       |
+| Emotional Respiration Speech Dataset                                                                                           | [link](https://www.youtube.com/watch?v=z5vWO_rQmDI) |       |
+| Automatic facial expressions, gaze direction and head movements generation of a virtual agent                                  | [link](https://www.youtube.com/watch?v=bo-nDGxLrQU) | 🏆    |
+| Can you tell that I'm confused? An overhearer study for German backchannels by an embodied agent                               | [link](https://www.youtube.com/watch?v=vDgo1bXXtOo) |       |
 
 <!-- ************************* -->
 
@@ -580,9 +590,10 @@ A curated list of Awesome **Gesture Generation**
 ![Youtube](./img/youtube.png)
 
 - [The GENEA Challenge 2022](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq)
+- [GENEA Workshop 2022](https://www.youtube.com/playlist?list=PLaTrbkxf82xYiM6iB9u5YYyrFoHC6ioa_)
 <!-- - [The GENEA Challenge 2021]() -->
 - [The GENEA Challenge 2020](https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc)
-- [GENEA 2020 Keynote by Stefan Kopp "Leaving adolescence?"](https://www.youtube.com/watch?v=csjio1FKP-E)
+- [GENEA Workshop 2020](https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc)
 
 <!-- ######################## CODE  ########################### -->
 
