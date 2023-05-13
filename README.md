@@ -513,7 +513,7 @@ Evaluation aspects :
 | FSG    | 🧍        | Full-body Custom by Teams  | ⚙️   |
 | FSH    | 🧍        | Full-body Custom by Teams  | ⚙️   |
 | FSI    | 🧍        | Full-body Custom by Teams  | ⚙️   |
-| ---    | ----      | ----                       | ---  |
+| ------ | --------- | -------------------------  | ---  |
 | UNA    | 🧑‍🦲        | Upper-body Natural Motion  | 🧍‍♂️   |
 | UBA    | 🧑‍🦲        | Upper-body Audio-based     | 🔊   |
 | UBT    | 🧑‍🦲        | Upper-body Text-based      | 🖹    |
