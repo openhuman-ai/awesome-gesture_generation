@@ -486,7 +486,13 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="metric"> 5. Metric Evaluation
 
-ÊÊÊ
+Evaluation aspects :
+
+- Human-likeness : looks like the motion of a real human
+
+- Appropriateness ("specificity") : appropriate for the given speech, controlling for the human-likeness of the motion
+
+
 - 🧑‍🦲 : Upper-body tier
 - 🧍 : Full-body tier
 
