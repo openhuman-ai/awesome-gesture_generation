@@ -37,7 +37,7 @@ A curated list of Awesome **Gesture Generation**
 - [6. Metric Evaluation](#metric)
 - [7. Dataset](#dataset)
 - [8. Toolkit](#toolkit)
-- [9. Talks](#talks)
+- [9. Playlist & Talks](#talks)
 - [10. Code](#implementations)
 - [Contributing](#contributing)
 
@@ -111,28 +111,28 @@ A curated list of Awesome **Gesture Generation**
 <li>DeepMotion - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558059">The DeepMotion entry to the GENEA Challenge 2022</a></li>
 <li>DSI - <a href="https://openreview.net/forum?id=-2HZD-e6pX7W">Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation</a> ; <a href="">github</a></li>
 <li>FineMotion - <a href="https://openreview.net/forum?id=uX86IlhiHNx">ReCell: replicating recurrent cell for auto-regressive pose generation</a></li>
+<li>Ubisoft - <a href="https://openreview.net/forum?id=fO_Q4q1dFAA">Ubisoft Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022</a></li>
 <li>GestureMaster - <a href="https://dl.acm.org/doi/10.1145/3536221.3558063">GestureMaster: Graph-based Speech-driven Gesture Generation</a></li>
 <li>IVI Lab - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558060">The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism</a></li>
 <li>ReprGesture - <a href="https://openreview.net/forum?id=atWaELmguNj7">The ReprGesture entry to the GENEA Challenge 2022</a></li>
-<li>Ubisoft - <a href="https://openreview.net/forum?id=fO_Q4q1dFAA">Ubisoft Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022</a></li>
 <li>UEA Digital Humans - <a href="https://openreview.net/forum?id=RZP6nErM2Xa">UEA Digital Humans entry to the GENEA Challenge 2022</a></li>
 <li>TransGesture - <a href="https://openreview.net/forum?id=AYMDEx97qPN">TransGesture: Autoregressive Gesture Generation with RNN-Transducer</a></li>
 <li><a href="https://arxiv.org/abs/2210.06974">Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction</a> ; <a href="https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures">web</a></li>
 
 </details>
 
-| Team               | Method         | Github                                                                                                      | Video                                               | Award |
-| ------------------ | -------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
-| DeepMotion         | VQ-VAE         | No github                                                                                                   | [link](https://www.youtube.com/watch?v=3L9pyPv-I8M) |       |
-| DSI                | Hybrid Seq2Seq | [youngwoo-yoon/Co-Speech_Gesture_Generation](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation) | [link]()                                            |       |
-| FineMotion         | ReCell         | []()                                                                                                        | [link]()                                            |       |
-| Forgerons          | Forgerons      | []()                                                                                                        | [link]()                                            |       |
-| GestureMaster      | Ubisoft        | []()                                                                                                        | [link]()                                            |       |
-| IVI Lab            |                | []()                                                                                                        | [link]()                                            | 🏆    |
-| Murple AI lab      |                | []()                                                                                                        | [link]()                                            |       |
-| ReprGesture        |                | []()                                                                                                        | [link]()                                            |       |
-| TransGesture       |                | []()                                                                                                        | [link]()                                            |       |
-| UEA Digital Humans |                | []()                                                                                                        | [link]()                                            |       |
+| Team (Method)        | Github                                                            | Video                                               | Award |
+| -------------------- | ----------------------------------------------------------------- | --------------------------------------------------- | ----- |
+| DeepMotion (VQ-VAE)  | No github                                                         | [link](https://www.youtube.com/watch?v=3L9pyPv-I8M) |       |
+| DSI (Hybrid Seq2Seq) | No github                                                         | [link](https://www.youtube.com/watch?v=9rcBp0ezlqs) |       |
+| FineMotion (ReCell)  | [FineMotion/GENEA_2022](https://github.com/FineMotion/GENEA_2022) | [link](https://www.youtube.com/watch?v=ZVx_QIBR8wQ) |       |
+| Forgerons - Ubisoft  | No github                                                              | [link](https://www.youtube.com/watch?v=zdNsj3MGpL0) |       |
+| GestureMaster        | []()                                                              | [link](https://www.youtube.com/watch?v=nwNwEGX33SA)                                            |       |
+| IVI Lab              | []()                                                              | [link]()                                            | 🏆    |
+| Murple AI lab        | []()                                                              | [link]()                                            |       |
+| ReprGesture          | []()                                                              | [link]()                                            |       |
+| TransGesture         | []()                                                              | [link]()                                            |       |
+| UEA Digital Humans   | []()                                                              | [link]()                                            |       |
 
 <!-- ************************* -->
 
@@ -227,7 +227,7 @@ Title       | ✓            |
 
 - 【CVPR23】[Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf)
 - 【PAKDD 2023】[RLMixer: A Reinforcement Learning Approach For Integrated Ranking With Contrastive User Preference Modeling](https://batmanzzmc.github.io/assets/pdf/PAKDD2023.pdf)
-- []()
+- [DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models](https://arxiv.org/abs/2305.04919) ; [github](https://github.com/YoungSeng/DiffuseStyleGesture) ; [video](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
 
 <!-- ************************* 2023 ************************* -->
 
@@ -558,11 +558,13 @@ Title       | ✓            |
 
 <!-- ######################## TALKS  ########################### -->
 
-## <a name="talks">Talks</a>
+## <a name="talks">Playlist & Talks</a>
 
 ![Youtube](./img/youtube.png)
 
-- [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=1)
+- [The GENEA Challenge 2022](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq)
+- [The GENEA Challenge 2021]()
+- [The GENEA Challenge 2020](https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc)
 
 <!-- ######################## CODE  ########################### -->
 
