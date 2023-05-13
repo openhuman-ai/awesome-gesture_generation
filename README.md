@@ -38,8 +38,8 @@ A curated list of Awesome **Gesture Generation**
 - [7. Dataset](#dataset)
 - [8. Toolkit](#toolkit)
 - [9. Playlist & Talks](#talks)
-- [10. Code](#implementations)
-- [Contributing](#contributing)
+- [10. Code](#code)
+- [11. Books](#books)
 
 ---
 
@@ -154,6 +154,7 @@ A curated list of Awesome **Gesture Generation**
 <li><a href="https://openreview.net/forum?id=by_w1j6XAwr">Can you tell that I'm confused? An overhearer study for German backchannels by an embodied agent </a></li>
 
 </details>
+
 [GENEA WORKSHOP 2022](https://genea-workshop.github.io/2022/)
 
 | Papers                                                                                                                         | Video                                               | Award |
@@ -587,12 +588,27 @@ A curated list of Awesome **Gesture Generation**
 
 ## <a name="talks">Playlist & Talks</a>
 
-![Youtube](./img/youtube.png)
+### GENEA 2022
 
 - [The GENEA Challenge 2022](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq)
+
+<a href="https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq">
+<img src="./img/genea_workshop_2022">
+</a>
+
 - [GENEA Workshop 2022](https://www.youtube.com/playlist?list=PLaTrbkxf82xYiM6iB9u5YYyrFoHC6ioa_)
+
+### GENEA 2021
+
 <!-- - [The GENEA Challenge 2021]() -->
-- [The GENEA Challenge 2020](https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc)
+- [GENEA 2021](https://www.youtube.com/watch?v=L5dHXTpCkeI)
+
+### GENEA 2020
+
+<a href="https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc">
+<img src="./img/genea_workshop_2020">
+</a>
+
 - [GENEA Workshop 2020](https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc)
 
 <!-- ######################## CODE  ########################### -->
@@ -617,7 +633,7 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 
 <!-- ######################## CODE  ########################### -->
 
-## Books
+## <a name="books">Books</a>
 
 - 2000 - [Paired Speech and Gesture Generation in Embodied Conversational Agents](https://www.google.com/books/edition/Paired_Speech_and_Gesture_Generation_in/LgrmtgAACAAJ)
 - 2005 - [Gesture Generation by Imitation: From Human Behavior to Computer Character Animation](https://www.semanticscholar.org/paper/Gesture-generation-by-imitation%3A-from-human-to-Kipp/32d19b46dfef6ec36040986df955866f13699039)
