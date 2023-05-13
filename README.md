@@ -120,10 +120,8 @@ A curated list of Awesome **Gesture Generation**
 <li><a href="https://arxiv.org/abs/2210.06974">Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction</a> ; <a href="https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures">web</a></li>
 
 </details>
-<!-- ************************* -->
 
-<br/>
-<!-- | Method             |
+| Method             |
 | ------------------ |
 | DeepMotion         |
 | DSI                |
@@ -134,7 +132,12 @@ A curated list of Awesome **Gesture Generation**
 | Murple AI lab      |
 | ReprGesture        |
 | TransGesture       |
-| UEA Digital Humans | -->
+| UEA Digital Humans |
+
+<!-- ************************* -->
+
+<br/>
+
 
 <!--
 
@@ -153,11 +156,11 @@ Title       | ✓            |
 
 </details>
 
-| Method                                    | Github                                                                                                  | Video |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----- |
+| Method                                    | Github                                                                                                  | Video                                               |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | GRU-based WGAN                            | [wubowen416/gesture-generation-using-WGAN](https://github.com/wubowen416/gesture-generation-using-WGAN) | [link](https://www.youtube.com/watch?v=PMhjX6cdIPE) |
-| Movement Energy                           | No github                                                                                               | No video |
-| Crossmodal clustered contrastive learning | [dondongwon/CC_NCE_GENEA](https://github.com/dondongwon/CC_NCE_GENEA)                                   | [link](https://www.youtube.com/watch?v=L5dHXTpCkeI)      |
+| Movement Energy                           | No github                                                                                               | No video                                            |
+| Crossmodal clustered contrastive learning | [dondongwon/CC_NCE_GENEA](https://github.com/dondongwon/CC_NCE_GENEA)                                   | [link](https://www.youtube.com/watch?v=L5dHXTpCkeI) |
 
 <!-- ************************* -->
 
@@ -170,13 +173,20 @@ Title       | ✓            |
   <li><a href="https://genea-workshop.github.io/2020/downloads/Alexanderson2020StyleGestures.pdf">The StyleGestures entry to the GENEA Challenge 2020</a> ; <a href="https://zenodo.org/record/4088600#.ZBqRWNJByV4">zendomo</a></li>
   <li><a href="https://zenodo.org/record/4088609#.ZBqSB9JByV4">The FineMotion entry to the GENEA Challenge 2020</a></li>
   <li><a href="https://zenodo.org/record/4088376#.ZBqR89JByV4">Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth</a></li>
-  <li><a href="https://zenodo.org/record/4090879#.ZBqSHtJByV4">CGVU: Semantics-guided 3D Body Gesture Synthesis </a></li>
+  <li><a href="https://zenodo.org/record/4090879#.ZBqSHtJByV4">CGVU: Semantics-guided 3D Body Gesture Synthesis</a></li>
   <li><a href="https://zenodo.org/record/4088625#.ZBqSLtJByV4">Interpreting and Generating Gestures with Embodied Human Computer Interactions</a></li>
   <li><a href="https://zenodo.org/record/4088629#.ZBqSQ9JByV4">The Nectec Gesture Generation System entry to the GENEA Challenge 2020</a></li>
 
 </details>
 
-https://github.com/simonalexanderson/StyleGestures
+| Method                               | Github                                                                                | Video                                               |
+| ------------------------------------ | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| StyleGestures                        | [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) | [link](https://www.youtube.com/watch?v=JZgBlJKGFGk) |
+| FineMotion                           | [FineMotion/GENEA_2020](https://github.com/FineMotion/GENEA_2020)                     | [link](https://www.youtube.com/watch?v=q29d9Hfbifk) |
+| Double-DCCCAE                        | No github                                                                             | [link](https://www.youtube.com/watch?v=ht5Fu47JKkI) |
+| CGVU                                 | No github                                                                             | [link](https://www.youtube.com/watch?v=MBSX0OLHRRU) |
+| Interpreting and Generating Gestures | No github                                                                             | [link](https://www.youtube.com/watch?v=5I0FvhlcoDI) |
+| Nectec Gesture Generation System     | No github                                                                             | [link](https://www.youtube.com/watch?v=0m0wKkNmrgQ) |
 
 <!-- ************************* -->
 <!-- ************************* GENEA Challenge ************************* -->
@@ -573,8 +583,10 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 
 ## Books
 
-- 2000 - [Paired Speech and Gesture Generation in Embodied Conversational Agents](https://www.google.com.vn/books/edition/Paired_Speech_and_Gesture_Generation_in/LgrmtgAACAAJ)
-- 2009 - [Gesture in Embodied Communication and Human Computer Interaction](https://www.google.com.vn/books/edition/Gesture_in_Embodied_Communication_and_Hu/vLqoCAAAQBAJ?hl=en&gbpv=0)
+- 2000 - [Paired Speech and Gesture Generation in Embodied Conversational Agents](https://www.google.com/books/edition/Paired_Speech_and_Gesture_Generation_in/LgrmtgAACAAJ)
+- 2009 - [Gesture in Embodied Communication and Human Computer Interaction](https://www.google.com/books/edition/Gesture_in_Embodied_Communication_and_Hu/vLqoCAAAQBAJ?hl=en&gbpv=0)
+- 2013 - [Nonverbal Communication in Human Interaction](https://books.google.co.uk/books?id=-g7hkSR_mLoC)
+- 2013 - [Nonverbal Communication: Science and Applications](https://books.google.co.uk/books?id=PeOeu3qFFTIC)
 
 ## License
 
