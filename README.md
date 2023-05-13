@@ -83,7 +83,7 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* Base-paper ************************* -->
 
-**<a name="fundamental">2.1 Fundamental Paper</a>**
+### **<a name="fundamental">2.1 Fundamental Paper</a>**
 
 - [The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony](https://core.ac.uk/download/pdf/15945024.pdf)
 - [Complexity Matters E05: Complexity Matching and Synchronization between Gestures and Speech](https://www.youtube.com/watch?v=lMb-So8wKS8)
@@ -104,9 +104,9 @@ A curated list of Awesome **Gesture Generation**
 
 </details>
 
-[GENEA CHALLENGE 2023](https://genea-workshop.github.io/2023/challenge/)
+[GENEA CHALLENGE 2023 Homepage](https://genea-workshop.github.io/2023/challenge/)
 
-[GENEA WORKSHOP 2023](https://genea-workshop.github.io/2023/)
+[GENEA WORKSHOP 2023 Homepage](https://genea-workshop.github.io/2023/)
 
 <!-- ************************* -->
 
@@ -131,7 +131,7 @@ A curated list of Awesome **Gesture Generation**
 
 </details>
 
-[GENEA CHALLENGE 2022](https://genea-workshop.github.io/2022/challenge/)
+[GENEA CHALLENGE 2022 Homepage](https://genea-workshop.github.io/2022/challenge/)
 
 | Team (Method)           | Github                                                                           | Video                                               | Award |
 | ----------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
@@ -155,7 +155,7 @@ A curated list of Awesome **Gesture Generation**
 
 </details>
 
-[GENEA WORKSHOP 2022](https://genea-workshop.github.io/2022/)
+[GENEA WORKSHOP 2022 Homepage](https://genea-workshop.github.io/2022/)
 
 | Papers                                                                                                                         | Video                                               | Award |
 | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | ----- |
@@ -181,7 +181,7 @@ A curated list of Awesome **Gesture Generation**
 
 </details>
 
-[GENEA WORKSHOP 2021](https://genea-workshop.github.io/2021/)
+[GENEA WORKSHOP 2021 Homepage](https://genea-workshop.github.io/2021/)
 
 | Papers                                                                                                        | Github                                                                                                  | Video                                               | Award |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
@@ -590,18 +590,18 @@ A curated list of Awesome **Gesture Generation**
 
 ### GENEA 2022
 
-- [The GENEA Challenge 2022](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq)
+- [The GENEA Challenge 2022 Playlist](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq)
 
 <a href="https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq">
 <img src="./img/genea_workshop_2022.png">
 </a>
 
-- [GENEA Workshop 2022](https://www.youtube.com/playlist?list=PLaTrbkxf82xYiM6iB9u5YYyrFoHC6ioa_)
+- [GENEA Workshop 2022 Playlist](https://www.youtube.com/playlist?list=PLaTrbkxf82xYiM6iB9u5YYyrFoHC6ioa_)
 
 ### GENEA 2021
 
 <!-- - [The GENEA Challenge 2021]() -->
-- [GENEA 2021](https://www.youtube.com/watch?v=L5dHXTpCkeI)
+- [GENEA 2021: Crossmodal clustered contrastive learning: Grounding of spoken language to gesture](https://www.youtube.com/watch?v=L5dHXTpCkeI)
 
 ### GENEA 2020
 
@@ -609,7 +609,7 @@ A curated list of Awesome **Gesture Generation**
 <img src="./img/genea_workshop_2020.png">
 </a>
 
-- [GENEA Workshop 2020](https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc)
+- [GENEA Workshop 2020 Playlist](https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc)
 
 <!-- ######################## CODE  ########################### -->
 
