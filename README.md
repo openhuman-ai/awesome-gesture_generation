@@ -492,19 +492,21 @@ Evaluation aspects :
 
 - Appropriateness ("specificity") : appropriate for the given speech, controlling for the human-likeness of the motion
 
-
 - 🧑‍🦲 : Upper-body tier
 - 🧍 : Full-body tier
 
+- 🧍‍♂️ : motion
+- 🖹 : text
+- 🔊 : audio
+
 | Metric | Body tier | Description               | Type |
 | ------ | --------- | ------------------------- | ---- |
-| FNA    | 🧍        | Full-body Natural Motion  |      |
-| FBT    | 🧍        | Full-body Text-based      |      |
-| FSA    | 🧍        | Full-body Audio-based     |      |
-| UNA    | 🧑‍🦲        | Upper-body Natural Motion |      |
-| UBA    | 🧑‍🦲        | Upper-body Audio-based    |      |
-| UBT    | 🧑‍🦲        | Upper-body Text-based     |      |
------------------------------------------------------------
+| FNA    | 🧍        | Full-body Natural Motion  | 🧍‍♂️   |
+| FBT    | 🧍        | Full-body Text-based      | 🖹    |
+| FSA    | 🧍        | Full-body Audio-based     | 🔊   |
+| UNA    | 🧑‍🦲        | Upper-body Natural Motion | 🧍‍♂️   |
+| UBA    | 🧑‍🦲        | Upper-body Audio-based    | 🔊   |
+| UBT    | 🧑‍🦲        | Upper-body Text-based     | 🖹    |
 | FSB    | 🧍        | Full-body                 |      |
 | FSC    | 🧍        | Full-body                 |      |
 | FSD    | 🧍        | Full-body                 |      |
