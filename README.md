@@ -380,6 +380,7 @@ A curated list of Awesome **Gesture Generation**
 
 - [Rig Inversion by Training a Differentiable Rig Function](https://arxiv.org/abs/2301.09567) ; [video](https://www.youtube.com/watch?v=sYCz9LGIkuI)
 - [CVPR 2021] Body2Hands [Body2Hands: Learning To Infer 3D Hands From Conversational Gesture Body Dynamics](https://openaccess.thecvf.com/content/CVPR2021/html/Ng_Body2Hands_Learning_To_Infer_3D_Hands_From_Conversational_Gesture_Body_CVPR_2021_paper.html)
+- [SIGGRAPH 2022] GANimator for generate data [GANimator: Neural Motion Synthesis from a Single Sequence](https://peizhuoli.github.io/ganimator/paper/ganimator-camera-ready.pdf) ; [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator)
 
 <!-- ************************* Others ************************* -->
 
@@ -425,7 +426,7 @@ A curated list of Awesome **Gesture Generation**
 - [CVPR 2022] [Audio-Driven Neural Gesture Reenactment With Video Motion Graphs](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Audio-Driven_Neural_Gesture_Reenactment_With_Video_Motion_Graphs_CVPR_2022_paper.html)
 - [AAMAS 2022] [Multimodal analysis of the predictability of hand-gesture properties](https://arxiv.org/abs/2108.05762)
 - [ICMI 2022] GestureMaster [GestureMaster: Graph-based Speech-driven Gesture Generation](https://dl.acm.org/doi/abs/10.1145/3536221.3558063)
-- [SIGGRAPH 2022] [A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech](https://dl.acm.org/doi/abs/10.1145/3528233.3530750)
+- [SIGGRAPH 2022] [A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech](https://dl.acm.org/doi/abs/10.1145/3528233.3530750) ; [homepage](https://vcai.mpi-inf.mpg.de/projects/SpeechGestureMatching/)
 - [ICCV 2021] [Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates](https://openaccess.thecvf.com/content/ICCV2021/html/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.html) ; [shenhanqian/speechdrivestemplates](https://github.com/shenhanqian/speechdrivestemplates) ; [video](https://www.youtube.com/watch?v=yu-5gUHn6h8) ; [poster](https://shenhanqian.com/assets/2021-07-25-sdt/poster.pdf)
 - [ICCV 2021] Audio2Gestures [Audio2Gestures: Generating Diverse Gestures From Speech Audio With Conditional Variational Autoencoders](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Audio2Gestures_Generating_Diverse_Gestures_From_Speech_Audio_With_Conditional_Variational_ICCV_2021_paper.html)
 - [ICMI 2020] Gesticulator [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) ; [Svito-zar/gesticulator](https://github.com/Svito-zar/gesticulator)
