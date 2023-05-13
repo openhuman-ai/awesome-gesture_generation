@@ -100,6 +100,9 @@ A curated list of Awesome **Gesture Generation**
   <li><a href=""></a></li>
 
 </details>
+
+[GENEA WORKSHOP 2023](https://genea-workshop.github.io/2023/)
+
 <!-- ************************* -->
 
 <br/>
@@ -121,16 +124,18 @@ A curated list of Awesome **Gesture Generation**
 
 </details>
 
+[GENEA WORKSHOP 2022](https://genea-workshop.github.io/2022/)
+
 | Team (Method)        | Github                                                            | Video                                               | Award |
 | -------------------- | ----------------------------------------------------------------- | --------------------------------------------------- | ----- |
 | DeepMotion (VQ-VAE)  | No github                                                         | [link](https://www.youtube.com/watch?v=3L9pyPv-I8M) |       |
 | DSI (Hybrid Seq2Seq) | No github                                                         | [link](https://www.youtube.com/watch?v=9rcBp0ezlqs) |       |
 | FineMotion (ReCell)  | [FineMotion/GENEA_2022](https://github.com/FineMotion/GENEA_2022) | [link](https://www.youtube.com/watch?v=ZVx_QIBR8wQ) |       |
-| Forgerons - Ubisoft  | No github                                                              | [link](https://www.youtube.com/watch?v=zdNsj3MGpL0) |       |
-| GestureMaster        | []()                                                              | [link](https://www.youtube.com/watch?v=nwNwEGX33SA)                                            |       |
+| Forgerons - Ubisoft  | No github                                                         | [link](https://www.youtube.com/watch?v=zdNsj3MGpL0) |       |
+| GestureMaster        | []()                                                              | [link](https://www.youtube.com/watch?v=nwNwEGX33SA) |       |
 | IVI Lab              | []()                                                              | [link]()                                            | 🏆    |
 | Murple AI lab        | []()                                                              | [link]()                                            |       |
-| ReprGesture          | []()                                                              | [link]()                                            |       |
+| ReprGesture          | [YoungSeng/ReprGesture](https://github.com/YoungSeng/ReprGesture) | [link](https://www.youtube.com/watch?v=KJJYEqyOq5U) |       |
 | TransGesture         | []()                                                              | [link]()                                            |       |
 | UEA Digital Humans   | []()                                                              | [link]()                                            |       |
 
@@ -157,11 +162,11 @@ Title       | ✓            |
 
 [GENEA WORKSHOP 2021](https://genea-workshop.github.io/2021/)
 
-| Method                                                                                                        | Github                                                                                                  | Video                                               | Award |
-| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
-| Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN                                   | [wubowen416/gesture-generation-using-WGAN](https://github.com/wubowen416/gesture-generation-using-WGAN) | [link](https://www.youtube.com/watch?v=PMhjX6cdIPE) | 🏆    |
-| Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood | No github                                                                                               | No video                                            |       |
-| Crossmodal clustered contrastive learning: Grounding of spoken language to gesture                            | [dondongwon/CC_NCE_GENEA](https://github.com/dondongwon/CC_NCE_GENEA)                                   | [link](https://www.youtube.com/watch?v=L5dHXTpCkeI) |       |
+| Method                                    | Github                                                                                                  | Video                                               | Award |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
+| GRU-based WGAN                            | [wubowen416/gesture-generation-using-WGAN](https://github.com/wubowen416/gesture-generation-using-WGAN) | [link](https://www.youtube.com/watch?v=PMhjX6cdIPE) | 🏆    |
+| Movement Energy                           | No github                                                                                               | No video                                            |       |
+| Crossmodal clustered contrastive learning | [dondongwon/CC_NCE_GENEA](https://github.com/dondongwon/CC_NCE_GENEA)                                   | [link](https://www.youtube.com/watch?v=L5dHXTpCkeI) |       |
 
 <!-- ************************* -->
 
@@ -181,8 +186,6 @@ Title       | ✓            |
 </details>
 
 [GENEA WORKSHOP 2020](https://genea-workshop.github.io/2020/)
-
-[GENEA 2020 Keynote by Stefan Kopp "Leaving adolescence?"](https://www.youtube.com/watch?v=csjio1FKP-E)
 
 | Method                               | Github                                                                                | Video                                               |
 | ------------------------------------ | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
@@ -563,8 +566,9 @@ Title       | ✓            |
 ![Youtube](./img/youtube.png)
 
 - [The GENEA Challenge 2022](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq)
-- [The GENEA Challenge 2021]()
+<!-- - [The GENEA Challenge 2021]() -->
 - [The GENEA Challenge 2020](https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc)
+- [GENEA 2020 Keynote by Stefan Kopp "Leaving adolescence?"](https://www.youtube.com/watch?v=csjio1FKP-E)
 
 <!-- ######################## CODE  ########################### -->
 
