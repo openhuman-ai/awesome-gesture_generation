@@ -406,8 +406,6 @@ A curated list of Awesome **Gesture Generation**
 
 #### <a name="deeplearning">3.2.2 Selected deep learning approach
 
-
-
 - [A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech](https://dl.acm.org/doi/abs/10.1145/3528233.3530750)
 - [Zero-Shot Style Transfer for Gesture Animation driven by Text and Speech using Adversarial Disentanglement of Multimodal Style Encoding](https://arxiv.org/abs/2208.01917)
 - GestureMaster [GestureMaster: Graph-based Speech-driven Gesture Generation](https://dl.acm.org/doi/abs/10.1145/3536221.3558063)
@@ -429,9 +427,7 @@ A curated list of Awesome **Gesture Generation**
 - [Speech gesture generation from the trimodal context of text, audio, and speaker identity](https://dl.acm.org/doi/abs/10.1145/3414685.3417838)
 - Mix-StAGE [Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional-Mixture Approach](https://arxiv.org/abs/2007.12553)
 - CDBN [Speech-driven animation with meaningful behaviors](https://www.sciencedirect.com/science/article/abs/pii/S0167639318300013)
-- [Multi-objective adversarial gesture generation](https://dl.acm.org/doi/abs/10.1145/3359566.3360053)
-
-
+- [SIGGRAPH MIG 2019] [Multi-objective adversarial gesture generation](https://dl.acm.org/doi/abs/10.1145/3359566.3360053)
 
 - ⭐ Rhythmic Gesticulator ⭐ - [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) ; [Aubrey-ao/HumanBehaviorAnimation](https://github.com/aubrey-ao/humanbehavioranimation) ; [video](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [video](https://www.youtube.com/watch?v=DO_W8plFWco)
 - [CVPR 2022] HA2G - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/abs/2203.13161) ; [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G)
@@ -635,7 +631,9 @@ Evaluation aspects :
 
 ## <a name="talks">Playlist & Talks</a>
 
-### GENEA 2022
+### GENEA
+
+#### GENEA 2022 Playlist
 
 - [The GENEA Challenge 2022 Playlist](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq)
 
@@ -645,19 +643,23 @@ Evaluation aspects :
 
 - [GENEA Workshop 2022 Playlist](https://www.youtube.com/playlist?list=PLaTrbkxf82xYiM6iB9u5YYyrFoHC6ioa_)
 
-### GENEA 2021
+#### GENEA 2021 Playlist
 
 <!-- - [The GENEA Challenge 2021]() -->
 
 - [GENEA 2021: Crossmodal clustered contrastive learning: Grounding of spoken language to gesture](https://www.youtube.com/watch?v=L5dHXTpCkeI)
 
-### GENEA 2020
+#### GENEA 2020 Playlist
 
 <a href="https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc">
 <img src="./img/genea_workshop_2020.png">
 </a>
 
 - [GENEA Workshop 2020 Playlist](https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc)
+
+### SIGGRAPH
+
+#### ACM SIGGRAPH MIG 2019 Playlist
 
 <!-- ######################## CODE  ########################### -->
 
