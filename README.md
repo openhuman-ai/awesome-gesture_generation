@@ -111,8 +111,6 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* -->
 
-<br/>
-
 <!-- ************************* -->
 
 #### GENEA 2022
@@ -167,8 +165,6 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* -->
 
-<br/>
-
 <!-- ************************* -->
 
 #### GENEA 2021
@@ -192,10 +188,7 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* -->
 
-<br/>
-
 <!-- ************************* -->
-
 #### GENEA 2020
 
 <details>
@@ -380,7 +373,7 @@ A curated list of Awesome **Gesture Generation**
 
 - [Rig Inversion by Training a Differentiable Rig Function](https://arxiv.org/abs/2301.09567) ; [video](https://www.youtube.com/watch?v=sYCz9LGIkuI)
 - [CVPR 2021] Body2Hands [Body2Hands: Learning To Infer 3D Hands From Conversational Gesture Body Dynamics](https://openaccess.thecvf.com/content/CVPR2021/html/Ng_Body2Hands_Learning_To_Infer_3D_Hands_From_Conversational_Gesture_Body_CVPR_2021_paper.html)
-- [SIGGRAPH 2022] GANimator for generate data [GANimator: Neural Motion Synthesis from a Single Sequence](https://peizhuoli.github.io/ganimator/paper/ganimator-camera-ready.pdf) ; [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator)
+- [SIGGRAPH 2022] GANimator for generate data [GANimator: Neural Motion Synthesis from a Single Sequence](https://peizhuoli.github.io/ganimator/paper/ganimator-camera-ready.pdf) ; [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator) ; [video](https://www.youtube.com/watch?v=-VOsJ1KyyGA)
 
 <!-- ************************* Others ************************* -->
 
