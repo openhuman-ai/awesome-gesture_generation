@@ -29,7 +29,7 @@ A curated list of Awesome **Gesture Generation**
   - [Others](#others)
 - [3. Selected Approach](#approachs)
   - [3.1 Selected rule base approach](#rulebase)
-  - [3.2 Data-driven approach](#datadriven)
+  - [3.2 Selected data-driven approach](#datadriven)
     - [3.2.1 Selected statistical approach](#statistical)
     - [3.2.2 Selected deep learning approach](#deeplearning)
 - [4. Pipeline](#pipeline)
@@ -388,7 +388,7 @@ A curated list of Awesome **Gesture Generation**
 
 <!-- ************************* Deep learning ************************* -->
 
-### <a name="datadriven">3.2 Data-driven approach
+### <a name="datadriven">3.2 Selected data-driven approach
 
 -
 
@@ -396,7 +396,7 @@ A curated list of Awesome **Gesture Generation**
 
 -
 
-#### <a name="deeplearning">3.2.2 Selected Deep learning approach
+#### <a name="deeplearning">3.2.2 Selected deep learning approach
 
 - Rhythmic Gesticulator - [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) ; [github](https://github.com/aubrey-ao/humanbehavioranimation) ; [video](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [video](https://www.youtube.com/watch?v=DO_W8plFWco)
 - HA2G - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/abs/2203.13161) ; [github](https://github.com/alvinliu0/HA2G)
