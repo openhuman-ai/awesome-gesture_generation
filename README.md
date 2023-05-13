@@ -152,6 +152,13 @@ Title       | ✓            |
   <li><a href="https://openreview.net/forum?id=o8CpxaBurZQ">Crossmodal clustered contrastive learning: Grounding of spoken language to gesture</a> ; <a href="https://github.com/dondongwon/CC_NCE_GENEA">github</a></li>
 
 </details>
+
+| Method                                    | Github                                                                                                  | Video |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----- |
+| GRU-based WGAN                            | [wubowen416/gesture-generation-using-WGAN](https://github.com/wubowen416/gesture-generation-using-WGAN) | [link](https://www.youtube.com/watch?v=PMhjX6cdIPE) |
+| Movement Energy                           | No github                                                                                               | No video |
+| Crossmodal clustered contrastive learning | [dondongwon/CC_NCE_GENEA](https://github.com/dondongwon/CC_NCE_GENEA)                                   | [link](https://www.youtube.com/watch?v=L5dHXTpCkeI)      |
+
 <!-- ************************* -->
 
 <br/>
