@@ -255,8 +255,8 @@ A curated list of Awesome **Gesture Generation**
 
 - 【CVPR 2023】[Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf) ; [github](https://github.com/RLracer/RACER)
 - 【PAKDD 2023】[RLMixer: A Reinforcement Learning Approach For Integrated Ranking With Contrastive User Preference Modeling](https://batmanzzmc.github.io/assets/pdf/PAKDD2023.pdf)
-- [DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models](https://arxiv.org/abs/2305.04919) ; [github](https://github.com/YoungSeng/DiffuseStyleGesture) ; [video](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
-- [Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2303.09119) ; [github](https://github.com/Advocate99/DiffGesture)
+- 【IJCAI 2023】 [DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models](https://arxiv.org/abs/2305.04919) ; [github](https://github.com/YoungSeng/DiffuseStyleGesture) ; [video](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+- 【CVPR 2023】 [Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2303.09119) ; [github](https://github.com/Advocate99/DiffGesture)
 - 【CVPR 2023】 [Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement](https://arxiv.org/pdf/2303.01765) ; [github](https://github.com/XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction)
 - 
 
