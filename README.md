@@ -593,7 +593,7 @@ A curated list of Awesome **Gesture Generation**
 - [The GENEA Challenge 2022](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq)
 
 <a href="https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq">
-<img src="./img/genea_workshop_2022">
+<img src="./img/genea_workshop_2022.png">
 </a>
 
 - [GENEA Workshop 2022](https://www.youtube.com/playlist?list=PLaTrbkxf82xYiM6iB9u5YYyrFoHC6ioa_)
@@ -606,7 +606,7 @@ A curated list of Awesome **Gesture Generation**
 ### GENEA 2020
 
 <a href="https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc">
-<img src="./img/genea_workshop_2020">
+<img src="./img/genea_workshop_2020.png">
 </a>
 
 - [GENEA Workshop 2020](https://www.youtube.com/watch?v=8lED4n12BAA&list=PLaTrbkxf82xZL2TZLX7wChJ6jKADb80bc)
