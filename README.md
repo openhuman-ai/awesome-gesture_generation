@@ -65,7 +65,7 @@ A curated list of Awesome **Gesture Generation**
 
 #### **Survey review**
 
-- [Speech-based Gesture Generation for Robots and Embodied Agents: A Scoping Review](https://wafa.johal.org/files/papers/Speech_Driven_Gesture_Generation__A_Review.pdf)
+- 【HAI 2021】[Speech-based Gesture Generation for Robots and Embodied Agents: A Scoping Review](https://wafa.johal.org/files/papers/Speech_Driven_Gesture_Generation__A_Review.pdf)
 
 #### **GENEA Challenge**
 
