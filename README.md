@@ -397,11 +397,11 @@ A curated list of Awesome **Gesture Generation**
 
 -
 
-#### <a name="statistical">3.2.1 Selected statistical approach
+#### <a name="statistical">Statistical approach
 
 -
 
-#### <a name="deeplearning">3.2.2 Selected deep learning approach
+#### <a name="deeplearning">Deep learning approach
 
 - 【IJCAI 2023】 Listen, denoise, action! Audio-driven motion synthesis with diffusion models [[paper]](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ; [[youtube]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
 - ⭐ **Rhythmic Gesticulator** ⭐ - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [[paper]](https://arxiv.org/abs/2210.01448) ; [Aubrey-ao/HumanBehaviorAnimation](https://github.com/aubrey-ao/humanbehavioranimation) ; [[youtube]](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [[youtube]](https://www.youtube.com/watch?v=DO_W8plFWco)
@@ -504,7 +504,6 @@ Evaluation aspects :
 | FSG    | 🧍        | Full-body Custom by Teams  | ⚙️   |
 | FSH    | 🧍        | Full-body Custom by Teams  | ⚙️   |
 | FSI    | 🧍        | Full-body Custom by Teams  | ⚙️   |
-| ------ | --------- | -------------------------  | ---  |
 | UNA    | 🧑‍🦲        | Upper-body Natural Motion  | 🧍‍♂️   |
 | UBA    | 🧑‍🦲        | Upper-body Audio-based     | 🔊   |
 | UBT    | 🧑‍🦲        | Upper-body Text-based      | 🖹    |
@@ -516,7 +515,6 @@ Evaluation aspects :
 | USO    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
 | USP    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
 | USQ    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
-| ------ | --------- | -------------------------  | ---- |
 
 ### Objective metrics
 
