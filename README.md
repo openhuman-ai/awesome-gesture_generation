@@ -70,9 +70,9 @@ A curated list of Awesome **Gesture Generation**
 
 #### **GENEA Challenge**
 
-- The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [paper](https://arxiv.org/abs/2208.10441) ; [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) ; [video](https://www.youtube.com/watch?v=4n02wXGGnd0)
+- The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [paper](https://arxiv.org/abs/2208.10441) ; [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) ; [youtube](https://www.youtube.com/watch?v=4n02wXGGnd0)
 - GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents [paper](https://dl.acm.org/doi/10.1145/3462244.3480983) ; [homepage](https://genea-workshop.github.io/2021/)
-- The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data [paper](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [github](https://github.com/Svito-zar/genea_numerical_evaluations)
+- The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data [paper](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [youtube](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [github](https://github.com/Svito-zar/genea_numerical_evaluations)
 - Evaluating gesture-generation in a large-scale open challenge \_ The GENEA Challenge 2022 [paper](https://arxiv.org/pdf/2303.08737)
 
 <!-- ###################################################### SURVEYS  ###################################################### -->
@@ -135,15 +135,15 @@ A curated list of Awesome **Gesture Generation**
 
 | Team (Method)           | Github                                                                           | Video                                               | Award |
 | ----------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
-| DeepMotion (VQ-VAE)     | ❌                                                                               | [link](https://www.youtube.com/watch?v=3L9pyPv-I8M) |       |
-| DSI (Hybrid Seq2Seq)    | ❌                                                                               | [link](https://www.youtube.com/watch?v=9rcBp0ezlqs) |       |
-| FineMotion (ReCell)     | [FineMotion/GENEA_2022](https://github.com/FineMotion/GENEA_2022)                | [link](https://www.youtube.com/watch?v=ZVx_QIBR8wQ) |       |
-| Forgerons - Ubisoft     | ❌                                                                               | [link](https://www.youtube.com/watch?v=zdNsj3MGpL0) |       |
-| GestureMaster - NetEase | ❌                                                                               | [link](https://www.youtube.com/watch?v=nwNwEGX33SA) |       |
-| IVI Lab                 | [Tacotron2-SpeechGesture](https://github.com/cjerry1243/Tacotron2-SpeechGesture) | [link](https://www.youtube.com/watch?v=PNmC6mlpyQg) | 🏆    |
-| ReprGesture             | [YoungSeng/ReprGesture](https://github.com/YoungSeng/ReprGesture)                | [link](https://www.youtube.com/watch?v=KJJYEqyOq5U) |       |
-| TransGesture            | ❌                                                                               | [link](https://www.youtube.com/watch?v=3aTiuAWDUhs) |       |
-| UEA Digital Humans      | [UEA/GENEA22](https://github.com/UEA-digital-human-group/GENEA22)                | [link](https://www.youtube.com/watch?v=giVYmiglOYI) |       |
+| DeepMotion (VQ-VAE)     | ❌                                                                               | [youtube](https://www.youtube.com/watch?v=3L9pyPv-I8M) |       |
+| DSI (Hybrid Seq2Seq)    | ❌                                                                               | [youtube](https://www.youtube.com/watch?v=9rcBp0ezlqs) |       |
+| FineMotion (ReCell)     | [FineMotion/GENEA_2022](https://github.com/FineMotion/GENEA_2022)                | [youtube](https://www.youtube.com/watch?v=ZVx_QIBR8wQ) |       |
+| Forgerons - Ubisoft     | ❌                                                                               | [youtube](https://www.youtube.com/watch?v=zdNsj3MGpL0) |       |
+| GestureMaster - NetEase | ❌                                                                               | [youtube](https://www.youtube.com/watch?v=nwNwEGX33SA) |       |
+| IVI Lab                 | [Tacotron2-SpeechGesture](https://github.com/cjerry1243/Tacotron2-SpeechGesture) | [youtube](https://www.youtube.com/watch?v=PNmC6mlpyQg) | 🏆    |
+| ReprGesture             | [YoungSeng/ReprGesture](https://github.com/YoungSeng/ReprGesture)                | [youtube](https://www.youtube.com/watch?v=KJJYEqyOq5U) |       |
+| TransGesture            | ❌                                                                               | [youtube](https://www.youtube.com/watch?v=3aTiuAWDUhs) |       |
+| UEA Digital Humans      | [UEA/GENEA22](https://github.com/UEA-digital-human-group/GENEA22)                | [youtube](https://www.youtube.com/watch?v=giVYmiglOYI) |       |
 
 <details> 
 <summary><bold>GENEA Workshop 2022 - Accepted papers</bold></summary>
@@ -159,10 +159,10 @@ A curated list of Awesome **Gesture Generation**
 
 | Papers                                                                                                                         | Video                                               | Award |
 | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | ----- |
-| Understanding Interviewees’ Perceptions and Behaviour towards Verbally and Non-verbally Expressive Virtual Interviewing Agents | [link](https://www.youtube.com/watch?v=7Si8j9xxaHE) |       |
-| Emotional Respiration Speech Dataset                                                                                           | [link](https://www.youtube.com/watch?v=z5vWO_rQmDI) |       |
-| Automatic facial expressions, gaze direction and head movements generation of a virtual agent                                  | [link](https://www.youtube.com/watch?v=bo-nDGxLrQU) | 🏆    |
-| Can you tell that I'm confused? An overhearer study for German backchannels by an embodied agent                               | [link](https://www.youtube.com/watch?v=vDgo1bXXtOo) |       |
+| Understanding Interviewees’ Perceptions and Behaviour towards Verbally and Non-verbally Expressive Virtual Interviewing Agents | [youtube](https://www.youtube.com/watch?v=7Si8j9xxaHE) |       |
+| Emotional Respiration Speech Dataset                                                                                           | [youtube](https://www.youtube.com/watch?v=z5vWO_rQmDI) |       |
+| Automatic facial expressions, gaze direction and head movements generation of a virtual agent                                  | [youtube](https://www.youtube.com/watch?v=bo-nDGxLrQU) | 🏆    |
+| Can you tell that I'm confused? An overhearer study for German backchannels by an embodied agent                               | [youtube](https://www.youtube.com/watch?v=vDgo1bXXtOo) |       |
 
 <!-- ************************* -->
 
@@ -183,9 +183,9 @@ A curated list of Awesome **Gesture Generation**
 
 | Papers                                                                                                        | Github                                                                                                  | Video                                               | Award |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
-| Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN                                   | [wubowen416/gesture-generation-using-WGAN](https://github.com/wubowen416/gesture-generation-using-WGAN) | [link](https://www.youtube.com/watch?v=PMhjX6cdIPE) | 🏆    |
+| Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN                                   | [wubowen416/gesture-generation-using-WGAN](https://github.com/wubowen416/gesture-generation-using-WGAN) | [youtube](https://www.youtube.com/watch?v=PMhjX6cdIPE) | 🏆    |
 | Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood | ❌                                                                                                      | ❌                                                  |       |
-| Crossmodal clustered contrastive learning: Grounding of spoken language to gesture                            | [dondongwon/CC_NCE_GENEA](https://github.com/dondongwon/CC_NCE_GENEA)                                   | [link](https://www.youtube.com/watch?v=L5dHXTpCkeI) |       |
+| Crossmodal clustered contrastive learning: Grounding of spoken language to gesture                            | [dondongwon/CC_NCE_GENEA](https://github.com/dondongwon/CC_NCE_GENEA)                                   | [youtube](https://www.youtube.com/watch?v=L5dHXTpCkeI) |       |
 
 <!-- ************************* -->
 
@@ -209,12 +209,12 @@ A curated list of Awesome **Gesture Generation**
 
 | Papers                                                                             | Github                                                                                | Video                                               |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| The StyleGestures entry to the GENEA Challenge 2020                                | [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) | [link](https://www.youtube.com/watch?v=JZgBlJKGFGk) |
-| The FineMotion entry to the GENEA Challenge 2020                                   | [FineMotion/GENEA_2020](https://github.com/FineMotion/GENEA_2020)                     | [link](https://www.youtube.com/watch?v=q29d9Hfbifk) |
-| Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth | ❌                                                                                    | [link](https://www.youtube.com/watch?v=ht5Fu47JKkI) |
-| CGVU: Semantics-guided 3D Body Gesture Synthesis                                   | ❌                                                                                    | [link](https://www.youtube.com/watch?v=MBSX0OLHRRU) |
-| Interpreting and Generating Gestures with Embodied Human Computer Interactions     | ❌                                                                                    | [link](https://www.youtube.com/watch?v=5I0FvhlcoDI) |
-| The Nectec Gesture Generation System entry to the GENEA Challenge 2020             | ❌                                                                                    | [link](https://www.youtube.com/watch?v=0m0wKkNmrgQ) |
+| The StyleGestures entry to the GENEA Challenge 2020                                | [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) | [youtube](https://www.youtube.com/watch?v=JZgBlJKGFGk) |
+| The FineMotion entry to the GENEA Challenge 2020                                   | [FineMotion/GENEA_2020](https://github.com/FineMotion/GENEA_2020)                     | [youtube](https://www.youtube.com/watch?v=q29d9Hfbifk) |
+| Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth | ❌                                                                                    | [youtube](https://www.youtube.com/watch?v=ht5Fu47JKkI) |
+| CGVU: Semantics-guided 3D Body Gesture Synthesis                                   | ❌                                                                                    | [youtube](https://www.youtube.com/watch?v=MBSX0OLHRRU) |
+| Interpreting and Generating Gestures with Embodied Human Computer Interactions     | ❌                                                                                    | [youtube](https://www.youtube.com/watch?v=5I0FvhlcoDI) |
+| The Nectec Gesture Generation System entry to the GENEA Challenge 2020             | ❌                                                                                    | [youtube](https://www.youtube.com/watch?v=0m0wKkNmrgQ) |
 
 <!-- ************************* -->
 <!-- ************************* GENEA Challenge ************************* -->
@@ -227,18 +227,18 @@ A curated list of Awesome **Gesture Generation**
 
 - **TEDTalk** (Extract skeleton from video Dataset)
 
-  - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/pdf/2203.13161.pdf) [github](https://github.com/alvinliu0/HA2G) ; [video]() ; [homepage](https://alvinliu0.github.io/projects/HA2G)
-  - [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) ; [github](https://github.com/aubrey-ao/humanbehavioranimation) ; [video](https://www.youtube.com/watch?v=qy2MrNhsoIs)
-  - [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://arxiv.org/abs/2108.00262v2) [github](https://github.com/UttaranB127/speech2affective_gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) ; [video](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
-  - [Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity](https://arxiv.org/abs/2009.02119v1) ; [github](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
-  - [Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning](https://arxiv.org/abs/2108.00262v2) [github](https://github.com/UttaranB127/speech2affective_gestures)
+  - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [paper](https://arxiv.org/pdf/2203.13161.pdf) [github](https://github.com/alvinliu0/HA2G) ; [youtube]() ; [homepage](https://alvinliu0.github.io/projects/HA2G)
+  - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [paper](https://arxiv.org/abs/2210.01448) ; [github](https://github.com/aubrey-ao/humanbehavioranimation) ; [youtube](https://www.youtube.com/watch?v=qy2MrNhsoIs)
+  - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [paper](https://arxiv.org/abs/2108.00262v2) [github](https://github.com/UttaranB127/speech2affective_gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) ; [youtube](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
+  - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [paper](https://arxiv.org/abs/2009.02119v1) ; [github](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
+  - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [paper](https://arxiv.org/abs/2108.00262v2) [github](https://github.com/UttaranB127/speech2affective_gestures)
 
 - **BEAT** (Motion Capture Dataset)
-  - [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://arxiv.org/abs/2203.05297v5) ; [PantoMatrix/BEAT](https://github.com/PantoMatrix/BEAT)
-  - [Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity](https://arxiv.org/abs/2009.02119v1) ; [ai4r/Gesture-Generation-from-Trimodal-Context](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
-  - [Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders](https://arxiv.org/abs/2108.06720v1)
-  - [Learning Individual Styles of Conversational Gesture](https://github.com/amirbar/speech2gesture)
-  - [Robots Learning to Say `No': Prohibition and Rejective Mechanisms in Acquisition of Linguistic Negation](https://arxiv.org/abs/1810.11804v1)
+  - BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [paper](https://arxiv.org/abs/2203.05297v5) ; [PantoMatrix/BEAT](https://github.com/PantoMatrix/BEAT)
+  - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [paper](https://arxiv.org/abs/2009.02119v1) ; [ai4r/Gesture-Generation-from-Trimodal-Context](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
+  - Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders [paper](https://arxiv.org/abs/2108.06720v1)
+  - Learning Individual Styles of Conversational Gesture [paper](https://github.com/amirbar/speech2gesture)
+  - Robots Learning to Say `No': Prohibition and Rejective Mechanisms in Acquisition of Linguistic Negation [paper](https://arxiv.org/abs/1810.11804v1)
 
 <!-- ************************* Kaggle ************************* -->
 
@@ -248,11 +248,11 @@ A curated list of Awesome **Gesture Generation**
 
 ### **<a name="2023">2023</a>**
 
-- 【CVPR 2023】[Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf) ; [github](https://github.com/RLracer/RACER)
-- 【PAKDD 2023】[RLMixer: A Reinforcement Learning Approach For Integrated Ranking With Contrastive User Preference Modeling](https://batmanzzmc.github.io/assets/pdf/PAKDD2023.pdf)
-- 【IJCAI 2023】 [DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models](https://arxiv.org/abs/2305.04919) ; [github](https://github.com/YoungSeng/DiffuseStyleGesture) ; [video](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
-- 【CVPR 2023】 [Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2303.09119) ; [github](https://github.com/Advocate99/DiffGesture)
-- 【CVPR 2023】 [Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement](https://arxiv.org/pdf/2303.01765) ; [github](https://github.com/XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction)
+- 【CVPR 2023】Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards [paper](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf) ; [github](https://github.com/RLracer/RACER)
+- 【PAKDD 2023】RLMixer: A Reinforcement Learning Approach For Integrated Ranking With Contrastive User Preference Modeling [paper](https://batmanzzmc.github.io/assets/pdf/PAKDD2023.pdf)
+- 【IJCAI 2023】DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [paper](https://arxiv.org/abs/2305.04919) ; [github](https://github.com/YoungSeng/DiffuseStyleGesture) ; [youtube](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+- 【CVPR 2023】Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [paper](https://arxiv.org/abs/2303.09119) ; [github](https://github.com/Advocate99/DiffGesture)
+- 【CVPR 2023】Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement [paper](https://arxiv.org/pdf/2303.01765) ; [github](https://github.com/XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction)
 -
 
 <!-- ************************* 2023 ************************* -->
@@ -264,14 +264,14 @@ A curated list of Awesome **Gesture Generation**
 ### **<a name="2022">2022</a>**
 
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974)
-- [ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](https://arxiv.org/abs/2209.07556) ; [github](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ; [video](https://www.youtube.com/watch?v=EJPdTtVrxHo)
-- [Voice2Face: Audio-Driven Facial and Tongue Rig Animations](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-sca2022-voice2face-paper.pdf) ; [video](https://www.youtube.com/watch?v=R4CWYAQe4Zs) ; [web](https://www.ea.com/seed/news/sca22-voice2face-audio-driven-facial-animation)
-- [Deep Gesture Generation for Social Robots Using Type-Specific Libraries](https://arxiv.org/abs/2210.06790) ; [video](https://www.youtube.com/watch?v=R4CWYAQe4Zs) ; [web](https://www.ea.com/seed/news/sca22-voice2face-audio-driven-facial-animation)
+- [ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](https://arxiv.org/abs/2209.07556) ; [github](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ; [youtube](https://www.youtube.com/watch?v=EJPdTtVrxHo)
+- [Voice2Face: Audio-Driven Facial and Tongue Rig Animations](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-sca2022-voice2face-paper.pdf) ; [youtube](https://www.youtube.com/watch?v=R4CWYAQe4Zs) ; [web](https://www.ea.com/seed/news/sca22-voice2face-audio-driven-facial-animation)
+- [Deep Gesture Generation for Social Robots Using Type-Specific Libraries](https://arxiv.org/abs/2210.06790) ; [youtube](https://www.youtube.com/watch?v=R4CWYAQe4Zs) ; [web](https://www.ea.com/seed/news/sca22-voice2face-audio-driven-facial-animation)
 - 【ICMI 2022】 [The DeepMotion entry to the GENEA Challenge 2022](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)
-- [Automatic text‐to‐gesture rule generation for embodied conversational agents](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1944) [video](https://www.youtube.com/watch?v=GIxaI9yTmMc)
-- 【IROS 2022】 [Gesture2Vec: Clustering Gestures using Representation Learning Methods for Co-speech Gesture Generation](https://sfumars.com/wp-content/papers/2022_iros_gesture2vec.pdf) [pjyazdian/Gesture2Vec](https://github.com/pjyazdian/Gesture2Vec) ; [video](https://www.youtube.com/watch?v=ac8jWk4fdCU) ; [video](https://www.youtube.com/watch?v=qFObMpOboCg)
+- [Automatic text‐to‐gesture rule generation for embodied conversational agents](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1944) [youtube](https://www.youtube.com/watch?v=GIxaI9yTmMc)
+- 【IROS 2022】 [Gesture2Vec: Clustering Gestures using Representation Learning Methods for Co-speech Gesture Generation](https://sfumars.com/wp-content/papers/2022_iros_gesture2vec.pdf) [pjyazdian/Gesture2Vec](https://github.com/pjyazdian/Gesture2Vec) ; [youtube](https://www.youtube.com/watch?v=ac8jWk4fdCU) ; [youtube](https://www.youtube.com/watch?v=qFObMpOboCg)
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://arxiv.org/abs/2210.06974) ; [web](https://www.ea.com/seed/news/evaluating-data-driven-co-speech-gestures)
-- 【ICMI】 [The ReprGesture entry to the GENEA Challenge 2022](https://arxiv.org/abs/2208.12133) ; [YoungSeng/ReprGesture](https://github.com/YoungSeng/ReprGesture) ; [video](https://www.youtube.com/watch?v=KJJYEqyOq5U)
+- 【ICMI】 [The ReprGesture entry to the GENEA Challenge 2022](https://arxiv.org/abs/2208.12133) ; [YoungSeng/ReprGesture](https://github.com/YoungSeng/ReprGesture) ; [youtube](https://www.youtube.com/watch?v=KJJYEqyOq5U)
 - [Towards Context-Aware Human-like Pointing Gestures with RL Motion Imitation](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1664509)
 - [Text/Speech-Driven Full-Body Animation](https://arxiv.org/abs/2205.15573)
 - 【ICRA 2022】 [Context-Aware Body Gesture Generation for Social Robots](<https://kclpure.kcl.ac.uk/portal/en/publications/contextaware-body-gesture-generation-for-social-robots(fe4a7b59-027b-4bd8-a751-29cee9777c92).html>)
@@ -288,13 +288,13 @@ A curated list of Awesome **Gesture Generation**
 - [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents](https://dl.acm.org/doi/abs/10.1145/3514197.3549697)
 - [Multimodal analysis of the predictability of hand-gesture properties](https://arxiv.org/abs/2108.05762)
 - [Deep Gesture Generation for Social Robots Using Type-Specific Libraries](https://arxiv.org/abs/2210.06790)
-- [A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents](https://arxiv.org/abs/2102.12302) ; [video](https://www.youtube.com/watch?v=jhgUBS0125A) ; [homepage](https://nagyrajmund.github.io/project/gesturebot/) ; [github](https://github.com/nagyrajmund/gesturebot)
+- [A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents](https://arxiv.org/abs/2102.12302) ; [youtube](https://www.youtube.com/watch?v=jhgUBS0125A) ; [homepage](https://nagyrajmund.github.io/project/gesturebot/) ; [github](https://github.com/nagyrajmund/gesturebot)
 - [Moving Fast and Slow: Analysis of Representations and Post-Processing in Speech-Driven Automatic Gesture Generation](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1883883)
 - [ExpressGesture: Expressive gesture generation from speech through database matching](https://onlinelibrary.wiley.com/doi/full/10.1002/cav.2016)
 - Text2Gestures [Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents](https://arxiv.org/abs/2101.11101)
 - 【IVA 2021】 [Learning Speech-driven 3D Conversational Gestures from Video](https://dl.acm.org/doi/abs/10.1145/3472306.3478335)
 - 【ICMI 2021】 [Crossmodal Clustered Contrastive Learning: Grounding of Spoken Language to Gesture](https://dl.acm.org/doi/abs/10.1145/3461615.3485408) ; [dondongwon/CC_NCE_GENEA](https://github.com/dondongwon/CC_NCE_GENEA)
-- 【CASA 2021】 ExpressGesture [ExpressGesture: Expressive gesture generation from speech through database matching](https://onlinelibrary.wiley.com/doi/full/10.1002/cav.2016) ; [video](https://www.youtube.com/watch?v=9opZK-usETY)
+- 【CASA 2021】 ExpressGesture [ExpressGesture: Expressive gesture generation from speech through database matching](https://onlinelibrary.wiley.com/doi/full/10.1002/cav.2016) ; [youtube](https://www.youtube.com/watch?v=9opZK-usETY)
 - 【AAMAS 2021】 CMCF [CCFM: An Architecture for Realtime Gesture Generation by Clustering Gestures by Communicative Function and Motion](https://eprints.gla.ac.uk/253967/1/253967.pdf)
 - [Passing a Non-verbal Turing Test: Evaluating Gesture Animations Generated from Speech](https://arxiv.org/abs/2107.00712)
 - []()
@@ -308,9 +308,9 @@ A curated list of Awesome **Gesture Generation**
 
 ### **<a name="2020">2020</a>**
 
-- [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [video](https://www.youtube.com/watch?v=Y-5dgBQk34c) ; [github](https://github.com/Svito-zar/genea_numerical_evaluations)
-- [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) ; [video](https://www.youtube.com/watch?v=VQ8he6jjW08) ; [github](https://github.com/Svito-zar/gesticulator) ; [homepage](https://svito-zar.github.io/gesticulator/) ; [dataset](https://figshare.com/projects/Gesticulator/87128)
-- [Probabilistic Multi-modal Interlocutor-awa\*re Generation of Facial Gestures in Dyadic Settings](https://arxiv.org/abs/2006.09888) ; [video](https://www.youtube.com/watch?v=RhazMS4L_bk) ; [homepage](https://jonepatr.github.io/lets_face_it/)
+- [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [youtube](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [youtube](https://www.youtube.com/watch?v=Y-5dgBQk34c) ; [github](https://github.com/Svito-zar/genea_numerical_evaluations)
+- [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) ; [youtube](https://www.youtube.com/watch?v=VQ8he6jjW08) ; [github](https://github.com/Svito-zar/gesticulator) ; [homepage](https://svito-zar.github.io/gesticulator/) ; [dataset](https://figshare.com/projects/Gesticulator/87128)
+- [Probabilistic Multi-modal Interlocutor-awa\*re Generation of Facial Gestures in Dyadic Settings](https://arxiv.org/abs/2006.09888) ; [youtube](https://www.youtube.com/watch?v=RhazMS4L_bk) ; [homepage](https://jonepatr.github.io/lets_face_it/)
 - [Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents](https://arxiv.org/pdf/2009.10760.pdf)
 - [Affective synthesis and animation of arm gestures from speech prosody](https://www.sciencedirect.com/science/article/abs/pii/S0167639319301980)
 - 【EMNLP 2020】 AiSLE [No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures](https://aclanthology.org/people/l/louis-philippe-morency/) ; [chahuja/aisle](https://github.com/chahuja/aisle)
@@ -327,7 +327,7 @@ A curated list of Awesome **Gesture Generation**
 
 ### **<a name="2019">2019</a>**
 
-- [Analyzing Input and Output Representations for Speech-Driven Gesture Generation](https://arxiv.org/abs/1903.03369) ; [github](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) ; [video](https://www.youtube.com/watch?v=Iv7UBe92zrw) ; [video](https://www.youtube.com/watch?v=tQLVyTVtsSU) ; [homepage](https://svito-zar.github.io/audio2gestures/)
+- [Analyzing Input and Output Representations for Speech-Driven Gesture Generation](https://arxiv.org/abs/1903.03369) ; [github](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) ; [youtube](https://www.youtube.com/watch?v=Iv7UBe92zrw) ; [youtube](https://www.youtube.com/watch?v=tQLVyTVtsSU) ; [homepage](https://svito-zar.github.io/audio2gestures/)
 - [On the Importance of Representations for Speech-Driven Gesture Generation](https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2072.pdf)
 - 【ICMI 2019】 DRAM [To React or not to React: End-to-End Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations](https://dl.acm.org/doi/abs/10.1145/3340555.3353725)
 - 【SIGGRAPH MIG 2019】 [Multi-objective adversarial gesture generation](https://dl.acm.org/doi/abs/10.1145/3359566.3360053)
@@ -342,11 +342,11 @@ A curated list of Awesome **Gesture Generation**
 
 ### **<a name="2018">2018</a>**
 
-- [A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture](https://arxiv.org/abs/1803.02665) ; [video](https://www.youtube.com/watch?v=mi75gzEhbHI) ; [video](https://www.youtube.com/watch?v=MFdFqxCNhN0) ; [github](https://github.com/Svito-zar/NN-for-Missing-Marker-Reconstruction)
+- [A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture](https://arxiv.org/abs/1803.02665) ; [youtube](https://www.youtube.com/watch?v=mi75gzEhbHI) ; [youtube](https://www.youtube.com/watch?v=MFdFqxCNhN0) ; [github](https://github.com/Svito-zar/NN-for-Missing-Marker-Reconstruction)
 - [Data Driven Non-Verbal Behavior Generation for Humanoid Robots](https://dl.acm.org/doi/10.1145/3242969.3264970)
-- [A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture](https://www.researchgate.net/publication/323626902_A_Neural_Network_Approach_to_Missing_Marker_Reconstruction_in_Human_Motion_Capture) ; [github](https://github.com/Svito-zar/NN-for-Missing-Marker-Reconstruction) ; [video](https://www.youtube.com/watch?v=mi75gzEhbHI)
+- [A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture](https://www.researchgate.net/publication/323626902_A_Neural_Network_Approach_to_Missing_Marker_Reconstruction_in_Human_Motion_Capture) ; [github](https://github.com/Svito-zar/NN-for-Missing-Marker-Reconstruction) ; [youtube](https://www.youtube.com/watch?v=mi75gzEhbHI)
 - [Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
-- [A Speech-Driven Hand Gesture Generation Method and Evaluation in Android Robots](https://ieeexplore.ieee.org/abstract/document/8411101) ; [video](https://www.youtube.com/watch?v=nr867hoQB-M)
+- [A Speech-Driven Hand Gesture Generation Method and Evaluation in Android Robots](https://ieeexplore.ieee.org/abstract/document/8411101) ; [youtube](https://www.youtube.com/watch?v=nr867hoQB-M)
 - [Robots Learn Social Skills: End-to-End Learning of Co-Speech Gesture Generation for Humanoid Robots](https://arxiv.org/abs/1810.12541)
 - []()
 
@@ -369,9 +369,9 @@ A curated list of Awesome **Gesture Generation**
 
 **<a name="others">Others</a>**
 
-- [Rig Inversion by Training a Differentiable Rig Function](https://arxiv.org/abs/2301.09567) ; [video](https://www.youtube.com/watch?v=sYCz9LGIkuI)
+- [Rig Inversion by Training a Differentiable Rig Function](https://arxiv.org/abs/2301.09567) ; [youtube](https://www.youtube.com/watch?v=sYCz9LGIkuI)
 - 【CVPR 2021】 Body2Hands [Body2Hands: Learning To Infer 3D Hands From Conversational Gesture Body Dynamics](https://openaccess.thecvf.com/content/CVPR2021/html/Ng_Body2Hands_Learning_To_Infer_3D_Hands_From_Conversational_Gesture_Body_CVPR_2021_paper.html)
-- 【SIGGRAPH 2022】 GANimator for generate data [GANimator: Neural Motion Synthesis from a Single Sequence](https://peizhuoli.github.io/ganimator/paper/ganimator-camera-ready.pdf) ; [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator) ; [video](https://www.youtube.com/watch?v=-VOsJ1KyyGA)
+- 【SIGGRAPH 2022】 GANimator for generate data [GANimator: Neural Motion Synthesis from a Single Sequence](https://peizhuoli.github.io/ganimator/paper/ganimator-camera-ready.pdf) ; [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator) ; [youtube](https://www.youtube.com/watch?v=-VOsJ1KyyGA)
 
 <!-- ************************* Others ************************* -->
 
@@ -406,8 +406,8 @@ A curated list of Awesome **Gesture Generation**
 
 #### <a name="deeplearning">3.2.2 Selected deep learning approach
 
-- 【IJCAI 2023】 [Listen, denoise, action! Audio-driven motion synthesis with diffusion models](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ; [video](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
-- ⭐ Rhythmic Gesticulator ⭐ - [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) ; [Aubrey-ao/HumanBehaviorAnimation](https://github.com/aubrey-ao/humanbehavioranimation) ; [video](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [video](https://www.youtube.com/watch?v=DO_W8plFWco)
+- 【IJCAI 2023】 [Listen, denoise, action! Audio-driven motion synthesis with diffusion models](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ; [youtube](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+- ⭐ Rhythmic Gesticulator ⭐ - [Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings](https://arxiv.org/abs/2210.01448) ; [Aubrey-ao/HumanBehaviorAnimation](https://github.com/aubrey-ao/humanbehavioranimation) ; [youtube](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [youtube](https://www.youtube.com/watch?v=DO_W8plFWco)
 - 【CVPR 2022】 HA2G - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/abs/2203.13161) ; [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G)
 - ⭐ CaMN ⭐ [BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis](https://arxiv.org/abs/2203.05297v5) ; [PantoMatrix/BEAT](https://github.com/PantoMatrix/BEAT)
 - 【CVPR 2022】 SEEG - [SEEG: Semantic Energized Co-Speech Gesture Generation](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html) ; [github](https://github.com/akira-l/seeg)
@@ -418,7 +418,7 @@ A curated list of Awesome **Gesture Generation**
 - 【AAMAS 2022】 [Multimodal analysis of the predictability of hand-gesture properties](https://arxiv.org/abs/2108.05762)
 - 【ICMI 2022】 GestureMaster [GestureMaster: Graph-based Speech-driven Gesture Generation](https://dl.acm.org/doi/abs/10.1145/3536221.3558063)
 - 【SIGGRAPH 2022】 [A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech](https://dl.acm.org/doi/abs/10.1145/3528233.3530750) ; [homepage](https://vcai.mpi-inf.mpg.de/projects/SpeechGestureMatching/)
-- 【ICCV 2021】 [Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates](https://openaccess.thecvf.com/content/ICCV2021/html/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.html) ; [shenhanqian/speechdrivestemplates](https://github.com/shenhanqian/speechdrivestemplates) ; [video](https://www.youtube.com/watch?v=yu-5gUHn6h8) ; [poster](https://shenhanqian.com/assets/2021-07-25-sdt/poster.pdf)
+- 【ICCV 2021】 [Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates](https://openaccess.thecvf.com/content/ICCV2021/html/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.html) ; [shenhanqian/speechdrivestemplates](https://github.com/shenhanqian/speechdrivestemplates) ; [youtube](https://www.youtube.com/watch?v=yu-5gUHn6h8) ; [poster](https://shenhanqian.com/assets/2021-07-25-sdt/poster.pdf)
 - 【ICCV 2021】 Audio2Gestures [Audio2Gestures: Generating Diverse Gestures From Speech Audio With Conditional Variational Autoencoders](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Audio2Gestures_Generating_Diverse_Gestures_From_Speech_Audio_With_Conditional_Variational_ICCV_2021_paper.html)
 - 【ICMI 2020】 Gesticulator [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) ; [Svito-zar/gesticulator](https://github.com/Svito-zar/gesticulator)
 - 【ECCV 2020】 Mix-StAGE [Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional-Mixture Approach](https://arxiv.org/abs/2007.12553)
@@ -427,7 +427,7 @@ A curated list of Awesome **Gesture Generation**
 - 【ICMI 2021】 [Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN](https://dl.acm.org/doi/abs/10.1145/3461615.3485407)
 - 【CVMP 2021】 Flow-VAE [Speech-Driven Conversational Agents using Conditional Flow-VAEs](https://dl.acm.org/doi/10.1145/3485441.3485647)
 - 【CVPR 2019】 Speech2Gesture [Learning Individual Styles of Conversational Gesture](https://openaccess.thecvf.com/content_CVPR_2019/html/Ginosar_Learning_Individual_Styles_of_Conversational_Gesture_CVPR_2019_paper.html)
-- 【EUROGRAPHICS 2020】 StyleGestures [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946) ; [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) ; [video](https://www.youtube.com/watch?v=egf3tjbWBQE)
+- 【EUROGRAPHICS 2020】 StyleGestures [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946) ; [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) ; [youtube](https://www.youtube.com/watch?v=egf3tjbWBQE)
 
 ---
 
@@ -581,7 +581,7 @@ Evaluation aspects :
 | Talking With Hands GENEA Extension                                                                                                                                    | 🚶, 🔊, 📃         | 👥     | [zenodo/6998231](https://zenodo.org/record/6998231)                                                                                      | [dl.acm.org](https://dl.acm.org/doi/abs/10.1145/3536221.3558068)                                         |
 | SaGA                                                                                                                                                                  | 🚶, 🔊, ℹ️         | 👥     | [phonetik.uni-muenchen](https://www.phonetik.uni-muenchen.de/Bas/BasSaGAeng.html)                                                        | [uni-bielefeld](https://pub.uni-bielefeld.de/record/2001935)                                             |
 | SaGA++                                                                                                                                                                | 🚶, 🔊, ℹ️         | 👥     | [zenodo/6546229](https://zenodo.org/record/6546229)                                                                                      |                                                                                                          |
-| ZEGGS Dataset [video](https://www.youtube.com/watch?v=YFg7QKWkjwQ)                                                                                                    | 🚶, 🔊             | 👤     | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)                                                          | [arxiv](https://arxiv.org/abs/2209.07556)                                                                |
+| ZEGGS Dataset [youtube](https://www.youtube.com/watch?v=YFg7QKWkjwQ)                                                                                                    | 🚶, 🔊             | 👤     | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)                                                          | [arxiv](https://arxiv.org/abs/2209.07556)                                                                |
 | BEAT Dataset ([homepage](https://pantomatrix.github.io/BEAT-Dataset/) [homepage](https://pantomatrix.github.io/BEAT/), [github](https://github.com/PantoMatrix/BEAT)) | 🚶, 🔊, 📃, ℹ️, 🤯 | 👥, 👤 | [github.io/BEAT](https://pantomatrix.github.io/BEAT)                                                                                     | [arxiv](https://arxiv.org/pdf/2203.05297.pdf)                                                            |
 
 #### 2022 GENEA Challenge:
@@ -601,7 +601,7 @@ Evaluation aspects :
 
 - Algorithms
 
-  - [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents](https://github.com/ai4r/SGToolkit) ; [homepage](https://uist.acm.org/uist2021/) ; [video](https://www.youtube.com/watch?v=qClSOtLiVlc)
+  - [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents](https://github.com/ai4r/SGToolkit) ; [homepage](https://uist.acm.org/uist2021/) ; [youtube](https://www.youtube.com/watch?v=qClSOtLiVlc)
 
 - Recognition:
 
