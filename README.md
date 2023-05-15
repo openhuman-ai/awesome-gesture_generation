@@ -60,20 +60,20 @@ A curated list of Awesome **Gesture Generation**
 
 #### **Comprehensive preview**
 
-- 【EUROGRAPHICS 2023】A Comprehensive Review of Data-Driven Co-Speech Gesture Generation; [[paper](https://arxiv.org/abs/2301.05339)] ; [[github]](https://github.com/google/mipnerf) ; [web](https://www.ea.com/seed/news/genea-challenge-2022)
+- 【EUROGRAPHICS 2023】A Comprehensive Review of Data-Driven Co-Speech Gesture Generation; [[[paper]](https://arxiv.org/abs/2301.05339)] ; [[github]](https://github.com/google/mipnerf) ; [web](https://www.ea.com/seed/news/genea-challenge-2022)
 
-- 2014 - Gesture and speech in interaction: An overview ; [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167639313001295?via%3Dihub)
+- 2014 - Gesture and speech in interaction: An overview ; [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167639313001295?via%3Dihub)
 
 #### **Survey review**
 
-- 【HAI 2021】Speech-based Gesture Generation for Robots and Embodied Agents: A Scoping Review [paper](https://wafa.johal.org/files/papers/Speech_Driven_Gesture_Generation__A_Review.pdf)
+- 【HAI 2021】Speech-based Gesture Generation for Robots and Embodied Agents: A Scoping Review [[paper]](https://wafa.johal.org/files/papers/Speech_Driven_Gesture_Generation__A_Review.pdf)
 
 #### **GENEA Challenge**
 
-- The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [paper](https://arxiv.org/abs/2208.10441) ; [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) ; [youtube](https://www.youtube.com/watch?v=4n02wXGGnd0)
-- GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents [paper](https://dl.acm.org/doi/10.1145/3462244.3480983) ; [homepage](https://genea-workshop.github.io/2021/)
-- The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data [paper](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [youtube](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [[github]](https://github.com/Svito-zar/genea_numerical_evaluations)
-- Evaluating gesture-generation in a large-scale open challenge \_ The GENEA Challenge 2022 [paper](https://arxiv.org/pdf/2303.08737)
+- The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [[paper]](https://arxiv.org/abs/2208.10441) ; [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) ; [youtube](https://www.youtube.com/watch?v=4n02wXGGnd0)
+- GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents [[paper]](https://dl.acm.org/doi/10.1145/3462244.3480983) ; [homepage](https://genea-workshop.github.io/2021/)
+- The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data [[paper]](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [youtube](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [[github]](https://github.com/Svito-zar/genea_numerical_evaluations)
+- Evaluating gesture-generation in a large-scale open challenge \_ The GENEA Challenge 2022 [[paper]](https://arxiv.org/pdf/2303.08737)
 
 <!-- ###################################################### SURVEYS  ###################################################### -->
 
@@ -87,9 +87,9 @@ A curated list of Awesome **Gesture Generation**
 
 ### **<a name="fundamental">2.1 Fundamental Paper</a>**
 
-- The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony [paper](https://core.ac.uk/download/pdf/15945024.pdf)
-- Complexity Matters E05: Complexity Matching and Synchronization between Gestures and Speech [paper](https://www.youtube.com/watch?v=lMb-So8wKS8)
-- ⭐ Easier Said Than Done? Task Difficulty's Influence on Temporal Alignment, Semantic Similarity, and Complexity Matching Between Gestures and Speech [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12989) ⭐
+- The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony [[paper]](https://core.ac.uk/download/pdf/15945024.pdf)
+- Complexity Matters E05: Complexity Matching and Synchronization between Gestures and Speech [[paper]](https://www.youtube.com/watch?v=lMb-So8wKS8)
+- ⭐ Easier Said Than Done? Task Difficulty's Influence on Temporal Alignment, Semantic Similarity, and Complexity Matching Between Gestures and Speech [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12989) ⭐
 
 <!-- ************************* GENEA Challenge ************************* -->
 
@@ -227,18 +227,18 @@ A curated list of Awesome **Gesture Generation**
 
 - **TEDTalk** (Extract skeleton from video Dataset)
 
-  - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [paper](https://arxiv.org/pdf/2203.13161.pdf) [[github]](https://github.com/alvinliu0/HA2G) ; [youtube]() ; [homepage](https://alvinliu0.github.io/projects/HA2G)
-  - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [paper](https://arxiv.org/abs/2210.01448) ; [[github]](https://github.com/aubrey-ao/humanbehavioranimation) ; [youtube](https://www.youtube.com/watch?v=qy2MrNhsoIs)
-  - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [paper](https://arxiv.org/abs/2108.00262v2) [[github]](https://github.com/UttaranB127/speech2affective_gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) ; [youtube](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
-  - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [paper](https://arxiv.org/abs/2009.02119v1) ; [[github]](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
-  - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [paper](https://arxiv.org/abs/2108.00262v2) [[github]](https://github.com/UttaranB127/speech2affective_gestures)
+  - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](https://arxiv.org/pdf/2203.13161.pdf) [[github]](https://github.com/alvinliu0/HA2G) ; [youtube]() ; [homepage](https://alvinliu0.github.io/projects/HA2G)
+  - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [[paper]](https://arxiv.org/abs/2210.01448) ; [[github]](https://github.com/aubrey-ao/humanbehavioranimation) ; [youtube](https://www.youtube.com/watch?v=qy2MrNhsoIs)
+  - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](https://arxiv.org/abs/2108.00262v2) [[github]](https://github.com/UttaranB127/speech2affective_gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) ; [youtube](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
+  - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [[paper]](https://arxiv.org/abs/2009.02119v1) ; [[github]](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
+  - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](https://arxiv.org/abs/2108.00262v2) [[github]](https://github.com/UttaranB127/speech2affective_gestures)
 
 - **BEAT** (Motion Capture Dataset)
-  - BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [paper](https://arxiv.org/abs/2203.05297v5) ; [PantoMatrix/BEAT](https://github.com/PantoMatrix/BEAT)
-  - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [paper](https://arxiv.org/abs/2009.02119v1) ; [ai4r/Gesture-Generation-from-Trimodal-Context](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
-  - Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders [paper](https://arxiv.org/abs/2108.06720v1)
-  - Learning Individual Styles of Conversational Gesture [paper](https://github.com/amirbar/speech2gesture)
-  - Robots Learning to Say `No': Prohibition and Rejective Mechanisms in Acquisition of Linguistic Negation [paper](https://arxiv.org/abs/1810.11804v1)
+  - BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](https://arxiv.org/abs/2203.05297v5) ; [PantoMatrix/BEAT](https://github.com/PantoMatrix/BEAT)
+  - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [[paper]](https://arxiv.org/abs/2009.02119v1) ; [ai4r/Gesture-Generation-from-Trimodal-Context](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
+  - Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders [[paper]](https://arxiv.org/abs/2108.06720v1)
+  - Learning Individual Styles of Conversational Gesture [[paper]](https://github.com/amirbar/speech2gesture)
+  - Robots Learning to Say `No': Prohibition and Rejective Mechanisms in Acquisition of Linguistic Negation [[paper]](https://arxiv.org/abs/1810.11804v1)
 
 <!-- ************************* Kaggle ************************* -->
 
@@ -248,11 +248,11 @@ A curated list of Awesome **Gesture Generation**
 
 ### **<a name="2023">2023</a>**
 
-- 【CVPR 2023】Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards [paper](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf) ; [[github]](https://github.com/RLracer/RACER)
-- 【PAKDD 2023】RLMixer: A Reinforcement Learning Approach For Integrated Ranking With Contrastive User Preference Modeling [paper](https://batmanzzmc.github.io/assets/pdf/PAKDD2023.pdf)
-- 【IJCAI 2023】DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [paper](https://arxiv.org/abs/2305.04919) ; [[github]](https://github.com/YoungSeng/DiffuseStyleGesture) ; [youtube](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
-- 【CVPR 2023】Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [paper](https://arxiv.org/abs/2303.09119) ; [[github]](https://github.com/Advocate99/DiffGesture)
-- 【CVPR 2023】Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement [paper](https://arxiv.org/pdf/2303.01765) ; [[github]](https://github.com/XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction)
+- 【CVPR 2023】Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards [[paper]](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf) ; [[github]](https://github.com/RLracer/RACER)
+- 【PAKDD 2023】RLMixer: A Reinforcement Learning Approach For Integrated Ranking With Contrastive User Preference Modeling [[paper]](https://batmanzzmc.github.io/assets/pdf/PAKDD2023.pdf)
+- 【IJCAI 2023】DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [[paper]](https://arxiv.org/abs/2305.04919) ; [[github]](https://github.com/YoungSeng/DiffuseStyleGesture) ; [youtube](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+- 【CVPR 2023】Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [[paper]](https://arxiv.org/abs/2303.09119) ; [[github]](https://github.com/Advocate99/DiffGesture)
+- 【CVPR 2023】Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement [[paper]](https://arxiv.org/pdf/2303.01765) ; [[github]](https://github.com/XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction)
 -
 
 <!-- ************************* 2023 ************************* -->
