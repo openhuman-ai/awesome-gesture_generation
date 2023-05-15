@@ -60,20 +60,20 @@ A curated list of Awesome **Gesture Generation**
 
 #### **Comprehensive preview**
 
-- 【EUROGRAPHICS 2023】[A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) ; [github](https://github.com/google/mipnerf) ; [web](https://www.ea.com/seed/news/genea-challenge-2022)
+- 【EUROGRAPHICS 2023】A Comprehensive Review of Data-Driven Co-Speech Gesture Generation; [[paper](https://arxiv.org/abs/2301.05339)] ; [github](https://github.com/google/mipnerf) ; [web](https://www.ea.com/seed/news/genea-challenge-2022)
 
-- 2014 - [Gesture and speech in interaction: An overview](https://www.sciencedirect.com/science/article/abs/pii/S0167639313001295?via%3Dihub)
+- 2014 - Gesture and speech in interaction: An overview ; [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167639313001295?via%3Dihub)
 
 #### **Survey review**
 
-- 【HAI 2021】[Speech-based Gesture Generation for Robots and Embodied Agents: A Scoping Review](https://wafa.johal.org/files/papers/Speech_Driven_Gesture_Generation__A_Review.pdf)
+- 【HAI 2021】Speech-based Gesture Generation for Robots and Embodied Agents: A Scoping Review [paper](https://wafa.johal.org/files/papers/Speech_Driven_Gesture_Generation__A_Review.pdf)
 
 #### **GENEA Challenge**
 
-- [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://arxiv.org/abs/2208.10441) ; [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) ; [video](https://www.youtube.com/watch?v=4n02wXGGnd0)
-- [GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents](https://dl.acm.org/doi/10.1145/3462244.3480983) ; [homepage](https://genea-workshop.github.io/2021/)
-- [The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [github](https://github.com/Svito-zar/genea_numerical_evaluations)
-- [Evaluating gesture-generation in a large-scale open challenge \_ The GENEA Challenge 2022](https://arxiv.org/pdf/2303.08737)
+- The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [paper](https://arxiv.org/abs/2208.10441) ; [homepage](https://youngwoo-yoon.github.io/GENEAchallenge2022/) ; [video](https://www.youtube.com/watch?v=4n02wXGGnd0)
+- GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents [paper](https://dl.acm.org/doi/10.1145/3462244.3480983) ; [homepage](https://genea-workshop.github.io/2021/)
+- The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data [paper](https://arxiv.org/abs/2102.11617) ; [homepage](https://svito-zar.github.io/GENEAchallenge2020/) ; [video](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [github](https://github.com/Svito-zar/genea_numerical_evaluations)
+- Evaluating gesture-generation in a large-scale open challenge \_ The GENEA Challenge 2022 [paper](https://arxiv.org/pdf/2303.08737)
 
 <!-- ###################################################### SURVEYS  ###################################################### -->
 
@@ -87,9 +87,9 @@ A curated list of Awesome **Gesture Generation**
 
 ### **<a name="fundamental">2.1 Fundamental Paper</a>**
 
-- [The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony](https://core.ac.uk/download/pdf/15945024.pdf)
-- [Complexity Matters E05: Complexity Matching and Synchronization between Gestures and Speech](https://www.youtube.com/watch?v=lMb-So8wKS8)
-- ⭐ [Easier Said Than Done? Task Difficulty's Influence on Temporal Alignment, Semantic Similarity, and Complexity Matching Between Gestures and Speech](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12989) ⭐
+- The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony [paper](https://core.ac.uk/download/pdf/15945024.pdf)
+- Complexity Matters E05: Complexity Matching and Synchronization between Gestures and Speech [paper](https://www.youtube.com/watch?v=lMb-So8wKS8)
+- ⭐ Easier Said Than Done? Task Difficulty's Influence on Temporal Alignment, Semantic Similarity, and Complexity Matching Between Gestures and Speech [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12989) ⭐
 
 <!-- ************************* GENEA Challenge ************************* -->
 
@@ -119,15 +119,15 @@ A curated list of Awesome **Gesture Generation**
 <details> 
 <summary><bold>GENEA Challenge 2022 - Accepted papers</bold></summary>
 
-<li>DeepMotion - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558059">The DeepMotion entry to the GENEA Challenge 2022</a></li>
-<li>DSI - <a href="https://openreview.net/forum?id=-2HZD-e6pX7W">Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation</a></li>
-<li>FineMotion - <a href="https://openreview.net/forum?id=uX86IlhiHNx">ReCell: replicating recurrent cell for auto-regressive pose generation</a></li>
-<li>Ubisoft - <a href="https://openreview.net/forum?id=fO_Q4q1dFAA">Ubisoft Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022</a></li>
-<li>GestureMaster - <a href="https://dl.acm.org/doi/10.1145/3536221.3558063">GestureMaster: Graph-based Speech-driven Gesture Generation</a></li>
-<li>IVI Lab - <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558060">The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism</a></li>
-<li>ReprGesture - <a href="https://openreview.net/forum?id=atWaELmguNj7">The ReprGesture entry to the GENEA Challenge 2022</a></li>
-<li>TransGesture - <a href="https://openreview.net/forum?id=AYMDEx97qPN">TransGesture: Autoregressive Gesture Generation with RNN-Transducer</a></li>
-<li>UEA Digital Humans - <a href="https://openreview.net/forum?id=RZP6nErM2Xa">UEA Digital Humans entry to the GENEA Challenge 2022</a></li>
+<li>DeepMotion - The DeepMotion entry to the GENEA Challenge 2022 <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558059">paper</a></li>
+<li>DSI - Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation <a href="https://openreview.net/forum?id=-2HZD-e6pX7W">paper</a></li>
+<li>FineMotion - ReCell: replicating recurrent cell for auto-regressive pose generation <a href="https://openreview.net/forum?id=uX86IlhiHNx">paper</a></li>
+<li>Ubisoft - Ubisoft Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022 <a href="https://openreview.net/forum?id=fO_Q4q1dFAA">paper</a></li>
+<li>GestureMaster - GestureMaster: Graph-based Speech-driven Gesture Generation <a href="https://dl.acm.org/doi/10.1145/3536221.3558063">paper</a></li>
+<li>IVI Lab - The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558060">paper</a></li>
+<li>ReprGesture - The ReprGesture entry to the GENEA Challenge 2022 <a href="https://openreview.net/forum?id=atWaELmguNj7">paper</a></li>
+<li>TransGesture - TransGesture: Autoregressive Gesture Generation with RNN-Transducer <a href="https://openreview.net/forum?id=AYMDEx97qPN">paper</a></li>
+<li>UEA Digital Humans - UEA Digital Humans entry to the GENEA Challenge 2022 <a href="https://openreview.net/forum?id=RZP6nErM2Xa">paper</a></li>
 
 </details>
 
@@ -148,10 +148,10 @@ A curated list of Awesome **Gesture Generation**
 <details> 
 <summary><bold>GENEA Workshop 2022 - Accepted papers</bold></summary>
 
-<li><a href="https://openreview.net/forum?id=T5ei7IeQUMK">Understanding Interviewees’ Perceptions and Behaviour towards Verbally and Non-verbally Expressive Virtual Interviewing Agents</a></li>
-<li><a href="https://openreview.net/forum?id=vaOobiePUy">Emotional Respiration Speech Dataset</a></li>
-<li><a href="https://openreview.net/forum?id=TmR8Q20jL-">Automatic facial expressions, gaze direction and head movements generation of a virtual agent </a></li>
-<li><a href="https://openreview.net/forum?id=by_w1j6XAwr">Can you tell that I'm confused? An overhearer study for German backchannels by an embodied agent </a></li>
+<li>Understanding Interviewees’ Perceptions and Behaviour towards Verbally and Non-verbally Expressive Virtual Interviewing Agents <a href="https://openreview.net/forum?id=T5ei7IeQUMK">paper</a></li>
+<li>Emotional Respiration Speech Dataset <a href="https://openreview.net/forum?id=vaOobiePUy">paper</a></li>
+<li>Automatic facial expressions, gaze direction and head movements generation of a virtual agent <a href="https://openreview.net/forum?id=TmR8Q20jL-">paper</a></li>
+<li>Can you tell that I'm confused? An overhearer study for German backchannels by an embodied agent<a href="https://openreview.net/forum?id=by_w1j6XAwr">paper</a></li>
 
 </details>
 
@@ -173,9 +173,9 @@ A curated list of Awesome **Gesture Generation**
 <details>
   <summary><bold>GENEA Challenge 2021 - Accepted papers</bold></summary>
 
-  <li><a href="https://openreview.net/forum?id=ykvm7OLh7B"> Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN</a></li>
-  <li><a href="https://openreview.net/forum?id=GjjPtEVdSLB">Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood</a></li>
-  <li><a href="https://openreview.net/forum?id=o8CpxaBurZQ">Crossmodal clustered contrastive learning: Grounding of spoken language to gesture</a></li>
+  <li>Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN <a href="https://openreview.net/forum?id=ykvm7OLh7B">paper</a></li>
+  <li>Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood <a href="https://openreview.net/forum?id=GjjPtEVdSLB">paper</a></li>
+  <li>Crossmodal clustered contrastive learning: Grounding of spoken language to gesture <a href="https://openreview.net/forum?id=o8CpxaBurZQ">paper</a></li>
 
 </details>
 
@@ -196,12 +196,12 @@ A curated list of Awesome **Gesture Generation**
 <details>
   <summary><bold>GENEA Challenge 2020 - Accepted papers</bold></summary>
 
-  <li><a href="https://zenodo.org/record/4088600">The StyleGestures entry to the GENEA Challenge 2020</a></li>
-  <li><a href="https://zenodo.org/record/4088609">The FineMotion entry to the GENEA Challenge 2020</a></li>
-  <li><a href="https://zenodo.org/record/4088376">Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth</a></li>
-  <li><a href="https://zenodo.org/record/4090879">CGVU: Semantics-guided 3D Body Gesture Synthesis</a></li>
-  <li><a href="https://zenodo.org/record/4088625">Interpreting and Generating Gestures with Embodied Human Computer Interactions</a></li>
-  <li><a href="https://zenodo.org/record/4088629">The Nectec Gesture Generation System entry to the GENEA Challenge 2020</a></li>
+  <li>The StyleGestures entry to the GENEA Challenge 2020 <a href="https://zenodo.org/record/4088600">paper</a></li>
+  <li>The FineMotion entry to the GENEA Challenge 2020 <a href="https://zenodo.org/record/4088609">paper</a></li>
+  <li>Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth <a href="https://zenodo.org/record/4088376">paper</a></li>
+  <li>CGVU: Semantics-guided 3D Body Gesture Synthesis <a href="https://zenodo.org/record/4090879">paper</a></li>
+  <li>Interpreting and Generating Gestures with Embodied Human Computer Interactions <a href="https://zenodo.org/record/4088625">paper</a></li>
+  <li>The Nectec Gesture Generation System entry to the GENEA Challenge 2020 <a href="https://zenodo.org/record/4088629">paper</a></li>
 
 </details>
 
