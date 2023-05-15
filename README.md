@@ -227,11 +227,11 @@ A curated list of Awesome **Gesture Generation**
 
 - **TEDTalk** (Extract skeleton from video Dataset)
 
-  - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](https://arxiv.org/pdf/2203.13161.pdf) [[github]](https://github.com/alvinliu0/HA2G) ; [[youtube]]() ; [[homepage]](https://alvinliu0.github.io/projects/HA2G)
-  - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [[paper]](https://arxiv.org/abs/2210.01448) ; [[github]](https://github.com/aubrey-ao/humanbehavioranimation) ; [[youtube]](https://www.youtube.com/watch?v=qy2MrNhsoIs)
-  - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](https://arxiv.org/abs/2108.00262v2) [[github]](https://github.com/UttaranB127/speech2affective_gestures) ; [[homepage]](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) ; [[youtube]](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
-  - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [[paper]](https://arxiv.org/abs/2009.02119v1) ; [[github]](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
-  - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](https://arxiv.org/abs/2108.00262v2) [[github]](https://github.com/UttaranB127/speech2affective_gestures)
+  - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](https://arxiv.org/pdf/2203.13161.pdf) [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G) ; [[youtube]]() ; [[homepage]](https://alvinliu0.github.io/projects/HA2G)
+  - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [[paper]](https://arxiv.org/abs/2210.01448) ; [aubrey-ao/humanbehavioranimation](https://github.com/aubrey-ao/humanbehavioranimation) ; [[youtube]](https://www.youtube.com/watch?v=qy2MrNhsoIs)
+  - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](https://arxiv.org/abs/2108.00262v2) [UttaranB127/speech2affective_gestures](https://github.com/UttaranB127/speech2affective_gestures) ; [[homepage]](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) ; [[youtube]](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
+  - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [[paper]](https://arxiv.org/abs/2009.02119v1) ; [ai4r/Gesture-Generation-from-Trimodal-Context](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
+  - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](https://arxiv.org/abs/2108.00262v2) [UttaranB127/speech2affective_gestures](https://github.com/UttaranB127/speech2affective_gestures)
 
 - **BEAT** (Motion Capture Dataset)
   - BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](https://arxiv.org/abs/2203.05297v5) ; [PantoMatrix/BEAT](https://github.com/PantoMatrix/BEAT)
@@ -248,11 +248,11 @@ A curated list of Awesome **Gesture Generation**
 
 ### **<a name="2023">2023</a>**
 
-- 【CVPR 2023】Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards [[paper]](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf) ; [[github]](https://github.com/RLracer/RACER)
+- 【CVPR 2023】Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards [[paper]](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf) ; [RLracer/RACER](https://github.com/RLracer/RACER)
 - 【PAKDD 2023】RLMixer: A Reinforcement Learning Approach For Integrated Ranking With Contrastive User Preference Modeling [[paper]](https://batmanzzmc.github.io/assets/pdf/PAKDD2023.pdf)
-- 【IJCAI 2023】DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [[paper]](https://arxiv.org/abs/2305.04919) ; [[github]](https://github.com/YoungSeng/DiffuseStyleGesture) ; [[youtube]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
-- 【CVPR 2023】Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [[paper]](https://arxiv.org/abs/2303.09119) ; [[github]](https://github.com/Advocate99/DiffGesture)
-- 【CVPR 2023】Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement [[paper]](https://arxiv.org/pdf/2303.01765) ; [[github]](https://github.com/XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction)
+- 【IJCAI 2023】DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [[paper]](https://arxiv.org/abs/2305.04919) ; [YoungSeng/DiffuseStyleGesture](https://github.com/YoungSeng/DiffuseStyleGesture) ; [[youtube]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+- 【CVPR 2023】Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [[paper]](https://arxiv.org/abs/2303.09119) ; [Advocate99/DiffGesture](https://github.com/Advocate99/DiffGesture)
+- 【CVPR 2023】Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement [[paper]](https://arxiv.org/pdf/2303.01765) ; [XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction](https://github.com/XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction)
 -
 
 <!-- ************************* 2023 ************************* -->
