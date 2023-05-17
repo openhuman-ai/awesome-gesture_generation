@@ -72,7 +72,7 @@ A curated list of Awesome **Gesture Generation**
 
 - The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [[paper]](https://arxiv.org/abs/2208.10441) ; [[homepage]](https://youngwoo-yoon.github.io/GENEAchallenge2022/) ; [[youtube]](https://www.youtube.com/watch?v=4n02wXGGnd0)
 - GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents [[paper]](https://dl.acm.org/doi/10.1145/3462244.3480983) ; [[homepage]](https://genea-workshop.github.io/2021/)
-- The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data [[paper]](https://arxiv.org/abs/2102.11617) ; [[homepage]](https://svito-zar.github.io/GENEAchallenge2020/) ; [[youtube]](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [[github]](https://github.com/Svito-zar/genea_numerical_evaluations)
+- The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data [[paper]](https://arxiv.org/abs/2102.11617) ; [[homepage]](https://svito-zar.github.io/GENEAchallenge2020/) ; [[youtube]](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [[Svito-zar/genea_numerical_evaluations]](https://github.com/Svito-zar/genea_numerical_evaluations)
 - Evaluating gesture-generation in a large-scale open challenge \_ The GENEA Challenge 2022 [[paper]](https://arxiv.org/pdf/2303.08737)
 
 <!-- ###################################################### SURVEYS  ###################################################### -->
