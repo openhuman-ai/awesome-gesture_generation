@@ -119,15 +119,15 @@ A curated list of Awesome **Gesture Generation**
 <details> 
 <summary><bold>GENEA Challenge 2022 - Accepted papers</bold></summary>
 
-<li>DeepMotion - The DeepMotion entry to the GENEA Challenge 2022 <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558059">paper</a></li>
-<li>DSI - Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation <a href="https://openreview.net/forum?id=-2HZD-e6pX7W">paper</a></li>
-<li>FineMotion - ReCell: replicating recurrent cell for auto-regressive pose generation <a href="https://openreview.net/forum?id=uX86IlhiHNx">paper</a></li>
-<li>Ubisoft - Ubisoft Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022 <a href="https://openreview.net/forum?id=fO_Q4q1dFAA">paper</a></li>
-<li>GestureMaster - GestureMaster: Graph-based Speech-driven Gesture Generation <a href="https://dl.acm.org/doi/10.1145/3536221.3558063">paper</a></li>
-<li>IVI Lab - The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558060">paper</a></li>
-<li>ReprGesture - The ReprGesture entry to the GENEA Challenge 2022 <a href="https://openreview.net/forum?id=atWaELmguNj7">paper</a></li>
-<li>TransGesture - TransGesture: Autoregressive Gesture Generation with RNN-Transducer <a href="https://openreview.net/forum?id=AYMDEx97qPN">paper</a></li>
-<li>UEA Digital Humans - UEA Digital Humans entry to the GENEA Challenge 2022 <a href="https://openreview.net/forum?id=RZP6nErM2Xa">paper</a></li>
+<li>[ICMI 2022] DeepMotion - The DeepMotion entry to the GENEA Challenge 2022 <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558059">paper</a></li>
+<li>[ICMI 2022] DSI - Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation <a href="https://dl.acm.org/doi/10.1145/3536221.3558064">paper</a></li>
+<li>[ICMI 2022] FineMotion - ReCell: replicating recurrent cell for auto-regressive pose generation <a href="https://dl.acm.org/doi/fullHtml/10.1145/3536220.3558801">paper</a></li>
+<li>[ICMI 2022] Ubisoft - Ubisoft Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022 <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558068">paper</a></li>
+<li>[ICMI 2022] GestureMaster - GestureMaster: Graph-based Speech-driven Gesture Generation <a href="https://dl.acm.org/doi/10.1145/3536221.3558063">paper</a></li>
+<li>[ICMI 2022] IVI Lab - The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558060">paper</a></li>
+<li>[ICMI 2022] ReprGesture - The ReprGesture entry to the GENEA Challenge 2022 <a href="https://dl.acm.org/doi/abs/10.1145/3536221.3558066">paper</a></li>
+<li>[ICMI 2022] TransGesture - TransGesture: Autoregressive Gesture Generation with RNN-Transducer <a href="https://dl.acm.org/doi/10.1145/3536221.3558061">paper</a></li>
+<li>[ICMI 2022] UEA Digital Humans - UEA Digital Humans entry to the GENEA Challenge 2022 <a href="https://dl.acm.org/doi/10.1145/3536221.3558065">paper</a></li>
 
 </details>
 
@@ -429,6 +429,9 @@ A curated list of Awesome **Gesture Generation**
 - 【CVMP 2021】 **Flow-VAE** Speech-Driven Conversational Agents using Conditional Flow-VAEs [[paper]](https://dl.acm.org/doi/10.1145/3485441.3485647)
 - 【CVPR 2019】 **Speech2Gesture** Learning Individual Styles of Conversational Gesture [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Ginosar_Learning_Individual_Styles_of_Conversational_Gesture_CVPR_2019_paper.html)
 - 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946) ; [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) ; [[youtube]](https://www.youtube.com/watch?v=egf3tjbWBQE)
+
+- Auto-regression + Recurrent Neural Network:
+  - TransGesture - TransGesture: Autoregressive Gesture Generation with RNN-Transducer
 
 ---
 
