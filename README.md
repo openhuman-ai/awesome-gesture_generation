@@ -438,7 +438,7 @@ Paper by Folder : [📁/survey](./survey) || [📁/approach](./approach) || [�
 
 ## <a name="metric"> 5. Metric Evaluation
 
-Evaluation aspects :
+### Evaluation aspects :
 
 - Human-likeness : looks like the motion of a real human
 - Appropriateness (specificity) : appropriate for the given speech, controlling for the human-likeness of the motion
