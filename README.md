@@ -175,9 +175,7 @@ A curated list of Awesome **Gesture Generation**
 
 #### GENEA 2020
 
-##### GENEA Challenge 2020 - Accepted papers
-
-[GENEA WORKSHOP 2020](https://genea-workshop.github.io/2020/)
+##### GENEA Challenge 2020 - Accepted papers [homepage](https://genea-workshop.github.io/2020/)
 
 | Papers                                                                                                                                                                                     | Video                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
