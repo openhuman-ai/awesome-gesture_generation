@@ -391,6 +391,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
   - [IVA 2018] Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network [[paper]](<https://dl.acm.org/doi/abs/10.1145/3267851.3267878>)
   - 【CVPR 2022】 **HA2G** - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](<https://arxiv.org/abs/2203.13161>) ; [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G)
   - 【SIGGRAPH Asia 2020】 ⭐ **Trimodal** ⭐ Speech gesture generation from the trimodal context of text, audio, and speaker identity [[paper]](<https://dl.acm.org/doi/abs/10.1145/3414685.3417838>) ; [[ai4r/Gesture-Generation-from-Trimodal-Context]](<https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context>)
+  - 【ICMI 2022】TransGesture: Autoregressive Gesture Generation with RNN-Transducer [[paper]](<https://dl.acm.org/doi/10.1145/3536221.3558061>)
 
 - **CNN (Convolutional Networks)**
 
@@ -420,7 +421,8 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
     - [ICCV 2021] Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates ; [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.pdf) ; [[ShenhanQian/SpeechDrivesTemplates]](https://github.com/ShenhanQian/SpeechDrivesTemplates) ;
 
-  - **VQ-VAE (Vector Quantized Variational Autoencoder)**
+  - ## **VQ-VAE (Vector Quantized Variational Autoencoder)**
+
     -
 
 - **Diffusion**
@@ -432,10 +434,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - **Periodic autoencoders (DeepPhase)**
 
   - ⭐ **Rhythmic Gesticulator** ⭐ - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [[paper]](<https://arxiv.org/abs/2210.01448>) ; [Aubrey-ao/HumanBehaviorAnimation](https://github.com/aubrey-ao/humanbehavioranimation) ; [[youtube]](<https://www.youtube.com/watch?v=qy2MrNhsoIs>) ; [[youtube]](<https://www.youtube.com/watch?v=DO_W8plFWco>)
-
-- **Auto-regression + Recurrent Neural Network**
-
-  - TransGesture - TransGesture: Autoregressive Gesture Generation with RNN-Transducer
 
   - ⭐ **CaMN** ⭐ BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](<https://arxiv.org/abs/2203.05297v5>) ; [[PantoMatrix/BEAT]](<https://github.com/PantoMatrix/BEAT>)
 
