@@ -4,7 +4,7 @@
 
 A curated list of Awesome **Gesture Generation**
 
-Paper by Folder : [📁/survey](./survey) || [📁/approach](./approach) || [📁/papers](./papers) || [📁/dataset](./dataset) || [📁/books](./books)
+Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/survey) || [📁/approach](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/approach) || [📁/papers](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/papers) || [📁/dataset](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/dataset) || [📁/books](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/books)
 
 <p align="center">
 
