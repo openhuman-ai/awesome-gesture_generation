@@ -400,12 +400,12 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
   - [IVA 2021] Learning Speech-driven 3D Conversational Gestures from Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3472306.3478335)
 
 
-- Transformers
+- **Transformers**
 
   - [IEEEVR 2021] Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [[paper]](https://arxiv.org/pdf/2101.11101.pdf)
 
 
-- Generative Models
+- **GAN (Generative Models)**
 
   -
 
@@ -437,6 +437,10 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
   - TransGesture - TransGesture: Autoregressive Gesture Generation with RNN-Transducer
 
   - ⭐ **CaMN** ⭐ BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](<https://arxiv.org/abs/2203.05297v5>) ; [[PantoMatrix/BEAT]](<https://github.com/PantoMatrix/BEAT>)
+
+
+<!-- Uncategory -->
+- **Others (Uncategory)**
 
   - 【CVPR 2022】 SEEG - SEEG: Semantic Energized Co-Speech Gesture Generation [[paper]](<https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html>) ; [[akira-l/seeg]](<https://github.com/akira-l/seeg>)
   - 【CVPR 2022】 **DiffGAN** - Low-Resource Adaptation for Personalized Co-Speech Gesture Generation [[paper]](<https://openaccess.thecvf.com/content/CVPR2022/html/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html>)
