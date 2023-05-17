@@ -32,12 +32,12 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - [3. Selected Approach](#approachs)
   - [3.1 Selected rule base approach](#rulebase)
   - [3.2 Selected data-driven approach](#datadriven)
-    - [Statistical approach](#statistical)
-    - [Deep learning approach](#deeplearning)
+    - [3.2.a Statistical approach](#statistical)
+    - [3.2.b Deep learning approach](#deeplearning)
 - [4. Pipeline](#pipeline)
 - [5. Learning objective](#learnobjective)
 - [6. Metric Evaluation](#metric)
-- [7. Dataset](#dataset)
+- [7. Datasets](#datasets)
 - [8. Toolkit](#toolkit)
 - [9. Playlist & Talks](#talks)
 - [10. Code](#code)
@@ -368,7 +368,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 -
 
-#### <a name="statistical">Statistical approach
+#### <a name="statistical">3.2.a Statistical approach
 
 - **Probabilistic model of speech to gesture**
 
@@ -382,7 +382,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - **Neural classification model of personal style**
   - 【IVA 2015】Predicting Co-verbal Gestures: A Deep and Temporal Modeling Approach [[paper]](<https://link.springer.com/chapter/10.1007/978-3-319-21996-7_17>)
 
-#### <a name="deeplearning">Deep learning approach
+#### <a name="deeplearning">3.2.b Deep learning approach
 
 - **Diffusion**
 
