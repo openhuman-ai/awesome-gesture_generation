@@ -99,16 +99,9 @@ A curated list of Awesome **Gesture Generation**
 
 #### GENEA 2023
 
-<details>
-  <summary><bold>2023 - Accepted papers</bold></summary>
+##### GENEA Challenge 2023 [[Homepage]](https://genea-workshop.github.io/2023/challenge/)
 
-  <li><a href=""></a></li>
-
-</details>
-
-[GENEA CHALLENGE 2023 Homepage](https://genea-workshop.github.io/2023/challenge/)
-
-[GENEA WORKSHOP 2023 Homepage](https://genea-workshop.github.io/2023/)
+##### GENEA Workshop 2023 - ICMI 2023 Accepted papers [[Homepage]](https://genea-workshop.github.io/2023/)
 
 <!-- ************************* -->
 
@@ -126,25 +119,21 @@ A curated list of Awesome **Gesture Generation**
 [ICMI 2022] TransGesture - TransGesture: Autoregressive Gesture Generation with RNN-Transducer [paper](https://dl.acm.org/doi/10.1145/3536221.3558061)
 [ICMI 2022] UEA Digital Humans - UEA Digital Humans entry to the GENEA Challenge 2022 [paper](https://dl.acm.org/doi/10.1145/3536221.3558065) -->
 
-##### GENEA Challenge 2022 - Accepted papers
-
-[GENEA CHALLENGE 2022 Homepage](https://genea-workshop.github.io/2022/challenge/)
+##### GENEA Challenge 2022 - Accepted papers [[Homepage]](https://genea-workshop.github.io/2022/challenge/)
 
 | Team (Method)           | Paper                                                                                                                                                                                                                                                                                                   | Video                                                    | 🏆  |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --- |
-| DeepMotion (VQ-VAE)     | The DeepMotion entry to the GENEA Challenge 2022 [[paper]](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)                                                                                                                                                                                          | [[youtube]](https://www.youtube.com/watch?v=3L9pyPv-I8M) |     |
-| DSI (Hybrid Seq2Seq)    | Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation [[paper]](https://dl.acm.org/doi/10.1145/3536221.3558064)                                                                                                                                                                               | [[youtube]](https://www.youtube.com/watch?v=9rcBp0ezlqs) |     |
-| FineMotion (ReCell)     | ReCell: replicating recurrent cell for auto-regressive pose generation [[paper]](https://dl.acm.org/doi/fullHtml/10.1145/3536220.3558801) [[FineMotion/GENEA_2022]](https://github.com/FineMotion/GENEA_2022)                                                                                           | [[youtube]](https://www.youtube.com/watch?v=ZVx_QIBR8wQ) |     |
-| Forgerons - Ubisoft     | Ubisoft Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022 [[paper]](https://dl.acm.org/doi/abs/10.1145/3536221.3558068)                                                                                                                                      | [[youtube]](https://www.youtube.com/watch?v=zdNsj3MGpL0) |     |
-| GestureMaster - NetEase | GestureMaster: Graph-based Speech-driven Gesture Generation [[paper]](https://dl.acm.org/doi/10.1145/3536221.3558063)                                                                                                                                                                                   | [[youtube]](https://www.youtube.com/watch?v=nwNwEGX33SA) |     |
-| IVI Lab                 | The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism [[paper]](https://dl.acm.org/doi/abs/10.1145/3536221.3558060) [[Tacotron2-SpeechGesture]](https://github.com/cjerry1243/Tacotron2-SpeechGesture) | [[youtube]](https://www.youtube.com/watch?v=PNmC6mlpyQg) | 🏆  |
-| ReprGesture             | The ReprGesture entry to the GENEA Challenge 2022 [[paper]](https://dl.acm.org/doi/abs/10.1145/3536221.3558066) [[YoungSeng/ReprGesture]](https://github.com/YoungSeng/ReprGesture)                                                                                                                     | [[youtube]](https://www.youtube.com/watch?v=KJJYEqyOq5U) |     |
-| TransGesture            | TransGesture: Autoregressive Gesture Generation with RNN-Transducer [[paper]](https://dl.acm.org/doi/10.1145/3536221.3558061)                                                                                                                                                                           | [[youtube]](https://www.youtube.com/watch?v=3aTiuAWDUhs) |     |
-| UEA Digital Humans      | UEA Digital Humans entry to the GENEA Challenge 2022 [[paper]](https://dl.acm.org/doi/10.1145/3536221.3558065) [[UEA/GENEA22]](https://github.com/UEA-digital-human-group/GENEA22)                                                                                                                      | [[youtube]](https://www.youtube.com/watch?v=giVYmiglOYI) |     |
+| [ICMI 2022] DeepMotion (VQ-VAE)     | The DeepMotion entry to the GENEA Challenge 2022 [[paper]](https://dl.acm.org/doi/abs/10.1145/3536221.3558059)                                                                                                                                                                                          | [[youtube]](https://www.youtube.com/watch?v=3L9pyPv-I8M) |     |
+| [ICMI 2022] DSI (Hybrid Seq2Seq)    | Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation [[paper]](https://dl.acm.org/doi/10.1145/3536221.3558064)                                                                                                                                                                               | [[youtube]](https://www.youtube.com/watch?v=9rcBp0ezlqs) |     |
+| [ICMI 2022] FineMotion (ReCell)     | ReCell: replicating recurrent cell for auto-regressive pose generation [[paper]](https://dl.acm.org/doi/fullHtml/10.1145/3536220.3558801) [[FineMotion/GENEA_2022]](https://github.com/FineMotion/GENEA_2022)                                                                                           | [[youtube]](https://www.youtube.com/watch?v=ZVx_QIBR8wQ) |     |
+| [ICMI 2022] Forgerons - Ubisoft     | Ubisoft Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022 [[paper]](https://dl.acm.org/doi/abs/10.1145/3536221.3558068)                                                                                                                                      | [[youtube]](https://www.youtube.com/watch?v=zdNsj3MGpL0) |     |
+| [ICMI 2022] GestureMaster - NetEase | GestureMaster: Graph-based Speech-driven Gesture Generation [[paper]](https://dl.acm.org/doi/10.1145/3536221.3558063)                                                                                                                                                                                   | [[youtube]](https://www.youtube.com/watch?v=nwNwEGX33SA) |     |
+| [ICMI 2022] IVI Lab                 | The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism [[paper]](https://dl.acm.org/doi/abs/10.1145/3536221.3558060) [[Tacotron2-SpeechGesture]](https://github.com/cjerry1243/Tacotron2-SpeechGesture) | [[youtube]](https://www.youtube.com/watch?v=PNmC6mlpyQg) | 🏆  |
+| [ICMI 2022] ReprGesture             | The ReprGesture entry to the GENEA Challenge 2022 [[paper]](https://dl.acm.org/doi/abs/10.1145/3536221.3558066) [[YoungSeng/ReprGesture]](https://github.com/YoungSeng/ReprGesture)                                                                                                                     | [[youtube]](https://www.youtube.com/watch?v=KJJYEqyOq5U) |     |
+| [ICMI 2022] TransGesture            | TransGesture: Autoregressive Gesture Generation with RNN-Transducer [[paper]](https://dl.acm.org/doi/10.1145/3536221.3558061)                                                                                                                                                                           | [[youtube]](https://www.youtube.com/watch?v=3aTiuAWDUhs) |     |
+| [ICMI 2022] UEA Digital Humans      | UEA Digital Humans entry to the GENEA Challenge 2022 [[paper]](https://dl.acm.org/doi/10.1145/3536221.3558065) [[UEA/GENEA22]](https://github.com/UEA-digital-human-group/GENEA22)                                                                                                                      | [[youtube]](https://www.youtube.com/watch?v=giVYmiglOYI) |     |
 
-##### GENEA Workshop 2022 - ICMI 2022 Accepted papers
-
-[GENEA WORKSHOP 2022 Homepage](https://genea-workshop.github.io/2022/)
+##### GENEA Workshop 2022 - ICMI 2022 Accepted papers [[Homepage]](https://genea-workshop.github.io/2022/)
 
 | Papers                                                                                                                                                                                                   | Video                                                    | 🏆  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --- |
@@ -159,9 +148,7 @@ A curated list of Awesome **Gesture Generation**
 
 #### GENEA 2021
 
-##### GENEA Challenge 2021 - ICMI 2021 Accepted papers
-
-[GENEA WORKSHOP 2021 Homepage](https://genea-workshop.github.io/2021/)
+##### GENEA Challenge 2021 - ICMI 2021 Accepted papers [[Homepage]](https://genea-workshop.github.io/2021/)
 
 | Papers                                                                                                                                                                                                                                                          | Video                                                    | 🏆  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --- |
@@ -175,16 +162,16 @@ A curated list of Awesome **Gesture Generation**
 
 #### GENEA 2020
 
-##### GENEA Challenge 2020 - Accepted papers [homepage](https://genea-workshop.github.io/2020/)
+##### GENEA Challenge 2020 - Accepted papers [[Homepage]](https://genea-workshop.github.io/2020/)
 
-| Papers                                                                                                                                                                                     | Video                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
-| The StyleGestures entry to the GENEA Challenge 2020 [[paper]](https://zenodo.org/record/4088600) ; [[simonalexanderson/StyleGestures]](https://github.com/simonalexanderson/StyleGestures) | [[youtube]](https://www.youtube.com/watch?v=JZgBlJKGFGk) |
-| The FineMotion entry to the GENEA Challenge 2020 [[paper]](https://zenodo.org/record/4088609) ; [[FineMotion/GENEA_2020]](https://github.com/FineMotion/GENEA_2020)                        | [[youtube]](https://www.youtube.com/watch?v=q29d9Hfbifk) |
-| Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth [[paper]](https://zenodo.org/record/4088376)                                                            | [[youtube]](https://www.youtube.com/watch?v=ht5Fu47JKkI) |
-| CGVU: Semantics-guided 3D Body Gesture Synthesis [[paper]](https://zenodo.org/record/4090879)                                                                                              | [[youtube]](https://www.youtube.com/watch?v=MBSX0OLHRRU) |
-| Interpreting and Generating Gestures with Embodied Human Computer Interactions [[paper]](https://zenodo.org/record/4088625)                                                                | [[youtube]](https://www.youtube.com/watch?v=5I0FvhlcoDI) |
-| The Nectec Gesture Generation System entry to the GENEA Challenge 2020 [[paper]](https://zenodo.org/record/4088629)                                                                        | [[youtube]](https://www.youtube.com/watch?v=0m0wKkNmrgQ) |
+| Papers                                                                                                                                                                                                | Video                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [IVA 2020] The StyleGestures entry to the GENEA Challenge 2020 [[paper]](https://zenodo.org/record/4088600) ; [[simonalexanderson/StyleGestures]](https://github.com/simonalexanderson/StyleGestures) | [[youtube]](https://www.youtube.com/watch?v=JZgBlJKGFGk) |
+| [IVA 2020] The FineMotion entry to the GENEA Challenge 2020 [[paper]](https://zenodo.org/record/4088609) ; [[FineMotion/GENEA_2020]](https://github.com/FineMotion/GENEA_2020)                        | [[youtube]](https://www.youtube.com/watch?v=q29d9Hfbifk) |
+| [IVA 2020] Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth [[paper]](https://zenodo.org/record/4088376)                                                            | [[youtube]](https://www.youtube.com/watch?v=ht5Fu47JKkI) |
+| [IVA 2020] CGVU: Semantics-guided 3D Body Gesture Synthesis [[paper]](https://zenodo.org/record/4090879)                                                                                              | [[youtube]](https://www.youtube.com/watch?v=MBSX0OLHRRU) |
+| [IVA 2020] Interpreting and Generating Gestures with Embodied Human Computer Interactions [[paper]](https://zenodo.org/record/4088625)                                                                | [[youtube]](https://www.youtube.com/watch?v=5I0FvhlcoDI) |
+| [IVA 2020] The Nectec Gesture Generation System entry to the GENEA Challenge 2020 [[paper]](https://zenodo.org/record/4088629)                                                                        | [[youtube]](https://www.youtube.com/watch?v=0m0wKkNmrgQ) |
 
 <!-- ************************* -->
 <!-- ************************* GENEA Challenge ************************* -->
