@@ -350,9 +350,12 @@ Paper by Folder : [📁/survey](./survey) || [📁/approach](./approach) || [�
 ### <a name="rulebase"> 3.1 Selected rule Base approach
 
 - [1994] Rule-based generation of facial expression, gesture & spoken intonation for multiple conversational agents [[paper]](https://dl.acm.org/doi/10.1145/192161.192272)
-- [2004] [SIGGRAPH 2001] BEAT: the Behavior Expression Animation Toolkit [[paper]](https://link.springer.com/chapter/10.1007/978-3-662-08373-4_8)
-- 【HRI 2012】 Robot Behavior Toolkit: Generating Effective Social Behaviors for Robots [[paper]](https://dl.acm.org/doi/abs/10.1145/2157689.2157694)
-- [Gesture Generation by Imitation: From Human Behavior to Computer Character Animation](https://books.google.com.vn/books?hl=en&lr=&id=OIyArJx7mEQC&oi=fnd&pg=PA17&dq=Michael+Kipp.+2004.+Gesture+Generation+by+Imitation:+From+Human+Behavior+to+Computer+Character+Animation.+Dissertation.com,+Boca+Raton.&ots=dP7hbcqhWD&sig=JPwzB4tcMXbRNIHupDAcaE-TA6Q&redir_esc=y#v=onepage&q=Michael%20Kipp.%202004.%20Gesture%20Generation%20by%20Imitation%3A%20From%20Human%20Behavior%20to%20Computer%20Character%20Animation.%20Dissertation.com%2C%20Boca%20Raton.&f=false)
+
+- **Speech to sequence gesture**
+
+  - [2004] [SIGGRAPH 2001] BEAT: the Behavior Expression Animation Toolkit [[paper]](https://link.springer.com/chapter/10.1007/978-3-662-08373-4_8)
+  - 【HRI 2012】 Robot Behavior Toolkit: Generating Effective Social Behaviors for Robots [[paper]](https://dl.acm.org/doi/abs/10.1145/2157689.2157694)
+  - [Gesture Generation by Imitation: From Human Behavior to Computer Character Animation](https://books.google.com.vn/books?hl=en&lr=&id=OIyArJx7mEQC&oi=fnd&pg=PA17&dq=Michael+Kipp.+2004.+Gesture+Generation+by+Imitation:+From+Human+Behavior+to+Computer+Character+Animation.+Dissertation.com,+Boca+Raton.&ots=dP7hbcqhWD&sig=JPwzB4tcMXbRNIHupDAcaE-TA6Q&redir_esc=y#v=onepage&q=Michael%20Kipp.%202004.%20Gesture%20Generation%20by%20Imitation%3A%20From%20Human%20Behavior%20to%20Computer%20Character%20Animation.%20Dissertation.com%2C%20Boca%20Raton.&f=false)
 
 - <!-- - 【ICMI】 -->
 
@@ -369,10 +372,9 @@ Paper by Folder : [📁/survey](./survey) || [📁/approach](./approach) || [�
 #### <a name="statistical">Statistical approach
 
 - [IVA 2006] Towards a Common Framework for Multimodal Generation: The Behavior Markup Language [[paper]](https://link.springer.com/chapter/10.1007/11821830_17)
-- Gesture Controllers [[paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778861)
-- Gesture modeling and animation based on a probabilistic re-creation of speaker style [[paper]](https://dl.acm.org/doi/abs/10.1145/1330511.1330516)
+- [ACM Transactions on Graphics] [2008] Gesture modeling and animation based on a probabilistic re-creation of speaker style [[paper]](https://dl.acm.org/doi/abs/10.1145/1330511.1330516)
+- [SIGGRAPH 2010] Gesture Controllers [[paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778861)
 - [IVA 2015] Predicting Co-verbal Gestures: A Deep and Temporal Modeling Approach [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-21996-7_17)
-- 
 
 #### <a name="deeplearning">Deep learning approach
 
@@ -422,7 +424,7 @@ Paper by Folder : [📁/survey](./survey) || [📁/approach](./approach) || [�
 
 - **MLP (Multilayer perceptron)**
 
-  - 
+  -
 
 ---
 
@@ -546,7 +548,7 @@ Paper by Folder : [📁/survey](./survey) || [📁/approach](./approach) || [�
 
   - 👥 : Dialog (Conversation between two people 🤼) || 👤 : Monolog (Self conversation 🧍)
 
-| Dataset                                                                                                                                                                     | Modalities         | Type   | Download                                                                                                                                     | Paper                                                                                           |
+| Dataset                                                                                                                                                                     | Modalities         | Type   | Download                                                                                                                                 | Paper                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | IEMOCAP                                                                                                                                                                     | 🚶, 🔊, 📃, 🤯     | 👥     | [sail.usc.edu/iemocap](https://sail.usc.edu/iemocap)                                                                                     | [[paper]](https://arxiv.org/pdf/1810.12541.pdf)                                                 |
 | Creative-IT                                                                                                                                                                 | 🚶, 🔊, 📃, 🤯     | 👥     | [sail.usc.edu/CreativeIT](https://sail.usc.edu/CreativeIT/ImprovRelease.htm)                                                             |                                                                                                 |
