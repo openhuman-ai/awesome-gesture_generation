@@ -42,7 +42,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - [9. Playlist & Talks](#talks)
 - [10. Code](#code)
 - [11. Books](#books)
-- [12. Contributing](#contributing)
 
 ---
 
@@ -676,7 +675,7 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 - 2013 - [Nonverbal Communication in Human Interaction](https://books.google.co.uk/books?id=-g7hkSR_mLoC)
 - 2013 - [Nonverbal Communication: Science and Applications](https://books.google.co.uk/books?id=PeOeu3qFFTIC)
 
-## <a name="contributing"/></a>12. Contributing <a href="https://github.com/OpenHuman-ai/awesome-gesture_generation/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/OpenHuman-ai/awesome-gesture_generation) </a>
+## Contributing <a href="https://github.com/OpenHuman-ai/awesome-gesture_generation/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/OpenHuman-ai/awesome-gesture_generation) </a>
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/OpenHuman-ai/awesome-gesture_generation/blob/master/CONTRIBUTING.md) first.
 
