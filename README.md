@@ -544,9 +544,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 <!-- ###################################################### DATASETS  ###################################################### -->
 
-[](dataset)
-
-## 4. Datasets
+## <a name="datasets"></a> 4. Datasets
 
 - **Modalities type**:
 
@@ -588,9 +586,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 <!-- ###################################################### TOOLKIT  ###################################################### -->
 
-[](toolkit)
-
-## 5. Toolkit</a>
+## <a name="toolkit"></a>5. Toolkit
 
 - Algorithms
 
