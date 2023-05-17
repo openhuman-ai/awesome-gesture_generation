@@ -676,13 +676,15 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 - 2013 - [Nonverbal Communication in Human Interaction](https://books.google.co.uk/books?id=-g7hkSR_mLoC)
 - 2013 - [Nonverbal Communication: Science and Applications](https://books.google.co.uk/books?id=PeOeu3qFFTIC)
 
-## <a name="contributing">12. Contributing</a>
+## <a name="contributing"/></a>12. Contributing <a href="https://github.com/OpenHuman-ai/awesome-gesture_generation/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/OpenHuman-ai/awesome-gesture_generation) </a>
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/OpenHuman-ai/awesome-gesture_generation/blob/master/CONTRIBUTING.md) first.
 
-## License
+## License <a href="LICENSE"> ![GitHub](https://img.shields.io/github/license/OpenHuman-ai/awesome-gesture_generation) </a>
 
-MIT
+This project is licensed under the MIT License - see the
+[LICENSE.md](https://github.com/OpenHuman-ai/awesome-gesture_generation/blob/main/LICENSE) file for
+details.
 
 ## Created by [OpenHuman](https://github.com/Openhuman-ai)
 
