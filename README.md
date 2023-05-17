@@ -255,7 +255,7 @@ A curated list of Awesome **Gesture Generation**
 
 - The GENEA Challenge 2020: A large, crowdsourced evaluation of gesture generation systems on common data [[paper]](https://arxiv.org/abs/2102.11617) ; [[homepage]](https://svito-zar.github.io/GENEAchallenge2020/) ; [[youtube]](https://www.youtube.com/watch?v=QmaoKRzoVwM) ; [[youtube]](https://www.youtube.com/watch?v=Y-5dgBQk34c) ; [[Svito-zar/genea_numerical_evaluations]](https://github.com/Svito-zar/genea_numerical_evaluations)
 - Gesticulator: A framework for semantically-aware speech-driven gesture generation [[paper]](https://arxiv.org/abs/2001.09326) ; [[youtube]](https://www.youtube.com/watch?v=VQ8he6jjW08) ; [[Svito-zar/gesticulator]](https://github.com/Svito-zar/gesticulator) ; [[homepage]](https://svito-zar.github.io/gesticulator/) ; [dataset](https://figshare.com/projects/Gesticulator/87128)
-- Probabilistic Multi-modal Interlocutor-awa\*re Generation of Facial Gestures in Dyadic Settings [[paper]](https://arxiv.org/abs/2006.09888) ; [[youtube]](https://www.youtube.com/watch?v=RhazMS4L_bk) ; [[homepage]](https://jonepatr.github.io/lets_face_it/)
+- Probabilistic Multi-modal Interlocutor-aware Generation of Facial Gestures in Dyadic Settings [[paper]](https://arxiv.org/abs/2006.09888) ; [[youtube]](https://www.youtube.com/watch?v=RhazMS4L_bk) ; [[homepage]](https://jonepatr.github.io/lets_face_it/)
 - Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents [[paper]](https://arxiv.org/pdf/2009.10760.pdf)
 - Affective synthesis and animation of arm gestures from speech prosody [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167639319301980)
 - 【EMNLP 2020】 AiSLE [No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures](https://aclanthology.org/people/l/louis-philippe-morency/) ; [chahuja/aisle](https://github.com/chahuja/aisle)
@@ -442,15 +442,15 @@ Evaluation aspects :
 <br/>
 
 - 🧍‍♂️ : motion
-- 🖹 : text
+- 📃 : text
 - 🔊 : audio
 - ⚙️ : custom by teams
 
 | Metric | Body tier | Description                | Type |
 | ------ | --------- | -------------------------- | ---- |
 | FNA    | 🧍        | Full-body Natural Motion   | 🧍‍♂️   |
-| FBT    | 🧍        | Full-body Text-based       | 🖹    |
-| FSA    | 🧍        | Full-body Custom by Teams  | ⚙️   |
+| FBT    | 🧍        | Full-body Text-based       | 📃   |
+| FSA    | 🧍        | Full-body Custom by Teams  | ⚙   |
 | FSB    | 🧍        | Full-body Custom by Teams  | ⚙️   |
 | FSC    | 🧍        | Full-body Custom by Teams  | ⚙️   |
 | FSD    | 🧍        | Full-body Custom by Teams  | ⚙️   |
@@ -460,7 +460,7 @@ Evaluation aspects :
 | FSI    | 🧍        | Full-body Custom by Teams  | ⚙️   |
 | UNA    | 🧑‍🦲        | Upper-body Natural Motion  | 🧍‍♂️   |
 | UBA    | 🧑‍🦲        | Upper-body Audio-based     | 🔊   |
-| UBT    | 🧑‍🦲        | Upper-body Text-based      | 🖹    |
+| UBT    | 🧑‍🦲        | Upper-body Text-based      | 📃   |
 | USJ    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
 | USK    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
 | USL    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
