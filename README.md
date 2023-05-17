@@ -4,6 +4,8 @@
 
 A curated list of Awesome **Gesture Generation**
 
+Folder : [./survey](./survey) | [./approach](./approach) | [./papers](./papers) | [./dataset](./dataset) |[./books](./books)
+
 <p align="center">
 
 <a href="https://www.youtube.com/watch?v=2nDaBHUWpC0">
@@ -62,7 +64,7 @@ A curated list of Awesome **Gesture Generation**
 
 - 【EUROGRAPHICS 2023】A Comprehensive Review of Data-Driven Co-Speech Gesture Generation; [[paper]](https://arxiv.org/abs/2301.05339)
 
-- 2014 - Gesture and speech in interaction: An overview ; [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167639313001295?via%3Dihub)
+- 2014 - Gesture and speech in interaction: An overview ; [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167639313001295)
 
 #### **Survey review**
 
@@ -258,9 +260,9 @@ A curated list of Awesome **Gesture Generation**
 - Probabilistic Multi-modal Interlocutor-aware Generation of Facial Gestures in Dyadic Settings [[paper]](https://arxiv.org/abs/2006.09888) ; [[youtube]](https://www.youtube.com/watch?v=RhazMS4L_bk) ; [[homepage]](https://jonepatr.github.io/lets_face_it/)
 - Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents [[paper]](https://arxiv.org/pdf/2009.10760.pdf)
 - Affective synthesis and animation of arm gestures from speech prosody [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167639319301980)
-- 【EMNLP 2020】 AiSLE [No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures](https://aclanthology.org/people/l/louis-philippe-morency/) ; [chahuja/aisle](https://github.com/chahuja/aisle)
-- FineMotion - Audio and Text-Driven approach for Conversational Gestures Generation [[paper]](https://www.dialog-21.ru/media/5526/korzunvaplusdimovinpluszharkovaa031.pdf) ; [FineMotion/GENEA_2020](https://github.com/FineMotion/GENEA_2020)
-- Modeling the Conditional Distribution of Co-Speech Upper Body Gesture Jointly Using Conditional-GAN and Unrolled-GAN [[paper]](https://www.mdpi.com/2079-9292/10/3/228) ; [wubowen416/co-speech-gesture-generation-using-CGAN](https://github.com/wubowen416/co-speech-gesture-generation-using-CGAN)
+- 【EMNLP 2020】 AiSLE No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures [[paper]](https://aclanthology.org/people/l/louis-philippe-morency/) ; [[pchahuja/aisle]](https://github.com/chahuja/aisle)
+- FineMotion - Audio and Text-Driven approach for Conversational Gestures Generation [[paper]](https://www.dialog-21.ru/media/5526/korzunvaplusdimovinpluszharkovaa031.pdf) ; [[FineMotion/GENEA_2020]](https://github.com/FineMotion/GENEA_2020)
+- Modeling the Conditional Distribution of Co-Speech Upper Body Gesture Jointly Using Conditional-GAN and Unrolled-GAN [[paper]](https://www.mdpi.com/2079-9292/10/3/228) ; [[wubowen416/co-speech-gesture-generation-using-CGAN]](https://github.com/wubowen416/co-speech-gesture-generation-using-CGAN)
 - []()
 
 <!-- ************************* 2020 ************************* -->
@@ -332,7 +334,8 @@ A curated list of Awesome **Gesture Generation**
 ### <a name="rulebase"> 3.1 Selected rule Base approach
 
 - 【1994】Rule-based generation of facial expression, gesture & spoken intonation for multiple conversational agents [[paper]](https://dl.acm.org/doi/10.1145/192161.192272)
-<!-- - 【ICMI】 -->
+- [2004] BEAT: the Behavior Expression Animation Toolkit [[paper]](https://link.springer.com/chapter/10.1007/978-3-662-08373-4_8)
+- <!-- - 【ICMI】 -->
 
 <!-- ************************* Rule Base ************************* -->
 
@@ -350,12 +353,15 @@ A curated list of Awesome **Gesture Generation**
 
 #### <a name="deeplearning">Deep learning approach
 
-- Diffusion Models:
+##### Diffusion Models:
 
-  - 【SIGGRAPH 2023】 Listen, denoise, action! Audio-driven motion synthesis with diffusion models [[paper]]() ; [(Code repository (coming soon))](#) ; [[youtube]](https://www.youtube.com/watch?v=Qfd2EpzWgok)
-  - 【IJCAI 2023】 DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [[paper]](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ; [[youtube]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+- 【SIGGRAPH 2023】 Listen, denoise, action! Audio-driven motion synthesis with diffusion models [[paper]]() ; [(Code repository (coming soon))](#) ; [[youtube]](https://www.youtube.com/watch?v=Qfd2EpzWgok)
+- 【IJCAI 2023】 DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [[paper]](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ; [[youtube]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+
+##### Deep Motion
 
 - ⭐ **Rhythmic Gesticulator** ⭐ - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [[paper]](https://arxiv.org/abs/2210.01448) ; [Aubrey-ao/HumanBehaviorAnimation](https://github.com/aubrey-ao/humanbehavioranimation) ; [[youtube]](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [[youtube]](https://www.youtube.com/watch?v=DO_W8plFWco)
+
 - 【CVPR 2022】 **HA2G** - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](https://arxiv.org/abs/2203.13161) ; [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G)
 - ⭐ **CaMN** ⭐ BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](https://arxiv.org/abs/2203.05297v5) ; [[PantoMatrix/BEAT]](https://github.com/PantoMatrix/BEAT)
 - 【CVPR 2022】 SEEG - SEEG: Semantic Energized Co-Speech Gesture Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html) ; [[akira-l/seeg]](https://github.com/akira-l/seeg)
@@ -377,8 +383,11 @@ A curated list of Awesome **Gesture Generation**
 - 【CVPR 2019】 **Speech2Gesture** Learning Individual Styles of Conversational Gesture [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Ginosar_Learning_Individual_Styles_of_Conversational_Gesture_CVPR_2019_paper.html)
 - 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946) ; [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) ; [[youtube]](https://www.youtube.com/watch?v=egf3tjbWBQE)
 
-- Auto-regression + Recurrent Neural Network:
-  - TransGesture - TransGesture: Autoregressive Gesture Generation with RNN-Transducer
+#### GAN
+
+#### Auto-regression + Recurrent Neural Network:
+
+- TransGesture - TransGesture: Autoregressive Gesture Generation with RNN-Transducer
 
 ---
 
