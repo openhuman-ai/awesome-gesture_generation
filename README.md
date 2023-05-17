@@ -384,6 +384,32 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 #### <a name="deeplearning">3.2.b Deep learning approach
 
+- **MLP (Multilayer perceptron)**
+
+  - 【ICMI 2020】 **Gesticulator** Gesticulator: A framework for semantically-aware speech-driven gesture generation [[paper]](<https://arxiv.org/abs/2001.09326>) ; [[Svito-zar/gesticulator]](https://github.com/Svito-zar/gesticulator)
+
+- **RNN (Recurrent Neural Networks)**
+
+  - [MM 2021] Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](<https://dl.acm.org/doi/pdf/10.1145/3474085.3475223>) ; [[UttaranB127/speech2affective_gestures]](https://github.com/UttaranB127/speech2affective_gestures) ; [[homepage]](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag)
+  - [IVA 2018] Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network [[paper]](<https://dl.acm.org/doi/abs/10.1145/3267851.3267878>)
+  - 【CVPR 2022】 **HA2G** - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](<https://arxiv.org/abs/2203.13161>) ; [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G)
+  - 【SIGGRAPH Asia 2020】 ⭐ **Trimodal** ⭐ Speech gesture generation from the trimodal context of text, audio, and speaker identity [[paper]](<https://dl.acm.org/doi/abs/10.1145/3414685.3417838>) ; [[ai4r/Gesture-Generation-from-Trimodal-Context]](<https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context>)
+
+- **CNN (Convolutional Networks)**
+
+  - [IVA 2021] Learning Speech-driven 3D Conversational Gestures from Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3472306.3478335)
+
+
+- Transformers
+
+  - [IEEEVR 2021] Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [[paper]](https://arxiv.org/pdf/2101.11101.pdf)
+
+
+- Generative Models
+
+  -
+
+
 - **Diffusion**
 
   - 【SIGGRAPH 2023】 Listen, denoise, action! Audio-driven motion synthesis with diffusion models [[paper]]() ; [(Code repository (coming soon))](#) ; [[youtube]](<https://www.youtube.com/watch?v=Qfd2EpzWgok>)
@@ -411,7 +437,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
   - TransGesture - TransGesture: Autoregressive Gesture Generation with RNN-Transducer
 
   - ⭐ **CaMN** ⭐ BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](<https://arxiv.org/abs/2203.05297v5>) ; [[PantoMatrix/BEAT]](<https://github.com/PantoMatrix/BEAT>)
-  - 【CVPR 2022】 **HA2G** - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](<https://arxiv.org/abs/2203.13161>) ; [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G)
+
   - 【CVPR 2022】 SEEG - SEEG: Semantic Energized Co-Speech Gesture Generation [[paper]](<https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html>) ; [[akira-l/seeg]](<https://github.com/akira-l/seeg>)
   - 【CVPR 2022】 **DiffGAN** - Low-Resource Adaptation for Personalized Co-Speech Gesture Generation [[paper]](<https://openaccess.thecvf.com/content/CVPR2022/html/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html>)
   - 【ICMI 2022】 ZeroEGGS Exemplar-based stylized gesture generation from speech: An entry to the GENEA Challenge 2022 [[paper]](<https://dl.acm.org/doi/abs/10.1145/3536221.3558068>)
@@ -422,31 +448,11 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
   - 【ICCV 2021】 Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates [[paper]](<https://openaccess.thecvf.com/content/ICCV2021/html/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.html>) ; [shenhanqian/speechdrivestemplates](https://github.com/shenhanqian/speechdrivestemplates) ; [[youtube]](<https://www.youtube.com/watch?v=yu-5gUHn6h8>) ; [poster](https://shenhanqian.com/assets/2021-07-25-sdt/poster.pdf)
   - 【ICCV 2021】 **Audio2Gestures** Audio2Gestures: Generating Diverse Gestures From Speech Audio With Conditional Variational Autoencoders [[paper]](<https://openaccess.thecvf.com/content/ICCV2021/html/Li_Audio2Gestures_Generating_Diverse_Gestures_From_Speech_Audio_With_Conditional_Variational_ICCV_2021_paper.html>)
   - 【IVA 2021】 Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech [[paper]](<https://arxiv.org/abs/2106.14736>) ; [[homepage]](<https://svito-zar.github.io/speech2properties2gestures/>)
-  
+
   - 【ECCV 2020】 **Mix-StAGE** Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional-Mixture Approach [[paper]](<https://arxiv.org/abs/2007.12553>)
-  - 【SIGGRAPH Asia 2020】 ⭐ **Trimodal** ⭐ Speech gesture generation from the trimodal context of text, audio, and speaker identity [[paper]](<https://dl.acm.org/doi/abs/10.1145/3414685.3417838>) ; [[ai4r/Gesture-Generation-from-Trimodal-Context]](<https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context>)
+
   - 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [[paper]](<https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946>) ; [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) ; [[youtube]](<https://www.youtube.com/watch?v=egf3tjbWBQE>)
   - 【CVPR 2019】 **Speech2Gesture** Learning Individual Styles of Conversational Gesture [[paper]](<https://openaccess.thecvf.com/content_CVPR_2019/html/Ginosar_Learning_Individual_Styles_of_Conversational_Gesture_CVPR_2019_paper.html>)
-
-- Generative Models
-
-  -
-
-- Transformers
-
-  - 
-
-- **CNN (Convolutional Networks)**
-
-  - 
-
-- **RNN (Recurrent Neural Networks)**
-
-  - 
-
-- **MLP (Multilayer perceptron)**
-
-  - 【ICMI 2020】 **Gesticulator** Gesticulator: A framework for semantically-aware speech-driven gesture generation [[paper]](<https://arxiv.org/abs/2001.09326>) ; [Svito-zar/gesticulator](https://github.com/Svito-zar/gesticulator)
 
 ---
 
