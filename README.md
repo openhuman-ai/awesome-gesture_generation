@@ -247,13 +247,13 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - 【IVA 2021】 Learning Speech-driven 3D Conversational Gestures from Video [[paper]](<https://dl.acm.org/doi/abs/10.1145/3472306.3478335>)
 - 【CASA 2021】 ExpressGesture ExpressGesture: Expressive gesture generation from speech through database matching [[paper]](<https://onlinelibrary.wiley.com/doi/full/10.1002/cav.2016>) ; [[youtube]](<https://www.youtube.com/watch?v=9opZK-usETY>)
 - 【AAMAS 2021】 CMCF CCFM: An Architecture for Realtime Gesture Generation by Clustering Gestures by Communicative Function and Motion [[paper]](<https://eprints.gla.ac.uk/253967/1/253967.pdf>)
+- [IEEEVR 2021] Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [[paper]](https://arxiv.org/pdf/2101.11101.pdf) ; [UttaranB127/Text2Gestures](https://github.com/UttaranB127/Text2Gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
 - Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents [[paper]](<https://dl.acm.org/doi/abs/10.1145/3514197.3549697>)
 - Multimodal analysis of the predictability of hand-gesture properties [[paper]](<https://arxiv.org/abs/2108.05762>)
 - Deep Gesture Generation for Social Robots Using Type-Specific Libraries [[paper]](<https://arxiv.org/abs/2210.06790>)
 - A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents [[paper]](<https://arxiv.org/abs/2102.12302>) ; [[youtube]](<https://www.youtube.com/watch?v=jhgUBS0125A>) ; [[homepage]](<https://nagyrajmund.github.io/project/gesturebot/>) ; [[nagyrajmund/gesturebot]](<https://github.com/nagyrajmund/gesturebot>)
 - Moving Fast and Slow: Analysis of Representations and Post-Processing in Speech-Driven Automatic Gesture Generation [[paper]](<https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1883883>)
 - ExpressGesture: Expressive gesture generation from speech through database matching [[paper]](<https://onlinelibrary.wiley.com/doi/full/10.1002/cav.2016>)
-- Text2Gestures Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents [[paper]](<https://arxiv.org/abs/2101.11101>)
 - Passing a Non-verbal Turing Test: Evaluating Gesture Animations Generated from Speech [[paper]](<https://arxiv.org/abs/2107.00712>)
 
 <!-- ************************* 2021 ************************* -->
@@ -366,7 +366,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ### <a name="datadriven">3.2 Selected data-driven approach
 
--
+<!-- - -->
 
 #### <a name="statistical">3.2.a Statistical approach
 
@@ -399,16 +399,13 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
   - [IVA 2021] Learning Speech-driven 3D Conversational Gestures from Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3472306.3478335)
 
-
 - **Transformers**
 
-  - [IEEEVR 2021] Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [[paper]](https://arxiv.org/pdf/2101.11101.pdf)
-
+  - [IEEEVR 2021] Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [[paper]](https://arxiv.org/pdf/2101.11101.pdf) ; [UttaranB127/Text2Gestures](https://github.com/UttaranB127/Text2Gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
 
 - **GAN (Generative Models)**
 
   -
-
 
 - **Diffusion**
 
@@ -438,8 +435,8 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
   - ⭐ **CaMN** ⭐ BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](<https://arxiv.org/abs/2203.05297v5>) ; [[PantoMatrix/BEAT]](<https://github.com/PantoMatrix/BEAT>)
 
-
 <!-- Uncategory -->
+
 - **Others (Uncategory)**
 
   - 【CVPR 2022】 SEEG - SEEG: Semantic Energized Co-Speech Gesture Generation [[paper]](<https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html>) ; [[akira-l/seeg]](<https://github.com/akira-l/seeg>)
