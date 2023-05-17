@@ -4,7 +4,7 @@
 
 A curated list of Awesome **Gesture Generation**
 
-Paper by Folder : [./survey](./survey) || [./approach](./approach) || [./papers](./papers) || [./dataset](./dataset) || [./books](./books)
+Paper by Folder : [📁/survey](./survey) || [📁/approach](./approach) || [📁/papers](./papers) || [📁/dataset](./dataset) || [📁/books](./books)
 
 <p align="center">
 
