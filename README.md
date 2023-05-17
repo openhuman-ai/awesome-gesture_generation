@@ -369,9 +369,10 @@ Paper by Folder : [📁/survey](./survey) || [📁/approach](./approach) || [�
 #### <a name="statistical">Statistical approach
 
 - [IVA 2006] Towards a Common Framework for Multimodal Generation: The Behavior Markup Language [[paper]](https://link.springer.com/chapter/10.1007/11821830_17)
-- [] Gesture Controllers [[paper]]()
-- [] [[paper]]()
-- [] [[paper]]()
+- Gesture Controllers [[paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778861)
+- Gesture modeling and animation based on a probabilistic re-creation of speaker style [[paper]](https://dl.acm.org/doi/abs/10.1145/1330511.1330516)
+- [IVA 2015] Predicting Co-verbal Gestures: A Deep and Temporal Modeling Approach [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-21996-7_17)
+- 
 
 #### <a name="deeplearning">Deep learning approach
 
@@ -418,6 +419,10 @@ Paper by Folder : [📁/survey](./survey) || [📁/approach](./approach) || [�
   - 【SIGGRAPH Asia 2020】 ⭐ **Trimodal** ⭐ Speech gesture generation from the trimodal context of text, audio, and speaker identity [[paper]](https://dl.acm.org/doi/abs/10.1145/3414685.3417838) ; [[ai4r/Gesture-Generation-from-Trimodal-Context]](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context)
   - 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946) ; [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) ; [[youtube]](https://www.youtube.com/watch?v=egf3tjbWBQE)
   - 【CVPR 2019】 **Speech2Gesture** Learning Individual Styles of Conversational Gesture [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Ginosar_Learning_Individual_Styles_of_Conversational_Gesture_CVPR_2019_paper.html)
+
+- **MLP (Multilayer perceptron)**
+
+  - 
 
 ---
 
@@ -541,7 +546,7 @@ Paper by Folder : [📁/survey](./survey) || [📁/approach](./approach) || [�
 
   - 👥 : Dialog (Conversation between two people 🤼) || 👤 : Monolog (Self conversation 🧍)
 
-| Dataset                                                                                                                                                                     | Modalities         | Type   | Link                                                                                                                                     | Paper                                                                                           |
+| Dataset                                                                                                                                                                     | Modalities         | Type   | Download                                                                                                                                     | Paper                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | IEMOCAP                                                                                                                                                                     | 🚶, 🔊, 📃, 🤯     | 👥     | [sail.usc.edu/iemocap](https://sail.usc.edu/iemocap)                                                                                     | [[paper]](https://arxiv.org/pdf/1810.12541.pdf)                                                 |
 | Creative-IT                                                                                                                                                                 | 🚶, 🔊, 📃, 🤯     | 👥     | [sail.usc.edu/CreativeIT](https://sail.usc.edu/CreativeIT/ImprovRelease.htm)                                                             |                                                                                                 |
