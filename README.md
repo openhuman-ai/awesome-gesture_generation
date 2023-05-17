@@ -277,7 +277,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - Affective synthesis and animation of arm gestures from speech prosody [[paper]](<https://www.sciencedirect.com/science/article/abs/pii/S0167639319301980>)
 - FineMotion - Audio and Text-Driven approach for Conversational Gestures Generation [[paper]](<https://www.dialog-21.ru/media/5526/korzunvaplusdimovinpluszharkovaa031.pdf>) ; [[FineMotion/GENEA_2020]](<https://github.com/FineMotion/GENEA_2020>)
 - Modeling the Conditional Distribution of Co-Speech Upper Body Gesture Jointly Using Conditional-GAN and Unrolled-GAN [[paper]](<https://www.mdpi.com/2079-9292/10/3/228>) ; [[wubowen416/co-speech-gesture-generation-using-CGAN]](<https://github.com/wubowen416/co-speech-gesture-generation-using-CGAN>)
-- []()
 
 <!-- ************************* 2020 ************************* -->
 
@@ -356,8 +355,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
   - 【HRI 2012】 Robot Behavior Toolkit: Generating Effective Social Behaviors for Robots [[paper]](<https://dl.acm.org/doi/abs/10.1145/2157689.2157694>)
   - Gesture Generation by Imitation: From Human Behavior to Computer Character Animation [books](https://books.google.com.vn/books?hl=en&lr=&id=OIyArJx7mEQC&oi=fnd&pg=PA17&dq=Michael+Kipp.+2004.+Gesture+Generation+by+Imitation:+From+Human+Behavior+to+Computer+Character+Animation.+Dissertation.com,+Boca+Raton.&ots=dP7hbcqhWD&sig=JPwzB4tcMXbRNIHupDAcaE-TA6Q&redir_esc=y#v=onepage&q=Michael%20Kipp.%202004.%20Gesture%20Generation%20by%20Imitation%3A%20From%20Human%20Behavior%20to%20Computer%20Character%20Animation.%20Dissertation.com%2C%20Boca%20Raton.&f=false)
 
-- <!-- - 【ICMI】 -->
-
 <!-- ************************* Rule Base ************************* -->
 
 ---
@@ -423,6 +420,9 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
     - [ICCV 2021] Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates ; [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.pdf) ; [[ShenhanQian/SpeechDrivesTemplates]](https://github.com/ShenhanQian/SpeechDrivesTemplates) ;
 
+  - **VQ-VAE (Vector Quantized Variational Autoencoder)**
+    -
+
 - **Diffusion**
 
   - 【SIGGRAPH 2023】 Listen, denoise, action! Audio-driven motion synthesis with diffusion models [[paper]]() ; [(Code repository (coming soon))](#) ; [[youtube]](<https://www.youtube.com/watch?v=Qfd2EpzWgok>)
@@ -432,10 +432,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - **Periodic autoencoders (DeepPhase)**
 
   - ⭐ **Rhythmic Gesticulator** ⭐ - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [[paper]](<https://arxiv.org/abs/2210.01448>) ; [Aubrey-ao/HumanBehaviorAnimation](https://github.com/aubrey-ao/humanbehavioranimation) ; [[youtube]](<https://www.youtube.com/watch?v=qy2MrNhsoIs>) ; [[youtube]](<https://www.youtube.com/watch?v=DO_W8plFWco>)
-
-- **VQ-VAE (Vector Quantized Variational Autoencoder)**
-
-  -
 
 - **Auto-regression + Recurrent Neural Network**
 
