@@ -443,15 +443,9 @@ Evaluation aspects :
 - Human-likeness : looks like the motion of a real human
 - Appropriateness (specificity) : appropriate for the given speech, controlling for the human-likeness of the motion
 
-- 🧑‍🦲 : Upper-body tier
-- 🧍 : Full-body tier
+  - 🧑‍🦲 : Upper-body tier || 🧍 : Full-body tier
 
-<br/>
-
-- 🧍‍♂️ : motion
-- 📃 : text
-- 🔊 : audio
-- ⚙️ : custom by teams
+  - 🧍‍♂️ : motion || 📃 : text || 🔊 : audio || ⚙️ : custom by teams
 
 | Metric | Body tier | Description                | Type |
 | ------ | --------- | -------------------------- | ---- |
@@ -509,17 +503,11 @@ Evaluation aspects :
 
 - **Modalities type**:
 
-  - 🔊 : audio
-  - 📃 : text
-  - 🤯 : emotion
-  - 🚶 : gesture motion
-  - ℹ️ : gesture properties
-  - 🎞️ : gesture segment
+  - 🔊 : audio || 📃 : text || 🤯 : emotion || 🚶 : gesture motion || ℹ️ : gesture properties || 🎞️ : gesture segment
 
 - **Type**
 
-  - 👥 : Dialog (Conversation between two people 🤼)
-  - 👤 : Monolog (Self conversation 🧍)
+  - 👥 : Dialog (Conversation between two people 🤼) || 👤 : Monolog (Self conversation 🧍)
 
 | Dataset                                                                                                                                                                     | Modalities         | Type   | Link                                                                                                                                     | Paper                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
