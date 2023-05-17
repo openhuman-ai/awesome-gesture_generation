@@ -371,10 +371,17 @@ Paper by Folder : [📁/survey](./survey) || [📁/approach](./approach) || [�
 
 #### <a name="statistical">Statistical approach
 
-- [IVA 2006] Towards a Common Framework for Multimodal Generation: The Behavior Markup Language [[paper]](https://link.springer.com/chapter/10.1007/11821830_17)
-- [ACM Transactions on Graphics] [2008] Gesture modeling and animation based on a probabilistic re-creation of speaker style [[paper]](https://dl.acm.org/doi/abs/10.1145/1330511.1330516)
-- [SIGGRAPH 2010] Gesture Controllers [[paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778861)
-- [IVA 2015] Predicting Co-verbal Gestures: A Deep and Temporal Modeling Approach [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-21996-7_17)
+- **Probabilistic model of speech to gesture**
+
+  - [IVA 2006] Towards a Common Framework for Multimodal Generation: The Behavior Markup Language [[paper]](https://link.springer.com/chapter/10.1007/11821830_17)
+  - [SIGGRAPH 2010] Gesture Controllers [[paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778861)
+
+- **Probabilistic model of personal style**
+
+  - [ACM Transactions on Graphics] [2008] Gesture modeling and animation based on a probabilistic re-creation of speaker style [[paper]](https://dl.acm.org/doi/abs/10.1145/1330511.1330516)
+
+- **Neural classification model of personal style**
+  - [IVA 2015] Predicting Co-verbal Gestures: A Deep and Temporal Modeling Approach [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-21996-7_17)
 
 #### <a name="deeplearning">Deep learning approach
 
