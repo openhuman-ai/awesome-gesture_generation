@@ -198,7 +198,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - 【CVPR 2023】Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards [[paper]](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf) ; [[RLracer/RACER]](https://github.com/RLracer/RACER)
 - 【PAKDD 2023】RLMixer: A Reinforcement Learning Approach For Integrated Ranking With Contrastive User Preference Modeling [[paper]](https://batmanzzmc.github.io/assets/pdf/PAKDD2023.pdf)
 - 【IJCAI 2023】DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [[paper]](https://arxiv.org/abs/2305.04919) ; [[YoungSeng/DiffuseStyleGesture]](https://github.com/YoungSeng/DiffuseStyleGesture) ; [[youtube]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
-- 【CVPR 2023】Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [[paper]](https://arxiv.org/abs/2303.09119) ; [Advocate99/DiffGesture](https://github.com/Advocate99/DiffGesture)
+- 【CVPR 2023】Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [[paper]](https://arxiv.org/abs/2303.09119) ; [[Advocate99/DiffGesture]](https://github.com/Advocate99/DiffGesture)
 - 【CVPR 2023】Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement [[paper]](https://arxiv.org/pdf/2303.01765) ; [[XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction]](https://github.com/XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction)
 
 <!-- ************************* 2023 ************************* -->
@@ -388,7 +388,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
   - 【SIGGRAPH 2023】 Listen, denoise, action! Audio-driven motion synthesis with diffusion models [[paper]]() ; [(Code repository (coming soon))](#) ; [[youtube]](https://www.youtube.com/watch?v=Qfd2EpzWgok)
   - 【IJCAI 2023】 DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [[paper]](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ; [[youtube]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
-  - 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [[paper]](https://arxiv.org/pdf/2303.09119v2.pdf) ; [advocate99/diffgesture](https://github.com/advocate99/diffgesture)
+  - 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [[paper]](https://arxiv.org/pdf/2303.09119v2.pdf) ; [[advocate99/diffgesture]](https://github.com/advocate99/diffgesture)
 
 - **Periodic autoencoders (DeepPhase)**
 
