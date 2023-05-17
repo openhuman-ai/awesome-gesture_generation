@@ -377,7 +377,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 - **Probabilistic model of personal style**
 
-  - 【ACM Transactions on Graphics】 [2008] Gesture modeling and animation based on a probabilistic re-creation of speaker style [[paper]](<https://dl.acm.org/doi/abs/10.1145/1330511.1330516>)
+  - 【ACM Transactions on Graphics 2008】Gesture modeling and animation based on a probabilistic re-creation of speaker style [[paper]](<https://dl.acm.org/doi/abs/10.1145/1330511.1330516>)
 
 - **Neural classification model of personal style**
   - 【IVA 2015】Predicting Co-verbal Gestures: A Deep and Temporal Modeling Approach [[paper]](<https://link.springer.com/chapter/10.1007/978-3-319-21996-7_17>)
