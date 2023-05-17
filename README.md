@@ -403,7 +403,11 @@ A curated list of Awesome **Gesture Generation**
 
 #### <a name="deeplearning">Deep learning approach
 
-- 【IJCAI 2023】 Listen, denoise, action! Audio-driven motion synthesis with diffusion models [[paper]](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ; [[youtube]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+- Diffusion Models:
+
+  - 【SIGGRAPH 2023】 Listen, denoise, action! Audio-driven motion synthesis with diffusion models [[paper]]() ; [(Code repository (coming soon))](#) ; [[youtube]](https://www.youtube.com/watch?v=Qfd2EpzWgok)
+  - 【IJCAI 2023】 DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [[paper]](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ; [[youtube]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+
 - ⭐ **Rhythmic Gesticulator** ⭐ - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [[paper]](https://arxiv.org/abs/2210.01448) ; [Aubrey-ao/HumanBehaviorAnimation](https://github.com/aubrey-ao/humanbehavioranimation) ; [[youtube]](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [[youtube]](https://www.youtube.com/watch?v=DO_W8plFWco)
 - 【CVPR 2022】 **HA2G** - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](https://arxiv.org/abs/2203.13161) ; [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G)
 - ⭐ **CaMN** ⭐ BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](https://arxiv.org/abs/2203.05297v5) ; [[PantoMatrix/BEAT]](https://github.com/PantoMatrix/BEAT)
