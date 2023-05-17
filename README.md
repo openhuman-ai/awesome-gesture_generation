@@ -403,15 +403,25 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
   - [IEEEVR 2021] Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [[paper]](https://arxiv.org/pdf/2101.11101.pdf) ; [UttaranB127/Text2Gestures](https://github.com/UttaranB127/Text2Gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
 
+- **Generative models** -- not accurate -- continue edditing
 
-- **GAN (Generative Models)**
+  - **Normalising Flows**
 
-  - 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [[paper]](<https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946>) ; [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) ; [[youtube]](<https://www.youtube.com/watch?v=egf3tjbWBQE>)
-  - 
+    - 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [[paper]](<https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946>) ; [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) ; [[youtube]](<https://www.youtube.com/watch?v=egf3tjbWBQE>)
 
-- **WGAN**
+  - **WGAN**
 
-  - 【ICMI 2021】 Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN [[paper]](<https://dl.acm.org/doi/abs/10.1145/3461615.3485407>)
+    - 【ICMI 2021】 Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN [[paper]](<https://dl.acm.org/doi/abs/10.1145/3461615.3485407>)
+
+  - **VAEs**
+
+    - [ICCV 2021] Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders ; [[paper]](https://arxiv.org/pdf/2108.06720.pdf) ; [[JingLi513/Audio2Gestures]](https://github.com/JingLi513/Audio2Gestures) ; [[homepage]](https://jingli513.github.io/audio2gestures/)
+    - Freeform Body Motion Generation from Speech [[paper]](https://arxiv.org/pdf/2203.02291) ; [[TheTempAccount/Co-Speech-Motion-Generation]](https://github.com/TheTempAccount/Co-Speech-Motion-Generation) ; [[youtube]](https://www.youtube.com/watch?v=Wb5VYqKX_x0)
+    - 【CVMP 2021】 **Flow-VAE** Speech-Driven Conversational Agents using Conditional Flow-VAEs [[paper]](<https://dl.acm.org/doi/10.1145/3485441.3485647>)
+
+  - **Learnable noise codes**
+
+    - [ICCV 2021] Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates ; [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.pdf) ; [[ShenhanQian/SpeechDrivesTemplates]](https://github.com/ShenhanQian/SpeechDrivesTemplates) ;
 
 - **Diffusion**
 
@@ -427,10 +437,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
   -
 
-- **VAEs**
-
-  - 【CVMP 2021】 **Flow-VAE** Speech-Driven Conversational Agents using Conditional Flow-VAEs [[paper]](<https://dl.acm.org/doi/10.1145/3485441.3485647>)
-
 - **Auto-regression + Recurrent Neural Network**
 
   - TransGesture - TransGesture: Autoregressive Gesture Generation with RNN-Transducer
@@ -439,7 +445,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 - **Text to Gesture**
 
-  - [CVPR 2022] Generating Diverse and Natural 3D Human Motions from Text [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [[homepage]](https://ericguo5513.github.io/text-to-motion/) ; [[poster]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; 
+  - [CVPR 2022] Generating Diverse and Natural 3D Human Motions from Text [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [[homepage]](https://ericguo5513.github.io/text-to-motion/) ; [[poster]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [[EricGuo5513/text-to-motion]](https://github.com/EricGuo5513/text-to-motion)
 
 <!-- Uncategory -->
 
