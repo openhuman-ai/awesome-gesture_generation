@@ -447,29 +447,29 @@ Paper by Folder : [📁/survey](./survey) || [📁/approach](./approach) || [�
 
   - 🧍‍♂️ : motion || 📃 : text || 🔊 : audio || ⚙️ : custom by teams
 
-| Metric | Body tier | Description                | Type |
-| ------ | --------- | -------------------------- | ---- |
-| FNA    | 🧍        | Full-body Natural Motion   | 🧍‍♂️   |
-| FBT    | 🧍        | Full-body Text-based       | 📃   |
-| FSA    | 🧍        | Full-body Custom by Teams  | ⚙    |
-| FSB    | 🧍        | Full-body Custom by Teams  | ⚙️   |
-| FSC    | 🧍        | Full-body Custom by Teams  | ⚙️   |
-| FSD    | 🧍        | Full-body Custom by Teams  | ⚙️   |
-| FSF    | 🧍        | Full-body Custom by Teams  | ⚙️   |
-| FSG    | 🧍        | Full-body Custom by Teams  | ⚙️   |
-| FSH    | 🧍        | Full-body Custom by Teams  | ⚙️   |
-| FSI    | 🧍        | Full-body Custom by Teams  | ⚙️   |
-| UNA    | 🧑‍🦲        | Upper-body Natural Motion  | 🧍‍♂️   |
-| UBA    | 🧑‍🦲        | Upper-body Audio-based     | 🔊   |
-| UBT    | 🧑‍🦲        | Upper-body Text-based      | 📃   |
-| USJ    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
-| USK    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
-| USL    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
-| USM    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
-| USN    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
-| USO    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
-| USP    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
-| USQ    | 🧑‍🦲        | Upper-body Custom by Teams | ⚙️   |
+| Metric (Description)             | Body tier | Type | 2020 | 2021 | 2022 | 2023 |
+| -------------------------------- | --------- | ---- | ---- | ---- | ---- | ---- |
+| FNA (Full-body Natural Motion )  | 🧍        | 🧍‍♂️   | 2020 | 2021 | 2022 | 2023 |
+| FBT (Full-body Text-based )      | 🧍        | 📃   | 2020 | 2021 | 2022 | 2023 |
+| FSA (Full-body Custom by Teams ) | 🧍        | ⚙    | 2020 | 2021 | 2022 | 2023 |
+| FSB (Full-body Custom by Teams ) | 🧍        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| FSC (Full-body Custom by Teams ) | 🧍        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| FSD (Full-body Custom by Teams ) | 🧍        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| FSF (Full-body Custom by Teams ) | 🧍        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| FSG (Full-body Custom by Teams ) | 🧍        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| FSH (Full-body Custom by Teams ) | 🧍        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| FSI (Full-body Custom by Teams ) | 🧍        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| UNA (Upper-body Natural Motion ) | 🧑‍🦲        | 🧍‍♂️   | 2020 | 2021 | 2022 | 2023 |
+| UBA (Upper-body Audio-based )    | 🧑‍🦲        | 🔊   | 2020 | 2021 | 2022 | 2023 |
+| UBT (Upper-body Text-based )     | 🧑‍🦲        | 📃   | 2020 | 2021 | 2022 | 2023 |
+| USJ (Upper-body Custom by Teams) | 🧑‍🦲        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| USK (Upper-body Custom by Teams) | 🧑‍🦲        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| USL (Upper-body Custom by Teams) | 🧑‍🦲        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| USM (Upper-body Custom by Teams) | 🧑‍🦲        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| USN (Upper-body Custom by Teams) | 🧑‍🦲        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| USO (Upper-body Custom by Teams) | 🧑‍🦲        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| USP (Upper-body Custom by Teams) | 🧑‍🦲        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
+| USQ (Upper-body Custom by Teams) | 🧑‍🦲        | ⚙️   | 2020 | 2021 | 2022 | 2023 |
 
 ### Objective metrics
 
