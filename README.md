@@ -69,6 +69,10 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 - 【HAI 2021】Speech-based Gesture Generation for Robots and Embodied Agents: A Scoping Review [[paper]](<https://wafa.johal.org/files/papers/Speech_Driven_Gesture_Generation__A_Review.pdf>)
 
+#### **Evaluation survey**
+
+- [IEEE 2022] A Review of Evaluation Practices of Gesture Generation in Embodied Conversational Agents [[paper]](https://arxiv.org/pdf/2101.03769.pdf) ; 
+
 #### **GENEA Challenge**
 
 - The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [[paper]](<https://arxiv.org/abs/2208.10441>) ; [[homepage]](<https://youngwoo-yoon.github.io/GENEAchallenge2022/>) ; [[youtube]](<https://www.youtube.com/watch?v=4n02wXGGnd0>) ; [[web]](<https://www.ea.com/seed/news/genea-challenge-2022>)
