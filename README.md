@@ -281,7 +281,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - Affective synthesis and animation of arm gestures from speech prosody [[paper]](<https://www.sciencedirect.com/science/article/abs/pii/S0167639319301980>)
 - FineMotion - Audio and Text-Driven approach for Conversational Gestures Generation [[paper]](<https://www.dialog-21.ru/media/5526/korzunvaplusdimovinpluszharkovaa031.pdf>) ; [[FineMotion/GENEA_2020]](<https://github.com/FineMotion/GENEA_2020>)
 - Modeling the Conditional Distribution of Co-Speech Upper Body Gesture Jointly Using Conditional-GAN and Unrolled-GAN [[paper]](<https://www.mdpi.com/2079-9292/10/3/228>) ; [[wubowen416/co-speech-gesture-generation-using-CGAN]](<https://github.com/wubowen416/co-speech-gesture-generation-using-CGAN>)
-- Generating coherent spontaneous speech and gesture from text [[paper]](https://arxiv.org/abs/2101.05684) ; [[video]](https://www.youtube.com/watch?v=4_Gq9rU_yWg) ; [[homepage]](https://simonalexanderson.github.io/IVA2020/)
+- 【IVA 2020】 Generating coherent spontaneous speech and gesture from text [[paper]](https://arxiv.org/abs/2101.05684) ; [[video]](https://www.youtube.com/watch?v=4_Gq9rU_yWg) ; [[homepage]](https://simonalexanderson.github.io/IVA2020/)
 
 <!-- ************************* 2020 ************************* -->
 
