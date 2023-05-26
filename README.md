@@ -71,7 +71,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 #### **Evaluation survey**
 
-- [IEEE 2022] A Review of Evaluation Practices of Gesture Generation in Embodied Conversational Agents [[paper]](https://arxiv.org/pdf/2101.03769.pdf) ; 
+- 【IEEE 2022】 A Review of Evaluation Practices of Gesture Generation in Embodied Conversational Agents [[paper]](https://arxiv.org/pdf/2101.03769.pdf) ; 
 
 #### **GENEA Challenge**
 
@@ -251,7 +251,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - 【IVA 2021】 Learning Speech-driven 3D Conversational Gestures from Video [[paper]](<https://dl.acm.org/doi/abs/10.1145/3472306.3478335>)
 - 【CASA 2021】 ExpressGesture ExpressGesture: Expressive gesture generation from speech through database matching [[paper]](<https://onlinelibrary.wiley.com/doi/full/10.1002/cav.2016>) ; [[youtube]](<https://www.youtube.com/watch?v=9opZK-usETY>)
 - 【AAMAS 2021】 CMCF CCFM: An Architecture for Realtime Gesture Generation by Clustering Gestures by Communicative Function and Motion [[paper]](<https://eprints.gla.ac.uk/253967/1/253967.pdf>)
-- [IEEEVR 2021] Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [[paper]](https://arxiv.org/pdf/2101.11101.pdf) ; [UttaranB127/Text2Gestures](https://github.com/UttaranB127/Text2Gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
+- 【IEEEVR 2021】 Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [[paper]](https://arxiv.org/pdf/2101.11101.pdf) ; [UttaranB127/Text2Gestures](https://github.com/UttaranB127/Text2Gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
 - Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents [[paper]](<https://dl.acm.org/doi/abs/10.1145/3514197.3549697>)
 - Multimodal analysis of the predictability of hand-gesture properties [[paper]](<https://arxiv.org/abs/2108.05762>)
 - Deep Gesture Generation for Social Robots Using Type-Specific Libraries [[paper]](<https://arxiv.org/abs/2210.06790>)
@@ -393,14 +393,14 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - **RNN (Recurrent Neural Networks)**
 
   - [MM 2021] Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](<https://dl.acm.org/doi/pdf/10.1145/3474085.3475223>) ; [[UttaranB127/speech2affective_gestures]](https://github.com/UttaranB127/speech2affective_gestures) ; [[homepage]](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag)
-  - [IVA 2018] Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network [[paper]](<https://dl.acm.org/doi/abs/10.1145/3267851.3267878>)
+  - 【IVA 2018】 Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network [[paper]](<https://dl.acm.org/doi/abs/10.1145/3267851.3267878>)
   - 【CVPR 2022】 **HA2G** - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](<https://arxiv.org/abs/2203.13161>) ; [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G)
   - 【SIGGRAPH Asia 2020】 ⭐ **Trimodal** ⭐ Speech gesture generation from the trimodal context of text, audio, and speaker identity [[paper]](<https://dl.acm.org/doi/abs/10.1145/3414685.3417838>) ; [[ai4r/Gesture-Generation-from-Trimodal-Context]](<https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context>)
   - 【ICMI 2022】TransGesture: Autoregressive Gesture Generation with RNN-Transducer [[paper]](<https://dl.acm.org/doi/10.1145/3536221.3558061>)
 
 - **CNN (Convolutional Networks)**
 
-  - [IVA 2021] Learning Speech-driven 3D Conversational Gestures from Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3472306.3478335)
+  - 【IVA 2021】 Learning Speech-driven 3D Conversational Gestures from Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3472306.3478335)
 
 - **Transformers**
 
@@ -418,13 +418,13 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
   - **VAEs**
 
-    - [ICCV 2021] Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders ; [[paper]](https://arxiv.org/pdf/2108.06720.pdf) ; [[JingLi513/Audio2Gestures]](https://github.com/JingLi513/Audio2Gestures) ; [[homepage]](https://jingli513.github.io/audio2gestures/)
+    - 【ICCV 2021】 Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders ; [[paper]](https://arxiv.org/pdf/2108.06720.pdf) ; [[JingLi513/Audio2Gestures]](https://github.com/JingLi513/Audio2Gestures) ; [[homepage]](https://jingli513.github.io/audio2gestures/)
     - Freeform Body Motion Generation from Speech [[paper]](https://arxiv.org/pdf/2203.02291) ; [[TheTempAccount/Co-Speech-Motion-Generation]](https://github.com/TheTempAccount/Co-Speech-Motion-Generation) ; [[youtube]](https://www.youtube.com/watch?v=Wb5VYqKX_x0)
     - 【CVMP 2021】 **Flow-VAE** Speech-Driven Conversational Agents using Conditional Flow-VAEs [[paper]](<https://dl.acm.org/doi/10.1145/3485441.3485647>)
 
   - **Learnable noise codes**
 
-    - [ICCV 2021] Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates ; [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.pdf) ; [[ShenhanQian/SpeechDrivesTemplates]](https://github.com/ShenhanQian/SpeechDrivesTemplates) ;
+    - 【ICCV 2021】 Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates ; [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.pdf) ; [[ShenhanQian/SpeechDrivesTemplates]](https://github.com/ShenhanQian/SpeechDrivesTemplates) ;
 
 - **Diffusion**
 
