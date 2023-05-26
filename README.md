@@ -215,7 +215,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 - 【SIGGRAPH 2022】 A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech [[paper]](<https://dl.acm.org/doi/abs/10.1145/3528233.3530750>) ; [[homepage]](<https://vcai.mpi-inf.mpg.de/projects/SpeechGestureMatching/>)
 - 【ICMI 2022】The DeepMotion entry to the GENEA Challenge 2022 [[paper]](<https://dl.acm.org/doi/abs/10.1145/3536221.3558059>)
-- 【ICMI】The ReprGesture entry to the GENEA Challenge 2022 [[paper]](<https://arxiv.org/abs/2208.12133>) ; [YoungSeng/ReprGesture](https://github.com/YoungSeng/ReprGesture) ; [[youtube]](<https://www.youtube.com/watch?v=KJJYEqyOq5U>)
+- 【ICMI 2022】The ReprGesture entry to the GENEA Challenge 2022 [[paper]](<https://arxiv.org/abs/2208.12133>) ; [YoungSeng/ReprGesture](https://github.com/YoungSeng/ReprGesture) ; [[youtube]](<https://www.youtube.com/watch?v=KJJYEqyOq5U>)
 - 【CVPR 2022】 **HA2G** - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](<https://arxiv.org/abs/2203.13161>) ; [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G)
 - 【CVPR 2022】 SEEG - SEEG: Semantic Energized Co-Speech Gesture Generation [[paper]](<https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html>) ; [[akira-l/seeg]](<https://github.com/akira-l/seeg>)
 - 【CVPR 2022】 **DiffGAN** - Low-Resource Adaptation for Personalized Co-Speech Gesture Generation [[paper]](<https://openaccess.thecvf.com/content/CVPR2022/html/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html>)
@@ -392,8 +392,8 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 - **RNN (Recurrent Neural Networks)**
 
-  - [MM 2021] Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](<https://dl.acm.org/doi/pdf/10.1145/3474085.3475223>) ; [[UttaranB127/speech2affective_gestures]](https://github.com/UttaranB127/speech2affective_gestures) ; [[homepage]](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag)
-  - 【IVA 2018】 Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network [[paper]](<https://dl.acm.org/doi/abs/10.1145/3267851.3267878>)
+  - 【MM 2021】 Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](<https://dl.acm.org/doi/pdf/10.1145/3474085.3475223>) ; [[UttaranB127/speech2affective_gestures]](https://github.com/UttaranB127/speech2affective_gestures) ; [[homepage]](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag)
+  - 【IVA 2018】Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network [[paper]](<https://dl.acm.org/doi/abs/10.1145/3267851.3267878>)
   - 【CVPR 2022】 **HA2G** - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](<https://arxiv.org/abs/2203.13161>) ; [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G)
   - 【SIGGRAPH Asia 2020】 ⭐ **Trimodal** ⭐ Speech gesture generation from the trimodal context of text, audio, and speaker identity [[paper]](<https://dl.acm.org/doi/abs/10.1145/3414685.3417838>) ; [[ai4r/Gesture-Generation-from-Trimodal-Context]](<https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context>)
   - 【ICMI 2022】TransGesture: Autoregressive Gesture Generation with RNN-Transducer [[paper]](<https://dl.acm.org/doi/10.1145/3536221.3558061>)
@@ -404,7 +404,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 - **Transformers**
 
-  - [IEEEVR 2021] Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [[paper]](https://arxiv.org/pdf/2101.11101.pdf) ; [UttaranB127/Text2Gestures](https://github.com/UttaranB127/Text2Gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
+  - 【IEEEVR 2021】 Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [[paper]](https://arxiv.org/pdf/2101.11101.pdf) ; [UttaranB127/Text2Gestures](https://github.com/UttaranB127/Text2Gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
 
 - **Generative models** -- not accurate -- continue edditing
 
@@ -440,7 +440,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 - **Text to Gesture**
 
-  - [CVPR 2022] Generating Diverse and Natural 3D Human Motions from Text [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [[homepage]](https://ericguo5513.github.io/text-to-motion/) ; [[poster]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [[EricGuo5513/text-to-motion]](https://github.com/EricGuo5513/text-to-motion)
+  - 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [[homepage]](https://ericguo5513.github.io/text-to-motion/) ; [[poster]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [[EricGuo5513/text-to-motion]](https://github.com/EricGuo5513/text-to-motion)
 
 <!-- Uncategory -->
 
