@@ -426,10 +426,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
     - [ICCV 2021] Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates ; [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.pdf) ; [[ShenhanQian/SpeechDrivesTemplates]](https://github.com/ShenhanQian/SpeechDrivesTemplates) ;
 
-  - ## **VQ-VAE (Vector Quantized Variational Autoencoder)**
-
-    -
-
 - **Diffusion**
 
   - 【SIGGRAPH 2023】 Listen, denoise, action! Audio-driven motion synthesis with diffusion models [[paper]]() ; [(Code repository (coming soon))](#) ; [[youtube]](<https://www.youtube.com/watch?v=Qfd2EpzWgok>)
