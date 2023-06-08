@@ -640,6 +640,7 @@ This section is -- **not accurate** --> continue edditing
 
 - Visualization:
   - [github.com/TeoNikolov/genea_visualizer](https://github.com/TeoNikolov/genea_visualizer)
+  - [ICMI 2021] [HEMVIP: Human Evaluation of Multiple Videos in Parallel](https://dl.acm.org/doi/pdf/10.1145/3462244.3479957) ; [[jonepatr/hemvip/]](https://github.com/jonepatr/hemvip/) ; [[data and analysis code]](https://zenodo.org/record/5196582)
 
 <!-- ###################################################### TOOLKIT  ###################################################### -->
 
