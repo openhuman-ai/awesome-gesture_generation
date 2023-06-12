@@ -680,7 +680,7 @@ This section is -- **not accurate** --> continue edditing
 
 <!-- ######################## CODE  ########################### -->
 
-## <a name="code">Code</a>
+## <a name="code">10. Code</a>
 
 - Objective evaluation code: [github.com/genea-workshop/genea_numerical_evaluations](https://github.com/genea-workshop/genea_numerical_evaluations)
 - Text-based baseline: [github.com/youngwoo-yoon/Co-Speech_Gesture_Generation](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
