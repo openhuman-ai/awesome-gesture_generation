@@ -207,6 +207,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - 【CVPR 2023】QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [[YoungSeng/QPGesture]](https://github.com/YoungSeng/QPGesture) ; [[video]](https://www.youtube.com/watch?v=5GKjFclT618)
 - EmotionGesture: Audio-Driven Diverse Emotional Co-Speech 3D Gesture Generation [[paper]](https://arxiv.org/pdf/2305.18891.pdf) ;
 - Diff-TTSG: Denoising probabilistic integrated speech and gesture synthesis [[paper]](https://arxiv.org/pdf/2306.09417.pdf) ; [[homepage]](https://shivammehta25.github.io/Diff-TTSG/) ; [[video]](https://www.youtube.com/watch?v=xYxcqyMJjsE)
+- EMoG: Synthesizing Emotive Co-speech 3D Gesture with Diffusion Model [[paper]](https://arxiv.org/pdf/2306.11496.pdf)
 
 <!-- ************************* 2023 ************************* -->
 
