@@ -411,7 +411,7 @@ This section is -- **not accurate** --> continue edditing
 
 - **Transformers**
 
-  - 【IEEEVR 2021】 Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [[paper]](https://arxiv.org/pdf/2101.11101.pdf) ; [UttaranB127/Text2Gestures](https://github.com/UttaranB127/Text2Gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
+  - 【IEEEVR 2021】 Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [[paper]](https://arxiv.org/pdf/2101.11101.pdf) ; [[UttaranB127/Text2Gestures]](https://github.com/UttaranB127/Text2Gestures) ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
 
 - **Generative models** -- not accurate -- continue edditing
 
@@ -433,7 +433,7 @@ This section is -- **not accurate** --> continue edditing
 
   - **Learnable noise codes**
 
-    - 【ICCV 2021】 Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates ; [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.pdf) ; [[ShenhanQian/SpeechDrivesTemplates]](https://github.com/ShenhanQian/SpeechDrivesTemplates) ;
+    - 【ICCV 2021】 Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates ; [[paper]](https://arxiv.org/pdf/2108.08020.pdf) ; [[ShenhanQian/SpeechDrivesTemplates]](https://github.com/ShenhanQian/SpeechDrivesTemplates) ;
 
 - **Diffusion**
 
