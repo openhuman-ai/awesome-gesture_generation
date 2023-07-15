@@ -415,6 +415,8 @@ This section is -- **not accurate** --> continue edditing
 
 - **Generative models** -- not accurate -- continue edditing
 
+  - **CaMN** BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](<https://arxiv.org/abs/2203.05297v5>) ; [[PantoMatrix/BEAT]](<https://github.com/PantoMatrix/BEAT>)
+
   - **Normalising Flows**
 
     - 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [[paper]](<https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946>) ; [simonalexanderson/StyleGestures](https://github.com/simonalexanderson/StyleGestures) ; [[youtube]](<https://www.youtube.com/watch?v=egf3tjbWBQE>)
@@ -442,8 +444,6 @@ This section is -- **not accurate** --> continue edditing
 - **Periodic autoencoders (DeepPhase)**
 
   - **Rhythmic Gesticulator** - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [[paper]](<https://arxiv.org/abs/2210.01448>) ; [Aubrey-ao/HumanBehaviorAnimation](https://github.com/aubrey-ao/humanbehavioranimation) ; [[youtube]](<https://www.youtube.com/watch?v=qy2MrNhsoIs>) ; [[youtube]](<https://www.youtube.com/watch?v=DO_W8plFWco>)
-
-  - **CaMN** BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](<https://arxiv.org/abs/2203.05297v5>) ; [[PantoMatrix/BEAT]](<https://github.com/PantoMatrix/BEAT>)
 
 - **Text to Gesture**
 
