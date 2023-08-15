@@ -209,6 +209,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - Diff-TTSG: Denoising probabilistic integrated speech and gesture synthesis [[paper]](https://arxiv.org/pdf/2306.09417.pdf) ; [[homepage]](https://shivammehta25.github.io/Diff-TTSG/) ; [[video]](https://www.youtube.com/watch?v=xYxcqyMJjsE)
 - EMoG: Synthesizing Emotive Co-speech 3D Gesture with Diffusion Model [[paper]](https://arxiv.org/pdf/2306.11496.pdf)
 - MRecGen: Multimodal Appropriate Reaction Generator [[paper]](https://arxiv.org/pdf/2307.02609.pdf) ; [[SSYSteve/MRecGen]](https://github.com/SSYSteve/MRecGen)
+- Audio is all in one: speech-driven gesture synthetics using WavLM pre-trained model [[paper]](https://arxiv.org/pdf/2308.05995.pdf)
 
 <!-- ************************* 2023 ************************* -->
 
