@@ -106,7 +106,15 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ##### GENEA Challenge 2023 [[Homepage]](<https://genea-workshop.github.io/2023/challenge/>)
 
+| Team (Method) | Paper | Video | 🏆  |
+| ------------- | ----- | ----- | --- |
+|               |       |       |     |
+
 ##### GENEA Workshop 2023 - ICMI 2023 Accepted papers [[Homepage]](<https://genea-workshop.github.io/2023/>)
+
+| Papers | Video | 🏆  |
+| ------ | ----- | --- |
+|        |       |     |
 
 <!-- ************************* -->
 
@@ -159,14 +167,14 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ##### GENEA Challenge 2020 - Accepted papers [[Homepage]](<https://genea-workshop.github.io/2020/>)
 
-| Papers                                                                                                                                                                                                      | Video                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Papers                                                                                                                                                                                                        | Video                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | 【IVA 2020】 The StyleGestures entry to the GENEA Challenge 2020 [[paper]](<https://zenodo.org/record/4088600>) ; [[[simonalexanderson/StyleGestures]]](<https://github.com/simonalexanderson/StyleGestures>) | [[youtube]](<https://www.youtube.com/watch?v=JZgBlJKGFGk>) |
-| 【IVA 2020】 The FineMotion entry to the GENEA Challenge 2020 [[paper]](<https://zenodo.org/record/4088609>) ; [[FineMotion/GENEA_2020]](<https://github.com/FineMotion/GENEA_2020>)                        | [[youtube]](<https://www.youtube.com/watch?v=q29d9Hfbifk>) |
-| 【IVA 2020】 Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth [[paper]](<https://zenodo.org/record/4088376>)                                                              | [[youtube]](<https://www.youtube.com/watch?v=ht5Fu47JKkI>) |
-| 【IVA 2020】 CGVU: Semantics-guided 3D Body Gesture Synthesis [[paper]](<https://zenodo.org/record/4090879>)                                                                                                | [[youtube]](<https://www.youtube.com/watch?v=MBSX0OLHRRU>) |
-| 【IVA 2020】 Interpreting and Generating Gestures with Embodied Human Computer Interactions [[paper]](<https://zenodo.org/record/4088625>)                                                                  | [[youtube]](<https://www.youtube.com/watch?v=5I0FvhlcoDI>) |
-| 【IVA 2020】 The Nectec Gesture Generation System entry to the GENEA Challenge 2020 [[paper]](<https://zenodo.org/record/4088629>)                                                                          | [[youtube]](<https://www.youtube.com/watch?v=0m0wKkNmrgQ>) |
+| 【IVA 2020】 The FineMotion entry to the GENEA Challenge 2020 [[paper]](<https://zenodo.org/record/4088609>) ; [[FineMotion/GENEA_2020]](<https://github.com/FineMotion/GENEA_2020>)                          | [[youtube]](<https://www.youtube.com/watch?v=q29d9Hfbifk>) |
+| 【IVA 2020】 Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth [[paper]](<https://zenodo.org/record/4088376>)                                                                | [[youtube]](<https://www.youtube.com/watch?v=ht5Fu47JKkI>) |
+| 【IVA 2020】 CGVU: Semantics-guided 3D Body Gesture Synthesis [[paper]](<https://zenodo.org/record/4090879>)                                                                                                  | [[youtube]](<https://www.youtube.com/watch?v=MBSX0OLHRRU>) |
+| 【IVA 2020】 Interpreting and Generating Gestures with Embodied Human Computer Interactions [[paper]](<https://zenodo.org/record/4088625>)                                                                    | [[youtube]](<https://www.youtube.com/watch?v=5I0FvhlcoDI>) |
+| 【IVA 2020】 The Nectec Gesture Generation System entry to the GENEA Challenge 2020 [[paper]](<https://zenodo.org/record/4088629>)                                                                            | [[youtube]](<https://www.youtube.com/watch?v=0m0wKkNmrgQ>) |
 
 <!-- ************************* -->
 <!-- ************************* GENEA Challenge ************************* -->
