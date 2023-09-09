@@ -22,7 +22,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 - [1. Survey](#survey)
 - [2. Papers](#papers)
-  - [Fundamental Paper](#fundamental)
+  - [Relation of speech and gesture](#fundamental)
   - [GENEA Challenge](#genea)
   - [2023](#2023)
   - [2022](#2022)
@@ -94,7 +94,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 <!-- ************************* Base-paper ************************* -->
 
-### **<a name="fundamental">2.1 Fundamental Paper</a>**
+### **<a name="fundamental">2.1 Relation of speech and gesture</a>**
 
 - The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony [[paper]](<https://core.ac.uk/download/pdf/15945024.pdf>)
 - Complexity Matters E05: Complexity Matching and Synchronization between Gestures and Speech [[paper]](<https://www.youtube.com/watch?v=lMb-So8wKS8>)
