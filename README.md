@@ -20,7 +20,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - [2. Papers](#papers)
   - [Fundamental Paper](#fundamental)
   - [GENEA Challenge](#genea)
-  - [Kaggle](#kaggle)
   - [2023](#2023)
   - [2022](#2022)
   - [2021](#2021)
@@ -42,6 +41,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - [9. Playlist & Talks](#talks)
 - [10. Code](#code)
 - [11. Books](#books)
+- [Kaggle](#kaggle)
 
 ---
 
@@ -182,28 +182,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ---
 
-<!-- ************************* Kaggle ************************* -->
-
-### **<a name="kaggle"></a><bold>2.3 Kaggle Ranking</bold>**
-
-- **TEDTalk** (Extract skeleton from video Dataset)
-
-  - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](<https://arxiv.org/pdf/2203.13161.pdf>) [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G) ; [[youtube]]() ; [[homepage]](<https://alvinliu0.github.io/projects/HA2G>)
-  - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [[paper]](<https://arxiv.org/abs/2210.01448>) ; [[aubrey-ao/humanbehavioranimation]](<https://github.com/aubrey-ao/humanbehavioranimation>) ; [[youtube]](<https://www.youtube.com/watch?v=qy2MrNhsoIs>)
-  - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](<https://arxiv.org/abs/2108.00262v2>) [[UttaranB127/speech2affective_gestures]](<https://github.com/UttaranB127/speech2affective_gestures>) ; [[homepage]](<https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/>) ; [[youtube]](<https://www.youtube.com/watch?v=D_w1FtIVvQ8>)
-  - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [[paper]](<https://arxiv.org/abs/2009.02119v1>) ; [[ai4r/Gesture-Generation-from-Trimodal-Context]](<https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context>)
-
-- **BEAT** (Motion Capture Dataset)
-  - BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](<https://arxiv.org/abs/2203.05297v5>) ; [[PantoMatrix/BEAT]](<https://github.com/PantoMatrix/BEAT>)
-  - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [[paper]](<https://arxiv.org/abs/2009.02119v1>) ; [[ai4r/Gesture-Generation-from-Trimodal-Context]](<https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context>)
-  - Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders [[paper]](<https://arxiv.org/abs/2108.06720v1>)
-  - Learning Individual Styles of Conversational Gesture [[paper]](<https://github.com/amirbar/speech2gesture>)
-  - Robots Learning to Say `No': Prohibition and Rejective Mechanisms in Acquisition of Linguistic Negation [[paper]](<https://arxiv.org/abs/1810.11804v1>)
-
-<!-- ************************* Kaggle ************************* -->
-
----
-
 <!-- ************************* 2023 ************************* -->
 
 ### **<a name="2023">2023</a>**
@@ -215,14 +193,13 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - 【CVPR 2023】 Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement [[paper]](<https://arxiv.org/pdf/2303.01765>) ; [[XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction]](<https://github.com/XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction>)
 - 【CVPR 2023】 QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [[YoungSeng/QPGesture]](https://github.com/YoungSeng/QPGesture) ; [[video]](https://www.youtube.com/watch?v=5GKjFclT618)
 - 【CVPR 2023】 GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents [[paper]](https://arxiv.org/pdf/2303.14613.pdf) ; [[homepage]](https://pku-mocca.github.io/GestureDiffuCLIP-Page/) ; [[video]](https://www.youtube.com/watch?v=513EONcXOck)
+- DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model
 - BodyFormer: Semantics-guided 3D Body Gesture Synthesis with Transformer [[paper]](https://i.cs.hku.hk/~taku/kunkun2023.pdf)
 - EmotionGesture: Audio-Driven Diverse Emotional Co-Speech 3D Gesture Generation [[paper]](https://arxiv.org/pdf/2305.18891.pdf) ;
 - Diff-TTSG: Denoising probabilistic integrated speech and gesture synthesis [[paper]](https://arxiv.org/pdf/2306.09417.pdf) ; [[homepage]](https://shivammehta25.github.io/Diff-TTSG/) ; [[video]](https://www.youtube.com/watch?v=xYxcqyMJjsE)
 - EMoG: Synthesizing Emotive Co-speech 3D Gesture with Diffusion Model [[paper]](https://arxiv.org/pdf/2306.11496.pdf)
 - MRecGen: Multimodal Appropriate Reaction Generator [[paper]](https://arxiv.org/pdf/2307.02609.pdf) ; [[SSYSteve/MRecGen]](https://github.com/SSYSteve/MRecGen)
 - Audio is all in one: speech-driven gesture synthetics using WavLM pre-trained model [[paper]](https://arxiv.org/pdf/2308.05995.pdf)
-
-
 
 <!-- ************************* 2023 ************************* -->
 
@@ -724,6 +701,28 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 - 2009 - [Gesture in Embodied Communication and Human Computer Interaction](https://www.google.com/books/edition/Gesture_in_Embodied_Communication_and_Hu/vLqoCAAAQBAJ?hl=en&gbpv=0)
 - 2013 - [Nonverbal Communication in Human Interaction](https://books.google.co.uk/books?id=-g7hkSR_mLoC)
 - 2013 - [Nonverbal Communication: Science and Applications](https://books.google.co.uk/books?id=PeOeu3qFFTIC)
+
+---
+
+<!-- ************************* Kaggle ************************* -->
+
+### **<a name="kaggle"></a><bold>2.3 Kaggle Ranking</bold>**
+
+- **TEDTalk** (Extract skeleton from video Dataset)
+
+  - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](<https://arxiv.org/pdf/2203.13161.pdf>) [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G) ; [[youtube]]() ; [[homepage]](<https://alvinliu0.github.io/projects/HA2G>)
+  - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [[paper]](<https://arxiv.org/abs/2210.01448>) ; [[aubrey-ao/humanbehavioranimation]](<https://github.com/aubrey-ao/humanbehavioranimation>) ; [[youtube]](<https://www.youtube.com/watch?v=qy2MrNhsoIs>)
+  - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](<https://arxiv.org/abs/2108.00262v2>) [[UttaranB127/speech2affective_gestures]](<https://github.com/UttaranB127/speech2affective_gestures>) ; [[homepage]](<https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/>) ; [[youtube]](<https://www.youtube.com/watch?v=D_w1FtIVvQ8>)
+  - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [[paper]](<https://arxiv.org/abs/2009.02119v1>) ; [[ai4r/Gesture-Generation-from-Trimodal-Context]](<https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context>)
+
+- **BEAT** (Motion Capture Dataset)
+  - BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](<https://arxiv.org/abs/2203.05297v5>) ; [[PantoMatrix/BEAT]](<https://github.com/PantoMatrix/BEAT>)
+  - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [[paper]](<https://arxiv.org/abs/2009.02119v1>) ; [[ai4r/Gesture-Generation-from-Trimodal-Context]](<https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context>)
+  - Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders [[paper]](<https://arxiv.org/abs/2108.06720v1>)
+  - Learning Individual Styles of Conversational Gesture [[paper]](<https://github.com/amirbar/speech2gesture>)
+  - Robots Learning to Say `No': Prohibition and Rejective Mechanisms in Acquisition of Linguistic Negation [[paper]](<https://arxiv.org/abs/1810.11804v1>)
+
+<!-- ************************* Kaggle ************************* -->
 
 ## Contributing <a href="https://github.com/OpenHuman-ai/awesome-gesture_generation/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/OpenHuman-ai/awesome-gesture_generation) </a>
 
