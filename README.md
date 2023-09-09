@@ -203,6 +203,17 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - EMoG: Synthesizing Emotive Co-speech 3D Gesture with Diffusion Model [[paper]](https://arxiv.org/pdf/2306.11496.pdf)
 - MRecGen: Multimodal Appropriate Reaction Generator [[paper]](https://arxiv.org/pdf/2307.02609.pdf) ; [[SSYSteve/MRecGen]](https://github.com/SSYSteve/MRecGen)
 - Audio is all in one: speech-driven gesture synthetics using WavLM pre-trained model [[paper]](https://arxiv.org/pdf/2308.05995.pdf)
+- The KCL-SAIR team’s entry to the GENEA Challenge 2023 Exploring Role-based Gesture Generation in Dyadic Interactions: Listener vs. Speaker [[paper]](https://openreview.net/pdf?id=oW4rUGjbMYg)
+- The KU-ISPL entry to the GENEA Challenge 2023-A Diffusion Model for Co-speech Gesture generation [[paper]](https://openreview.net/pdf?id=Mm44wlJICIj)
+- Diffusion-Based Co-Speech Gesture Generation Using Joint Text and Audio Representation [[paper]](https://openreview.net/pdf?id=vD3_u_kbkqS)
+- Co-Speech Gesture Generation via Audio and Text Feature Engineering [[paper]](https://openreview.net/pdf?id=mK2qMNf0_Nd)
+- Gesture Motion Graphs for Few-Shot Speech-Driven Gesture Reenactment [[paper]](https://openreview.net/pdf?id=CMivR3x5fpC)
+- Gesture Generation with Diffusion Models Aided by Speech Activity Information [[paper]](https://openreview.net/pdf?id=S9Efb3MoiZ)
+- FEIN-Z: Autoregressive Behavior Cloning for Speech-Driven Gesture Generation [[paper]](https://openreview.net/pdf?id=FovoQL3nygw)
+- Discrete Diffusion for Co-Speech Gesture Synthesis [[paper]](https://openreview.net/pdf?id=xPQcKA56N4j)
+- DiffuGesture: Generating Human Gesture From Two-person Dialogue With Diffusion Models [[paper]](https://openreview.net/pdf?id=swc28UDR8Wk)
+- The FineMotion entry to the GENEA Challenge 2023: DeepPhase for conversational gestures generation [[paper]](https://openreview.net/pdf?id=pVBKLqpAUtP)
+
 
 <!-- ************************* 2023 ************************* -->
 
