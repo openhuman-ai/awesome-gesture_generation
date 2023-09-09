@@ -41,7 +41,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - [9. Playlist & Talks](#talks)
 - [10. Code](#code)
 - [11. Books](#books)
-- [Kaggle](#kaggle)
 
 ---
 
@@ -706,7 +705,7 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 
 <!-- ************************* Kaggle ************************* -->
 
-### **<a name="kaggle"></a><bold>2.3 Kaggle Ranking</bold>**
+### **<a name="kaggle"></a><bold>Kaggle Ranking</bold>**
 
 - **TEDTalk** (Extract skeleton from video Dataset)
 
