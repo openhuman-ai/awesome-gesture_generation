@@ -214,11 +214,13 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - 【CVPR 2023】Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [[paper]](<https://arxiv.org/abs/2303.09119>) ; [[Advocate99/DiffGesture]](<https://github.com/Advocate99/DiffGesture>)
 - 【CVPR 2023】Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement [[paper]](<https://arxiv.org/pdf/2303.01765>) ; [[XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction]](<https://github.com/XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction>)
 - 【CVPR 2023】QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [[YoungSeng/QPGesture]](https://github.com/YoungSeng/QPGesture) ; [[video]](https://www.youtube.com/watch?v=5GKjFclT618)
+- 【CVPR 2023】GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents [[paper]](https://arxiv.org/pdf/2303.14613.pdf) ; [[homepage]](https://pku-mocca.github.io/GestureDiffuCLIP-Page/) ; [[video]](https://www.youtube.com/watch?v=513EONcXOck)
 - EmotionGesture: Audio-Driven Diverse Emotional Co-Speech 3D Gesture Generation [[paper]](https://arxiv.org/pdf/2305.18891.pdf) ;
 - Diff-TTSG: Denoising probabilistic integrated speech and gesture synthesis [[paper]](https://arxiv.org/pdf/2306.09417.pdf) ; [[homepage]](https://shivammehta25.github.io/Diff-TTSG/) ; [[video]](https://www.youtube.com/watch?v=xYxcqyMJjsE)
 - EMoG: Synthesizing Emotive Co-speech 3D Gesture with Diffusion Model [[paper]](https://arxiv.org/pdf/2306.11496.pdf)
 - MRecGen: Multimodal Appropriate Reaction Generator [[paper]](https://arxiv.org/pdf/2307.02609.pdf) ; [[SSYSteve/MRecGen]](https://github.com/SSYSteve/MRecGen)
 - Audio is all in one: speech-driven gesture synthetics using WavLM pre-trained model [[paper]](https://arxiv.org/pdf/2308.05995.pdf)
+
 
 <!-- ************************* 2023 ************************* -->
 
