@@ -127,9 +127,12 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ##### GENEA Workshop 2023 - ICMI 2023 Accepted papers [[Homepage]](<https://genea-workshop.github.io/2023/>)
 
-| Papers | Video | 🏆  |
-| ------ | ----- | --- |
-|        |       |     |
+| Papers                                                                                                                                                                                    | Video | 🏆  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
+| 【ICMI 2023】 MultiFacet A Multi-Tasking Framework for Speech-to-Sign Language Generation [[paper]](<https://openreview.net/forum?id=2ZRuyknGLy>)                                         |       |     |
+| 【ICMI 2023】 Look What I Made It Do - The ModelIT Method for Manually Modeling Nonverbal Behavior of Socially Interactive Agents [[paper]](<https://openreview.net/forum?id=-OmGWX-wRM>) |       |     |
+| 【ICMI 2023】 A Methodology for Evaluating Multimodal Referring Expression Generation for Embodied Virtual Agents [[paper]](<https://openreview.net/forum?id=k0lKzukz1E>)                 |       |     |
+| 【ICMI 2023】 Towards the generation of synchronized and believable non-verbal facial behaviors of a talking virtual agent [[paper]](<https://openreview.net/forum?id=Uz5CrjdU_z>)        |       |     |
 
 <!-- ************************* -->
 
