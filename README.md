@@ -6,8 +6,8 @@ The goal of project is focus only on Audio-driven Gesture Generation with output
 <br/>
 Input: Audio, Text, Gesture etc. -> Output: Gesture Motion
 
-> **Gesture Generation** is the process of generating gestures from speech or text.
-[Computing Classification System (CCS)](https://dl.acm.org/ccs): • Human-centered computing → Human computer interac-tion (HCI); • Computing methodologies → Motion processing; Neural networks. The goal of **Gesture Generation** is to generate gestures that are natural, realistic, and appropriate for the given context. The generated gestures can be used to animate virtual characters, robots, or embodied conversational agents.
+> **Gesture Generation** is the process of generating gestures from speech or text. The goal of **Gesture Generation** is to generate gestures that are natural, realistic, and appropriate for the given context. The generated gestures can be used to animate virtual characters, robots, or embodied conversational agents.
+> [Computing Classification System (CCS)](https://dl.acm.org/ccs): • Human-centered computing → Human computer interac-tion (HCI). 
 
 Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/survey) || [📁/approach](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/approach) || [📁/papers](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/papers) || [📁/dataset](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/dataset) || [📁/books](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/books)
 
