@@ -212,7 +212,8 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - 【CVPR 2023】 Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement [[paper]](<https://arxiv.org/pdf/2303.01765>) ; [[XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction]](<https://github.com/XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction>)
 - 【CVPR 2023】 QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [[YoungSeng/QPGesture]](https://github.com/YoungSeng/QPGesture) ; [[video]](https://www.youtube.com/watch?v=5GKjFclT618)
 - 【CVPR 2023】 GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents [[paper]](https://arxiv.org/pdf/2303.14613.pdf) ; [[homepage]](https://pku-mocca.github.io/GestureDiffuCLIP-Page/) ; [[video]](https://www.youtube.com/watch?v=513EONcXOck)
-- DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model
+- 【ACM MM 2023】UnifiedGesture - A Unified Gesture Synthesis Model for Multiple Skeletons [[paper]](https://arxiv.org/pdf/2309.07051.pdf) ; [[YoungSeng/UnifiedGesture]](https://github.com/YoungSeng/UnifiedGesture)
+- DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model [[paper]](https://arxiv.org/pdf/2301.10047.pdf)
 - BodyFormer: Semantics-guided 3D Body Gesture Synthesis with Transformer [[paper]](https://i.cs.hku.hk/~taku/kunkun2023.pdf)
 - EmotionGesture: Audio-Driven Diverse Emotional Co-Speech 3D Gesture Generation [[paper]](https://arxiv.org/pdf/2305.18891.pdf) ;
 - Diff-TTSG: Denoising probabilistic integrated speech and gesture synthesis [[paper]](https://arxiv.org/pdf/2306.09417.pdf) ; [[homepage]](https://shivammehta25.github.io/Diff-TTSG/) ; [[video]](https://www.youtube.com/watch?v=xYxcqyMJjsE)
@@ -229,7 +230,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - Discrete Diffusion for Co-Speech Gesture Synthesis [[paper]](https://openreview.net/pdf?id=xPQcKA56N4j)
 - DiffuGesture: Generating Human Gesture From Two-person Dialogue With Diffusion Models [[paper]](https://openreview.net/pdf?id=swc28UDR8Wk)
 - The FineMotion entry to the GENEA Challenge 2023: DeepPhase for conversational gestures generation [[paper]](https://openreview.net/pdf?id=pVBKLqpAUtP)
-- UnifiedGesture - A Unified Gesture Synthesis Model for Multiple Skeletons [[paper]](https://arxiv.org/pdf/2309.07051.pdf)
+
 
 <!-- ************************* 2023 ************************* -->
 
