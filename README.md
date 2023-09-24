@@ -6,7 +6,8 @@ The goal of project is focus only on Audio-driven Gesture Generation with output
 <br/>
 Input: Audio, Text, Gesture etc. -> Output: Gesture Motion
 
-> **Gesture Generation** is the process of generating gestures from speech or text. It is a subfield of **Non-verbal Behavior Generation**. The goal of **Gesture Generation** is to generate gestures that are natural, realistic, and appropriate for the given context. The generated gestures can be used to animate virtual characters, robots, or embodied conversational agents.
+> **Gesture Generation** is the process of generating gestures from speech or text.
+[Computing Classification System (CCS)](https://dl.acm.org/ccs): • Human-centered computing → Human computer interac-tion (HCI); • Computing methodologies → Motion processing; Neural networks. The goal of **Gesture Generation** is to generate gestures that are natural, realistic, and appropriate for the given context. The generated gestures can be used to animate virtual characters, robots, or embodied conversational agents.
 
 Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/survey) || [📁/approach](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/approach) || [📁/papers](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/papers) || [📁/dataset](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/dataset) || [📁/books](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/books)
 
@@ -227,6 +228,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - Discrete Diffusion for Co-Speech Gesture Synthesis [[paper]](https://openreview.net/pdf?id=xPQcKA56N4j)
 - DiffuGesture: Generating Human Gesture From Two-person Dialogue With Diffusion Models [[paper]](https://openreview.net/pdf?id=swc28UDR8Wk)
 - The FineMotion entry to the GENEA Challenge 2023: DeepPhase for conversational gestures generation [[paper]](https://openreview.net/pdf?id=pVBKLqpAUtP)
+- UnifiedGesture - A Unified Gesture Synthesis Model for Multiple Skeletons [[paper]](https://arxiv.org/pdf/2309.07051.pdf)
 
 <!-- ************************* 2023 ************************* -->
 
