@@ -331,8 +331,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - 【CVPR 2019】 **Speech2Gesture** Learning Individual Styles of Conversational Gesture [[paper]](<https://openaccess.thecvf.com/content_CVPR_2019/html/Ginosar_Learning_Individual_Styles_of_Conversational_Gesture_CVPR_2019_paper.html>)
 - Analyzing Input and Output Representations for Speech-Driven Gesture Generation [[paper]](<https://arxiv.org/abs/1903.03369>) ; [[GestureGeneration/Speech_driven_gesture_generation_with_autoencoder]](<https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder>) ; [[youtube]](<https://www.youtube.com/watch?v=Iv7UBe92zrw>) ; [[youtube]](<https://www.youtube.com/watch?v=tQLVyTVtsSU>) ; [[homepage]](<https://svito-zar.github.io/audio2gestures/>)
 - On the Importance of Representations for Speech-Driven Gesture Generation [[paper]](<https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2072.pdf>)
-- []()
-- []()
 
 <!-- ************************* 2019 ************************* -->
 
@@ -348,7 +346,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network [[paper]](<https://dl.acm.org/doi/abs/10.1145/3267851.3267878>)
 - A Speech-Driven Hand Gesture Generation Method and Evaluation in Android Robots [[paper]](<https://ieeexplore.ieee.org/abstract/document/8411101>) ; [[youtube]](<https://www.youtube.com/watch?v=nr867hoQB-M>)
 - Robots Learn Social Skills: End-to-End Learning of Co-Speech Gesture Generation for Humanoid Robots [[paper]](<https://arxiv.org/abs/1810.12541>)
-- []()
 
 <!-- ************************* 2018 ************************* -->
 
