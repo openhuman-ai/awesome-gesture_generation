@@ -775,4 +775,4 @@ details.
 
 ## Created by [OpenHuman](https://github.com/Openhuman-ai)
 
-[OpenHuman.ai](https://www.openhuman.ai) - Open Realistic Digital Human
+[OpenHuman.ai](https://www.openhuman.ai) - Open Store for  Realistic Digital Human
