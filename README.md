@@ -238,6 +238,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - Discrete Diffusion for Co-Speech Gesture Synthesis [[paper]](https://openreview.net/pdf?id=xPQcKA56N4j)
 - DiffuGesture: Generating Human Gesture From Two-person Dialogue With Diffusion Models [[paper]](https://openreview.net/pdf?id=swc28UDR8Wk)
 - The FineMotion entry to the GENEA Challenge 2023: DeepPhase for conversational gestures generation [[paper]](https://openreview.net/pdf?id=pVBKLqpAUtP)
+- Am I listening - Evaluating theQuality of Generated Data-driven Listening Motion [[paper]](https://pieterwolfert.com/files/icmi_2023.pdf)
 
 
 <!-- ************************* 2023 ************************* -->
