@@ -4,11 +4,11 @@
 
 The goal of project is focus only on Audio-driven Gesture Generation with output is 3D keypoints gesture.
 <br/>
-Input: Audio, Text, Gesture etc. -> Output: Gesture Motion
+Input: Audio, Text, Gesture, ..etc. -> Output: Gesture Motion
 
 > **Gesture Generation** is the process of generating gestures from speech or text. The goal of **Gesture Generation** is to generate gestures that are natural, realistic, and appropriate for the given context. The generated gestures can be used to animate virtual characters, robots, or embodied conversational agents.
 
-[ACM CCS](https://dl.acm.org/ccs): • Human-centered computing → Human computer interaction (HCI). 
+[ACM CCS](https://dl.acm.org/ccs): • Human-centered computing → Human computer interaction (HCI).
 
 Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/survey) || [📁/approach](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/approach) || [📁/papers](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/papers) || [📁/dataset](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/dataset) || [📁/books](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/books)
 
@@ -240,7 +240,6 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - The FineMotion entry to the GENEA Challenge 2023: DeepPhase for conversational gestures generation [[paper]](https://openreview.net/pdf?id=pVBKLqpAUtP)
 - Am I listening - Evaluating theQuality of Generated Data-driven Listening Motion [[paper]](https://pieterwolfert.com/files/icmi_2023.pdf)
 
-
 <!-- ************************* 2023 ************************* -->
 
 ---
@@ -443,8 +442,6 @@ This section is -- **not accurate** --> continue edditing
 
 - **Generative models** -- not accurate -- continue edditing
 
-  - **CaMN** BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](<https://arxiv.org/abs/2203.05297v5>) ; [[PantoMatrix/BEAT]](<https://github.com/PantoMatrix/BEAT>)
-
   - **Normalising Flows**
 
     - 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [[paper]](<https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946>) ; [[simonalexanderson/StyleGestures]](https://github.com/simonalexanderson/StyleGestures) ; [[youtube]](<https://www.youtube.com/watch?v=egf3tjbWBQE>)
@@ -459,9 +456,15 @@ This section is -- **not accurate** --> continue edditing
     - Freeform Body Motion Generation from Speech [[paper]](https://arxiv.org/pdf/2203.02291) ; [[TheTempAccount/Co-Speech-Motion-Generation]](https://github.com/TheTempAccount/Co-Speech-Motion-Generation) ; [[youtube]](https://www.youtube.com/watch?v=Wb5VYqKX_x0)
     - 【CVMP 2021】 **Flow-VAE** Speech-Driven Conversational Agents using Conditional Flow-VAEs [[paper]](<https://dl.acm.org/doi/10.1145/3485441.3485647>)
 
+  - **VQ-VAE**
+
+    - 
+
   - **Learnable noise codes**
 
     - 【ICCV 2021】 Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates ; [[paper]](https://arxiv.org/pdf/2108.08020.pdf) ; [[ShenhanQian/SpeechDrivesTemplates]](https://github.com/ShenhanQian/SpeechDrivesTemplates) ;
+
+  - **CaMN** BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [[paper]](<https://arxiv.org/abs/2203.05297v5>) ; [[PantoMatrix/BEAT]](<https://github.com/PantoMatrix/BEAT>)
 
 - **Diffusion**
 
@@ -741,9 +744,9 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 
 ---
 
-<!-- ************************* Kaggle ************************* -->
+<!-- ************************* PapersWithCode ************************* -->
 
-### **<a name="kaggle"></a><bold>Kaggle Ranking</bold>**
+### **<a name="paperswithcode"></a><bold>PapersWithCode Ranking</bold>**
 
 - **TEDTalk** (Extract skeleton from video Dataset)
 
@@ -759,7 +762,7 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
   - Learning Individual Styles of Conversational Gesture [[paper]](<https://github.com/amirbar/speech2gesture>)
   - Robots Learning to Say `No': Prohibition and Rejective Mechanisms in Acquisition of Linguistic Negation [[paper]](<https://arxiv.org/abs/1810.11804v1>)
 
-<!-- ************************* Kaggle ************************* -->
+<!-- ************************* PapersWithCode ************************* -->
 
 ## Contributing <a href="https://github.com/OpenHuman-ai/awesome-gesture_generation/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/OpenHuman-ai/awesome-gesture_generation) </a>
 
@@ -773,4 +776,4 @@ details.
 
 ## Created by [OpenHuman](https://github.com/Openhuman-ai)
 
-[OpenHuman.ai](https://www.openhuman.ai) - Open Store for  Realistic Digital Human
+[OpenHuman.ai](https://www.openhuman.ai) - Open Store for Realistic Digital Human
