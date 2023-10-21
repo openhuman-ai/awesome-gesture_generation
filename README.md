@@ -221,6 +221,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - 【CVPR 2023】 Speech4Mesh: Speech-Assisted Monocular 3D Facial Reconstruction for Speech-Driven 3D Facial Animation [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Speech4Mesh_Speech-Assisted_Monocular_3D_Facial_Reconstruction_for_Speech-Driven_3D_Facial_ICCV_2023_paper.pdf)
 - 【CVPR 2023】 Semi-supervised Speech-driven 3D Facial Animation via Cross-modal Encoding [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Semi-supervised_Speech-driven_3D_Facial_Animation_via_Cross-modal_Encoding_ICCV_2023_paper.pdf)
 - 【ACM MM 2023】UnifiedGesture - A Unified Gesture Synthesis Model for Multiple Skeletons [[paper]](https://arxiv.org/pdf/2309.07051.pdf) ; [[YoungSeng/UnifiedGesture]](https://github.com/YoungSeng/UnifiedGesture)
+- 【ICMI 2023】 AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis [[paper]](https://dl.acm.org/doi/pdf/10.1145/3577190.3614135) ; [[hvoss-techfak/AQGT]](https://github.com/hvoss-techfak/AQGT)
 - DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model [[paper]](https://arxiv.org/pdf/2301.10047.pdf)
 - BodyFormer: Semantics-guided 3D Body Gesture Synthesis with Transformer [[paper]](https://i.cs.hku.hk/~taku/kunkun2023.pdf)
 - EmotionGesture: Audio-Driven Diverse Emotional Co-Speech 3D Gesture Generation [[paper]](https://arxiv.org/pdf/2305.18891.pdf) ;
@@ -458,7 +459,7 @@ This section is -- **not accurate** --> continue edditing
 
   - **VQ-VAE**
 
-    - 
+    -
 
   - **Learnable noise codes**
 
@@ -746,12 +747,13 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 
 <!-- ************************* PapersWithCode ************************* -->
 
-### **<a name="paperswithcode"></a><bold>PapersWithCode Ranking</bold>**
+### **PapersWithCode Ranking**
 
 - **TEDTalk** (Extract skeleton from video Dataset)
 
-  - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](<https://arxiv.org/pdf/2203.13161.pdf>) [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G) ; [[youtube]]() ; [[homepage]](<https://alvinliu0.github.io/projects/HA2G>)
+  - AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis [[paper]](https://dl.acm.org/doi/pdf/10.1145/3577190.3614135) ; [[hvoss-techfak/AQGT]](https://github.com/hvoss-techfak/AQGT)
   - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [[paper]](<https://arxiv.org/abs/2210.01448>) ; [[aubrey-ao/humanbehavioranimation]](<https://github.com/aubrey-ao/humanbehavioranimation>) ; [[youtube]](<https://www.youtube.com/watch?v=qy2MrNhsoIs>)
+  - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [[paper]](<https://arxiv.org/pdf/2203.13161.pdf>) [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G) ; [[youtube]](https://www.youtube.com/watch?v=CG632W-nIWk) ; [[homepage]](<https://alvinliu0.github.io/projects/HA2G>)
   - Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [[paper]](<https://arxiv.org/abs/2108.00262v2>) [[UttaranB127/speech2affective_gestures]](<https://github.com/UttaranB127/speech2affective_gestures>) ; [[homepage]](<https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/>) ; [[youtube]](<https://www.youtube.com/watch?v=D_w1FtIVvQ8>)
   - Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [[paper]](<https://arxiv.org/abs/2009.02119v1>) ; [[ai4r/Gesture-Generation-from-Trimodal-Context]](<https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context>)
 
@@ -764,11 +766,11 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 
 <!-- ************************* PapersWithCode ************************* -->
 
-## Contributing <a href="https://github.com/OpenHuman-ai/awesome-gesture_generation/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/OpenHuman-ai/awesome-gesture_generation) </a>
+## Contributing ![GitHub](https://img.shields.io/github/contributors/OpenHuman-ai/awesome-gesture_generation)
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/OpenHuman-ai/awesome-gesture_generation/blob/master/CONTRIBUTING.md) first.
 
-## License <a href="LICENSE"> ![GitHub](https://img.shields.io/github/license/OpenHuman-ai/awesome-gesture_generation) </a>
+## License ![GitHub](https://img.shields.io/github/license/OpenHuman-ai/awesome-gesture_generation)
 
 This project is licensed under the MIT License - see the
 [LICENSE.md](https://github.com/OpenHuman-ai/awesome-gesture_generation/blob/main/LICENSE) file for
