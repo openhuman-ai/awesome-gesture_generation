@@ -240,7 +240,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - DiffuGesture: Generating Human Gesture From Two-person Dialogue With Diffusion Models [[paper]](https://openreview.net/pdf?id=swc28UDR8Wk)
 - The FineMotion entry to the GENEA Challenge 2023: DeepPhase for conversational gestures generation [[paper]](https://openreview.net/pdf?id=pVBKLqpAUtP)
 - Am I listening - Evaluating theQuality of Generated Data-driven Listening Motion [[paper]](https://pieterwolfert.com/files/icmi_2023.pdf)
-- Unified speech and gesture synthesis using flow matching [[paper]](https://arxiv.org/pdf/2310.05181.pdf) ; [[homepage]](https://shivammehta25.github.io/Match-TTSG/) ; 
+- Unified speech and gesture synthesis using flow matching [[paper]](https://arxiv.org/pdf/2310.05181.pdf) ; [[homepage]](https://shivammehta25.github.io/Match-TTSG/) ;
 
 <!-- ************************* 2023 ************************* -->
 
@@ -380,11 +380,11 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 <!-- ###################################################### APPROACHS  ###################################################### -->
 
-## <a name="approachs">3. Selected Approachs</a>
+## <a name="approachs">3. Approachs</a>
 
 <!-- ************************* Rule Base ************************* -->
 
-### <a name="rulebase"> 3.1 Selected rule Base approach
+### <a name="rulebase"> 3.1 Rule Base approach
 
 - [1994] Rule-based generation of facial expression, gesture & spoken intonation for multiple conversational agents [[paper]](<https://dl.acm.org/doi/10.1145/192161.192272>)
 
@@ -458,10 +458,6 @@ This section is -- **not accurate** --> continue edditing
     - Freeform Body Motion Generation from Speech [[paper]](https://arxiv.org/pdf/2203.02291) ; [[TheTempAccount/Co-Speech-Motion-Generation]](https://github.com/TheTempAccount/Co-Speech-Motion-Generation) ; [[youtube]](https://www.youtube.com/watch?v=Wb5VYqKX_x0)
     - 【CVMP 2021】 **Flow-VAE** Speech-Driven Conversational Agents using Conditional Flow-VAEs [[paper]](<https://dl.acm.org/doi/10.1145/3485441.3485647>)
 
-  - **VQ-VAE**
-
-    -
-
   - **Learnable noise codes**
 
     - 【ICCV 2021】 Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates ; [[paper]](https://arxiv.org/pdf/2108.08020.pdf) ; [[ShenhanQian/SpeechDrivesTemplates]](https://github.com/ShenhanQian/SpeechDrivesTemplates) ;
@@ -494,7 +490,7 @@ This section is -- **not accurate** --> continue edditing
   - 【CVPR 2022】 Audio-Driven Neural Gesture Reenactment With Video Motion Graphs [[paper]](<https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Audio-Driven_Neural_Gesture_Reenactment_With_Video_Motion_Graphs_CVPR_2022_paper.html>)
   - 【AAMAS 2022】 Multimodal analysis of the predictability of hand-gesture properties [[paper]](<https://arxiv.org/abs/2108.05762>)
   - 【ICMI 2022】 **GestureMaster** GestureMaster: Graph-based Speech-driven Gesture Generation [[paper]](<https://dl.acm.org/doi/abs/10.1145/3536221.3558063>)
-  - 【ICCV 2021】 Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates [[paper]](<https://openaccess.thecvf.com/content/ICCV2021/html/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.html>) ; [shenhanqian/speechdrivestemplates](https://github.com/shenhanqian/speechdrivestemplates) ; [[youtube]](<https://www.youtube.com/watch?v=yu-5gUHn6h8>) ; [poster](https://shenhanqian.com/assets/2021-07-25-sdt/poster.pdf)
+
   - 【ICCV 2021】 **Audio2Gestures** Audio2Gestures: Generating Diverse Gestures From Speech Audio With Conditional Variational Autoencoders [[paper]](<https://openaccess.thecvf.com/content/ICCV2021/html/Li_Audio2Gestures_Generating_Diverse_Gestures_From_Speech_Audio_With_Conditional_Variational_ICCV_2021_paper.html>)
   - 【IVA 2021】 Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech [[paper]](<https://arxiv.org/abs/2106.14736>) ; [[homepage]](<https://svito-zar.github.io/speech2properties2gestures/>)
   - 【ECCV 2020】 **Mix-StAGE** Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional-Mixture Approach [[paper]](<https://arxiv.org/abs/2007.12553>)
@@ -519,6 +515,10 @@ This section is -- **not accurate** --> continue edditing
 <!-- ###################################################### LEARNING OBJECTED  ###################################################### -->
 
 ## <a name="learnobjective"> 5. Learning Objective
+
+- [**Fréchet Inception Distance (FID)**](https://arxiv.org/abs/1706.08500) - 
+- [**Fréchet Gesture Distance (FGD)**](https://arxiv.org/abs/2009.02119) -
+- [**Fréchet Template Distance (FTD)**](https://arxiv.org/abs/2108.08020) - 
 
 | Full name                                                     | Description                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
