@@ -2,7 +2,7 @@
 
 **Continuing editing (Not finished yet)**
 
-The goal of project is focus only on Audio-driven Gesture Generation with output is 3D keypoints gesture.
+The goal of project is focus on Audio-driven Gesture Generation with output is 3D keypoints gesture.
 <br/>
 Input: Audio, Text, Gesture, ..etc. -> Output: Gesture Motion
 
@@ -84,7 +84,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [[paper]](<https://arxiv.org/abs/2208.10441>) ; [[homepage]](<https://youngwoo-yoon.github.io/GENEAchallenge2022/>) ; [[youtube]](<https://www.youtube.com/watch?v=4n02wXGGnd0>) ; [[web]](<https://www.ea.com/seed/news/genea-challenge-2022>)
 - The GENEA Challenge 2023: A large-scale evaluation of gesture [[paper]](<https://arxiv.org/pdf/2308.12646.pdf>)
 - GENEA Workshop 2021: The 2nd Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents [[paper]](<https://dl.acm.org/doi/10.1145/3462244.3480983>) ; [[homepage]](<https://genea-workshop.github.io/2021/>)
-- Evaluating gesture-generation in a large-scale open challenge \_ The GENEA Challenge 2022 [[paper]](<https://arxiv.org/pdf/2303.08737>)
+- Evaluating gesture-generation in a large-scale open challenge - The GENEA Challenge 2022 [[paper]](<https://arxiv.org/pdf/2303.08737>)
 
 <!-- ###################################################### SURVEYS  ###################################################### -->
 
@@ -240,6 +240,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - DiffuGesture: Generating Human Gesture From Two-person Dialogue With Diffusion Models [[paper]](https://openreview.net/pdf?id=swc28UDR8Wk)
 - The FineMotion entry to the GENEA Challenge 2023: DeepPhase for conversational gestures generation [[paper]](https://openreview.net/pdf?id=pVBKLqpAUtP)
 - Am I listening - Evaluating theQuality of Generated Data-driven Listening Motion [[paper]](https://pieterwolfert.com/files/icmi_2023.pdf)
+- Unified speech and gesture synthesis using flow matching [[paper]](https://arxiv.org/pdf/2310.05181.pdf) ; [[homepage]](https://shivammehta25.github.io/Match-TTSG/) ; 
 
 <!-- ************************* 2023 ************************* -->
 
