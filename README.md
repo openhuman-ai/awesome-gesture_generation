@@ -112,20 +112,20 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ##### GENEA Challenge 2023 [[Homepage]](<https://genea-workshop.github.io/2023/challenge/>)
 
-| Method (Team\*)              | Paper                                                                                                                                                                                                                  | Video | 🏆  |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
-| FineMotion                   | 【ICMI 2023】The FineMotion entry to the GENEA Challenge 2023: DeepPhase for conversational gestures generation [[paper]](<https://openreview.net/forum?id=pVBKLqpAUtP>)                                               |       |     |
-| Gesture Motion Graphs        | 【ICMI 2023】Gesture Motion Graphs for Few-Shot Speech-Driven Gesture Reenactment [[paper]](<https://openreview.net/forum?id=CMivR3x5fpC>)                                                                             |       |     |
-| Diffusion-based              | 【ICMI 2023】Diffusion-based co-speech gesture generation using joint text and audio representation [[paper]](<https://openreview.net/forum?id=vD3_u_kbkqS>)                                                           |       |     |
-| UEA Digital Humans           | 【ICMI 2023】The UEA Digital Humans entry to the GENEA Challenge 2023 [[paper]](<https://openreview.net/forum?id=bBrebR1YpXe>) ; [[JonathanPWindle/UEA-DH-GENEA23]](https://github.com/JonathanPWindle/uea-dh-genea23) |       |     |
-| FEIN-Z                       | 【ICMI 2023】FEIN-Z: Autoregressive Behavior Cloning for Speech-Driven Gesture Generation [[paper]](<https://openreview.net/forum?id=FovoQL3nygw>)                                                                     |       |     |
-| DiffuseStyleGesture+         | 【ICMI 2023】The DiffuseStyleGesture+ entry to the GENEA Challenge 2023 [[paper]](<https://openreview.net/forum?id=zrcgseqv0n2>)                                                                                       |       |     |
-| Discrete Diffusion           | 【ICMI 2023】Discrete Diffusion for Co-Speech Gesture Synthesis [[paper]](<https://openreview.net/forum?id=xPQcKA56N4j>)                                                                                               |       |     |
-| KCL-SAIR                     | 【ICMI 2023】The KCL-SAIR team's entry to the GENEA Challenge 2023 Exploring Role-based Gesture Generation in Dyadic Interactions: Listener vs. Speaker [[paper]](<https://openreview.net/forum?id=oW4rUGjbMYg>)       |       |     |
-| Gesture Generation           | 【ICMI 2023】Gesture Generation with Diffusion Models Aided by Speech Activity Information [[paper]](<https://openreview.net/forum?id=S9Efb3MoiZ>)                                                                     |       |     |
-| Co-Speech Gesture Generation | 【ICMI 2023】Co-Speech Gesture Generation via Audio and Text Feature Engineering [[paper]](<https://openreview.net/forum?id=mK2qMNf0_Nd>)                                                                              |       |     |
-| DiffuGesture                 | 【ICMI 2023】DiffuGesture: Generating Human Gesture From Two-person Dialogue With Diffusion Models [[paper]](<https://openreview.net/forum?id=swc28UDR8Wk>)                                                            |       |     |
-| KU-ISPL                      | 【ICMI 2023】The KU-ISPL entry to the GENEA Challenge 2023-A Diffusion Model for Co-speech Gesture generation [[paper]](<https://openreview.net/forum?id=Mm44wlJICIj>)                                                 |       |     |
+| Method (Team\*)              | Paper                                                                                                                                                                                                                  | Video                                                    | 🏆  |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --- |
+| FineMotion                   | 【ICMI 2023】The FineMotion entry to the GENEA Challenge 2023: DeepPhase for conversational gestures generation [[paper]](<https://openreview.net/forum?id=pVBKLqpAUtP>)                                               | [[youtube]](https://www.youtube.com/watch?v=rQ8beDwKFaQ) |     |
+| Gesture Motion Graphs        | 【ICMI 2023】Gesture Motion Graphs for Few-Shot Speech-Driven Gesture Reenactment [[paper]](<https://openreview.net/forum?id=CMivR3x5fpC>)                                                                             |                                                          |     |
+| Diffusion-based              | 【ICMI 2023】Diffusion-based co-speech gesture generation using joint text and audio representation [[paper]](<https://openreview.net/forum?id=vD3_u_kbkqS>)                                                           |                                                          |     |
+| UEA Digital Humans           | 【ICMI 2023】The UEA Digital Humans entry to the GENEA Challenge 2023 [[paper]](<https://openreview.net/forum?id=bBrebR1YpXe>) ; [[JonathanPWindle/UEA-DH-GENEA23]](https://github.com/JonathanPWindle/uea-dh-genea23) |                                                          |     |
+| FEIN-Z                       | 【ICMI 2023】FEIN-Z: Autoregressive Behavior Cloning for Speech-Driven Gesture Generation [[paper]](<https://openreview.net/forum?id=FovoQL3nygw>)                                                                     |                                                          |     |
+| DiffuseStyleGesture+         | 【ICMI 2023】The DiffuseStyleGesture+ entry to the GENEA Challenge 2023 [[paper]](<https://openreview.net/forum?id=zrcgseqv0n2>)                                                                                       |                                                          |     |
+| Discrete Diffusion           | 【ICMI 2023】Discrete Diffusion for Co-Speech Gesture Synthesis [[paper]](<https://openreview.net/forum?id=xPQcKA56N4j>)                                                                                               |                                                          |     |
+| KCL-SAIR                     | 【ICMI 2023】The KCL-SAIR team's entry to the GENEA Challenge 2023 Exploring Role-based Gesture Generation in Dyadic Interactions: Listener vs. Speaker [[paper]](<https://openreview.net/forum?id=oW4rUGjbMYg>)       |                                                          |     |
+| Gesture Generation           | 【ICMI 2023】Gesture Generation with Diffusion Models Aided by Speech Activity Information [[paper]](<https://openreview.net/forum?id=S9Efb3MoiZ>)                                                                     |                                                          |     |
+| Co-Speech Gesture Generation | 【ICMI 2023】Co-Speech Gesture Generation via Audio and Text Feature Engineering [[paper]](<https://openreview.net/forum?id=mK2qMNf0_Nd>)                                                                              | [[youtube]](https://www.youtube.com/watch?v=zRflfMZBFvc) |     |
+| DiffuGesture                 | 【ICMI 2023】DiffuGesture: Generating Human Gesture From Two-person Dialogue With Diffusion Models [[paper]](<https://openreview.net/forum?id=swc28UDR8Wk>)                                                            | [[youtube]](https://www.youtube.com/watch?v=pFpZceVLpck) |     |
+| KU-ISPL                      | 【ICMI 2023】The KU-ISPL entry to the GENEA Challenge 2023-A Diffusion Model for Co-speech Gesture generation [[paper]](<https://openreview.net/forum?id=Mm44wlJICIj>)                                                 |                                                          |     |
 
 ##### GENEA Workshop 2023 - ICMI 2023 Accepted papers [[Homepage]](<https://genea-workshop.github.io/2023/>)
 
@@ -516,9 +516,9 @@ This section is -- **not accurate** --> continue edditing
 
 ## <a name="learnobjective"> 5. Learning Objective
 
-- [**Fréchet Inception Distance (FID)**](https://arxiv.org/abs/1706.08500) - 
+- [**Fréchet Inception Distance (FID)**](https://arxiv.org/abs/1706.08500) -
 - [**Fréchet Gesture Distance (FGD)**](https://arxiv.org/abs/2009.02119) -
-- [**Fréchet Template Distance (FTD)**](https://arxiv.org/abs/2108.08020) - 
+- [**Fréchet Template Distance (FTD)**](https://arxiv.org/abs/2108.08020) -
 
 | Full name                                                     | Description                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -685,6 +685,10 @@ This section is -- **not accurate** --> continue edditing
 ## <a name="talks">9. Playlist & Talks</a>
 
 ### GENEA
+
+#### GENEA 2023 Playlist
+
+- [The GENEA Challenge 2023: A large scale evaluation of gesture generation models](https://www.youtube.com/watch?v=DXt1I_R7xU8)
 
 #### GENEA 2022 Playlist
 
