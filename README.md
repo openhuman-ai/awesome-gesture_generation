@@ -690,7 +690,7 @@ This section is -- **not accurate** --> continue edditing
 
 #### GENEA 2023 Playlist
 
-- [The GENEA Challenge 2023: A large scale evaluation of gesture generation models](https://www.youtube.com/watch?v=DXt1I_R7xU8)
+- [The GENEA Challenge 2022 Playlist](https://www.youtube.com/watch?v=DXt1I_R7xU8&list=PLaTrbkxf82xZS1eD1BxnnnsNcxI5sl3WD)
 
 #### GENEA 2022 Playlist
 
