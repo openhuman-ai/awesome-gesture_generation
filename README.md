@@ -101,6 +101,8 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - The Relation of Speech and Gestures: Temporal Synchrony Follows Semantic Synchrony [[paper]](<https://core.ac.uk/download/pdf/15945024.pdf>)
 - Complexity Matters E05: Complexity Matching and Synchronization between Gestures and Speech [[paper]](<https://www.youtube.com/watch?v=lMb-So8wKS8>)
 - Easier Said Than Done? Task Difficulty's Influence on Temporal Alignment, Semantic Similarity, and Complexity Matching Between Gestures and Speech [[paper]](<https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12989>)
+- Advances in Visual Semiotics - The Semiotic Web [[book]](https://books.google.com.vn/books?hl=en&lr=&id=PyH8BQr9VmcC&oi=fnd&pg=PR11&dq=David+McNeill.+1992.+Hand+and+Mind.+Advances+in+Visual+Semiotics+(1992),+351.&ots=W3Qou2m4kp&sig=_dhsTpK4iiJLVeJxwNV6jYq2L_c&redir_esc=y#v=onepage&q=David%20McNeill.%201992.%20Hand%20and%20Mind.%20Advances%20in%20Visual%20Semiotics%20(1992)%2C%20351.&f=false)
+- Gestural beats: The rhythm hypothesis [[paper]](https://link.springer.com/article/10.1007/BF02143175)
 
 <!-- ************************* GENEA Challenge ************************* -->
 
