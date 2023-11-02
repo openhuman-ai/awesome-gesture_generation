@@ -692,6 +692,10 @@ This section is -- **not accurate** --> continue edditing
 
 - [The GENEA Challenge 2022 Playlist](https://www.youtube.com/watch?v=DXt1I_R7xU8&list=PLaTrbkxf82xZS1eD1BxnnnsNcxI5sl3WD)
 
+<a href="https://www.youtube.com/watch?v=DXt1I_R7xU8&list=PLaTrbkxf82xZS1eD1BxnnnsNcxI5sl3WD">
+<img src="./img/genea_workshop_2023.png">
+</a>
+
 #### GENEA 2022 Playlist
 
 - [The GENEA Challenge 2022 Playlist](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq)
