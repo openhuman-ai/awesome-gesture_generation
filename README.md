@@ -26,6 +26,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - [2. Papers](#papers)
   - [Relation of speech and gesture](#fundamental)
   - [GENEA Challenge](#genea)
+  - [2024](#2024)
   - [2023](#2023)
   - [2022](#2022)
   - [2021](#2021)
@@ -109,6 +110,14 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 ### **<a name="genea">2.2 GENEA</a>**
 
 <!-- ************************* -->
+
+#### GENEA 2024
+
+##### GENEA Challenge 2024 [[Homepage]](<https://genea-workshop.github.io/2024/challenge/>)
+
+| Method (Team\*) | Paper | Video | 🏆  |
+| --------------- | ----- | ----- | --- |
+|                 |       |       |     |
 
 #### GENEA 2023
 
@@ -202,6 +211,15 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 <!-- ************************* GENEA Challenge ************************* -->
 
 ---
+
+<!-- ************************* 2023 ************************* -->
+
+### **<a name="2024">2024</a>**
+
+- 【CVPR 2024】 DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures [[paper]](<https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/papers/Hogue_DiffTED_One-shot_Audio-driven_TED_Talk_Video_Generation_with_Diffusion-based_Co-speech_CVPRW_2024_paper.pdf>)
+- 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [[paper]](<https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf>)
+- 【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [[paper]](<https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf>)
+- 【CVPR 2024】 Using Language-Aligned Gesture Embeddings for Understanding Gestures Accompanying Math Terms [[paper]](<https://openaccess.thecvf.com/content/CVPR2024W/MAR/papers/Maidment_Using_Language-Aligned_Gesture_Embeddings_for_Understanding_Gestures_Accompanying_Math_Terms_CVPRW_2024_paper.pdf>)
 
 <!-- ************************* 2023 ************************* -->
 
