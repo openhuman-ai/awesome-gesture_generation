@@ -221,6 +221,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - 【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [[paper]](<https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf>)
 - 【CVPR 2024】 Using Language-Aligned Gesture Embeddings for Understanding Gestures Accompanying Math Terms [[paper]](<https://openaccess.thecvf.com/content/CVPR2024W/MAR/papers/Maidment_Using_Language-Aligned_Gesture_Embeddings_for_Understanding_Gestures_Accompanying_Math_Terms_CVPRW_2024_paper.pdf>)
 - 【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [[paper]](https://pku-mocca.github.io/Semantic-Gesticulator-Page/) ; [[video]](https://www.youtube.com/watch?v=gKGqCE7id4U) ; [[LuMen-ze/Semantic-Gesticulator-Official]](https://github.com/LuMen-ze/Semantic-Gesticulator-Official)
+- SynTalker - Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation [[paper]](https://arxiv.org/abs/2410.00464) ; [[homepage]](https://robinwitch.github.io/SynTalker-Page/) ; [[video]](https://www.youtube.com/watch?v=hkCQLrLarxs) ; [[RobinWitch/SynTalker]](https://github.com/RobinWitch/SynTalker)
 
 <!-- ************************* 2023 ************************* -->
 
