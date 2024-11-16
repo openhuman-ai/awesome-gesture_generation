@@ -223,7 +223,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - 【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [[paper]](https://pku-mocca.github.io/Semantic-Gesticulator-Page/) ; [[video]](https://www.youtube.com/watch?v=gKGqCE7id4U) ; [[LuMen-ze/Semantic-Gesticulator-Official]](https://github.com/LuMen-ze/Semantic-Gesticulator-Official)
 - SynTalker - Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation [[paper]](https://arxiv.org/abs/2410.00464) ; [[homepage]](https://robinwitch.github.io/SynTalker-Page/) ; [[video]](https://www.youtube.com/watch?v=hkCQLrLarxs) ; [[RobinWitch/SynTalker]](https://github.com/RobinWitch/SynTalker)
 - MDT-A2G- Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation [[paper]](https://arxiv.org/abs/2408.03312)
-- 
+- 【ACM MM 2024】 MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion [[paper]](https://arxiv.org/abs/2407.19976) ; [[homepage]](https://fcchit.github.io/mambagesture/)
 
 <!-- ************************* 2023 ************************* -->
 
