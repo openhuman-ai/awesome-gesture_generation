@@ -224,7 +224,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - SynTalker - Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation [[paper]](https://arxiv.org/abs/2410.00464) ; [[homepage]](https://robinwitch.github.io/SynTalker-Page/) ; [[video]](https://www.youtube.com/watch?v=hkCQLrLarxs) ; [[RobinWitch/SynTalker]](https://github.com/RobinWitch/SynTalker)
 - MDT-A2G- Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation [[paper]](https://arxiv.org/abs/2408.03312) ; [[homepage]](https://xiaofenmao.github.io/web-project/MDT-A2G/)
 - 【ACM MM 2024】 MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion [[paper]](https://arxiv.org/abs/2407.19976) ; [[homepage]](https://fcchit.github.io/mambagesture/)
-- 【ICMI 2024】Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness [[paper]](https://openreview.net/pdf?id=Iso5lbByDI)
+- 【ICMI 2024】Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness [[paper]](https://openreview.net/pdf?id=Iso5lbByDI) ; [[AI-Unicamp/gesture-area-coverage]](https://github.com/AI-Unicamp/gesture-area-coverage)
 
 <!-- ************************* 2023 ************************* -->
 
