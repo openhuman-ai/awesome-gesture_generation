@@ -113,11 +113,11 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 #### GENEA 2024
 
-##### GENEA Challenge 2024 [[Homepage]](<https://genea-workshop.github.io/2024/challenge/>)
+##### GENEA Workshop 2024 - ICMI 2024 Accepted papers [[Homepage]](<https://genea-workshop.github.io/2024/>)
 
-| Method (Team\*) | Paper | Video | 🏆  |
-| --------------- | ----- | ----- | --- |
-|                 |       |       |     |
+| Paper                                                                     | 🏆  |
+| ------------------------------------------------------------------------- | --- |
+| Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness | 🏆  |
 
 #### GENEA 2023
 
@@ -127,10 +127,10 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --- |
 | FineMotion                   | 【ICMI 2023】The FineMotion entry to the GENEA Challenge 2023: DeepPhase for conversational gestures generation [[paper]](<https://openreview.net/forum?id=pVBKLqpAUtP>)                                               | [[youtube]](https://www.youtube.com/watch?v=rQ8beDwKFaQ) |     |
 | Gesture Motion Graphs        | 【ICMI 2023】Gesture Motion Graphs for Few-Shot Speech-Driven Gesture Reenactment [[paper]](<https://openreview.net/forum?id=CMivR3x5fpC>)                                                                             | [[youtube]](https://www.youtube.com/watch?v=OFeYOJ6d4d0) |     |
-| Diffusion-based              | 【ICMI 2023】(SG) Diffusion-based co-speech gesture generation using joint text and audio representation [[paper]](<https://openreview.net/forum?id=vD3_u_kbkqS>)                                                           | [[youtube]](https://www.youtube.com/watch?v=2ycIAWzOd1E) | ⭐  |
+| Diffusion-based              | 【ICMI 2023】(SG) Diffusion-based co-speech gesture generation using joint text and audio representation [[paper]](<https://openreview.net/forum?id=vD3_u_kbkqS>)                                                      | [[youtube]](https://www.youtube.com/watch?v=2ycIAWzOd1E) | ⭐  |
 | UEA Digital Humans           | 【ICMI 2023】The UEA Digital Humans entry to the GENEA Challenge 2023 [[paper]](<https://openreview.net/forum?id=bBrebR1YpXe>) ; [[JonathanPWindle/UEA-DH-GENEA23]](https://github.com/JonathanPWindle/uea-dh-genea23) | [[youtube]](https://www.youtube.com/watch?v=u6LXN7ka674) |     |
 | FEIN-Z                       | 【ICMI 2023】FEIN-Z: Autoregressive Behavior Cloning for Speech-Driven Gesture Generation [[paper]](<https://openreview.net/forum?id=FovoQL3nygw>)                                                                     | [[youtube]](https://www.youtube.com/watch?v=5lur1pDNnvM) |     |
-| DiffuseStyleGesture+         | 【ICMI 2023】(SF) The DiffuseStyleGesture+ entry to the GENEA Challenge 2023 [[paper]](<https://openreview.net/forum?id=zrcgseqv0n2>)                                                                                       | [[youtube]](https://www.youtube.com/watch?v=PNKpvTgfh9Q) | 🏆  |
+| DiffuseStyleGesture+         | 【ICMI 2023】(SF) The DiffuseStyleGesture+ entry to the GENEA Challenge 2023 [[paper]](<https://openreview.net/forum?id=zrcgseqv0n2>)                                                                                  | [[youtube]](https://www.youtube.com/watch?v=PNKpvTgfh9Q) | 🏆  |
 | Discrete Diffusion           | 【ICMI 2023】Discrete Diffusion for Co-Speech Gesture Synthesis [[paper]](<https://openreview.net/forum?id=xPQcKA56N4j>)                                                                                               | [[youtube]](https://www.youtube.com/watch?v=JgQdpZ2qCzk) |     |
 | KCL-SAIR                     | 【ICMI 2023】The KCL-SAIR team's entry to the GENEA Challenge 2023 Exploring Role-based Gesture Generation in Dyadic Interactions: Listener vs. Speaker [[paper]](<https://openreview.net/forum?id=oW4rUGjbMYg>)       | [[youtube]](https://www.youtube.com/watch?v=FT1ePpvpYso) |     |
 | Gesture Generation           | 【ICMI 2023】Gesture Generation with Diffusion Models Aided by Speech Activity Information [[paper]](<https://openreview.net/forum?id=S9Efb3MoiZ>)                                                                     | [[youtube]](https://www.youtube.com/watch?v=7_I8rT7pXWo) |     |
@@ -224,6 +224,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 - SynTalker - Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation [[paper]](https://arxiv.org/abs/2410.00464) ; [[homepage]](https://robinwitch.github.io/SynTalker-Page/) ; [[video]](https://www.youtube.com/watch?v=hkCQLrLarxs) ; [[RobinWitch/SynTalker]](https://github.com/RobinWitch/SynTalker)
 - MDT-A2G- Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation [[paper]](https://arxiv.org/abs/2408.03312) ; [[homepage]](https://xiaofenmao.github.io/web-project/MDT-A2G/)
 - 【ACM MM 2024】 MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion [[paper]](https://arxiv.org/abs/2407.19976) ; [[homepage]](https://fcchit.github.io/mambagesture/)
+- 【ICMI 2024】Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness [[paper]](https://openreview.net/pdf?id=Iso5lbByDI)
 
 <!-- ************************* 2023 ************************* -->
 
